@@ -15,7 +15,7 @@ allowing Stakeholders to make informed decisions
 <table>
   <tr>
     <td>
-      <a href="https://MRLintern.github.io/">🌐</a
+      <a href="https://MRLintern.github.io/">🌐</a>
     </td>
   </tr>
 </table>
@@ -34,7 +34,7 @@ allowing Stakeholders to make informed decisions
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://commons.wikimedia.org/wiki/File:Fortran_logo.svg" width="40" height="40"/></a>
-      <a href=""<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/></a>
      </td>
   </tr>
   <tr>
@@ -62,13 +62,13 @@ allowing Stakeholders to make informed decisions
     <td>Databases</td>
     <td>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-      <a href=""<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
     <td><Other></td>
     <td>
-      <a href=""><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/cmake/cmake-ar21.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" width="40" height="40"/></a>

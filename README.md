@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Matthew Lintern-Monro, but I go by Matt
 
-<!--
+
 
 I'm a Data Scientist with experience working in Scientific Computing, but looking to move into Data and Cloud Engineering.
 My past experience includes working in the Oil & Gas Industry and Retail Sector (HR Analytics), utilising a wide range of technologies,
@@ -106,11 +106,4 @@ allowing Stakeholders to make informed decisions
 
   
     
-    
-
-
-
-
-
-
--->
+ 

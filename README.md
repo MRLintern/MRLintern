@@ -6,7 +6,7 @@ allowing Stakeholders to make informed decisions.
 
 <br/>
 
-- 🔭 I’m currently working on: __Data Engineering and tinkering with High Performance Computing with applications from Applied Maths and the Physical Sciences__.
+- 🔭 I’m currently working on: __Data Engineering and tinkering with High Performance Computing with applications to Applied Maths and the Physical Sciences__.
 - 🌱 I’m currently learning: __Data Engineering, Cloud Engineering and DevOps__.
 - 🤔 I’m looking for help with and advice on: __Entering the Cloud Engineering world__.
 

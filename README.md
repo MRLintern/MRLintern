@@ -15,7 +15,6 @@ allowing Stakeholders to make informed decisions.
 ### Social Media:
 
 * <a href="https://www.linkedin.com/in/matthew-lintern-monro-585592159/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-* <a href="https://github.com/MRLintern/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/></a>
 * <lintern121184@gmail.com>
 * T - 07813661626
   

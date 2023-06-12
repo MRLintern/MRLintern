@@ -4,11 +4,11 @@
 
 I'm a Data Scientist with experience working in Scientific Computing, but looking to move into Data and Cloud Engineering.
 My past experience includes working in the Oil & Gas Industry and Retail Sector (HR Analytics), utilising a wide range of technologies,
-allowing Stakeholders to make informed decisions
+allowing Stakeholders to make informed decisions.
 
-- 🔭 I’m currently working on: __Data Engineering and tinkering with High Performance Computing with applications from Applied Maths and the Physical Sciences__
-- 🌱 I’m currently learning: __Data Engineering, Cloud Engineering and DevOps__
-- 🤔 I’m looking for help with and advice on: __Entering the Cloud Engineering world__
+- 🔭 I’m currently working on: __Data Engineering and tinkering with High Performance Computing with applications from Applied Maths and the Physical Sciences__.
+- 🌱 I’m currently learning: __Data Engineering, Cloud Engineering and DevOps__.
+- 🤔 I’m looking for help with and advice on: __Entering the Cloud Engineering world__.
 
 <br/>
 

@@ -12,14 +12,6 @@ allowing Stakeholders to make informed decisions
 
 <br/>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://MRLintern.github.io/">🌐</a>
-    </td>
-  </tr>
-</table>
-
 ### Contact Me:
 
 <a href="https://www.linkedin.com/in/matthew-lintern-monro-585592159/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
@@ -33,7 +25,6 @@ allowing Stakeholders to make informed decisions
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40" height="40"/></a>
-      <a href=""><img src="https://commons.wikimedia.org/wiki/File:Fortran_logo.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/></a>
      </td>
   </tr>
@@ -48,7 +39,7 @@ allowing Stakeholders to make informed decisions
     <td>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
-      <a href=""<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
@@ -62,11 +53,11 @@ allowing Stakeholders to make informed decisions
     <td>Databases</td>
     <td>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
-    <td><Other></td>
+    <td>Other</td>
     <td>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/></a>

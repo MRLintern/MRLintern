@@ -24,6 +24,8 @@ allowing Stakeholders to make informed decisions.
 * University of Aberdeen: MSc Geophysics: 2014 - 2015.
 * University of Liverpool: BSc (hons) Geophysics (Physics): 2009 - 2012
 
+<br/>
+
 ### Tools and Technologies
 
 <table>

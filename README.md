@@ -7,8 +7,8 @@ allowing Stakeholders to make informed decisions.
 <br/>
 
 - 🔭 I’m currently working on: __Data Engineering and tinkering with High Performance Computing with applications to Applied Maths and the Physical Sciences__.
-- 🌱 I’m currently learning: __Data Engineering, Cloud Engineering and DevOps__.
-- 🤔 I’m looking for help and advice on: __Entering the Cloud and Data Engineering world__.
+- 🌱 I’m currently learning: __Data Engineering, Cloud Engineering, DevOps, High Performance Computing with Fortran, C, Modern C++ and Python__.
+
 
 <br/>
 
@@ -17,7 +17,13 @@ allowing Stakeholders to make informed decisions.
 * <a href="https://www.linkedin.com/in/matthew-lintern-monro-585592159/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 * <lintern121184@gmail.com>
 * T - 07813661626
-  
+### Education
+
+<br/>
+* University of Edinburgh: MSc High Performance Computing (Online Part-time): 09/2020 - Present.
+* University of Aberdeen: MSc Geophysics: 2014 - 2015.
+* University of Liverpool: BSc (hons) Geophysics (Physics): 2009 - 2012
+
 ### Tools and Technologies
 
 <table>

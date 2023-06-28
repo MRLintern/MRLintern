@@ -9,7 +9,6 @@ allowing Stakeholders to make informed decisions.
 - 🔭 I’m currently working on: __Data Engineering and tinkering with High Performance Computing with applications to Applied Maths and the Physical Sciences__.
 - 🌱 I’m currently learning: __Data Engineering, Cloud Engineering, DevOps, High Performance Computing with Fortran, C, Modern C++ and Python__.
 
-
 <br/>
 
 ### Contact Me:
@@ -17,6 +16,14 @@ allowing Stakeholders to make informed decisions.
 * <a href="https://www.linkedin.com/in/matthew-lintern-monro-585592159/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 * <lintern121184@gmail.com>
 * T - 07813661626
+
+### Employment History (Technical)
+
+* **Sword Group**: September 2019 - November 2019: **Geo-Data Scientist**.
+* **Tesco CEC**: July 2018 - September 2019: **Performance Insight Analyst**.
+* **Schlumberger**: November 2013 - November 2014: **Geophysicist & Data Scientist**.
+* **Halliburton**: November 2012 - November 2014: **Seismic Data Scientist**.
+
 ### Education
 
 

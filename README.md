@@ -20,9 +20,14 @@ allowing Stakeholders to make informed decisions.
 ### Education
 
 
-   * University of Edinburgh: MSc High Performance Computing (Online Part-time): 09/2020 - Present.
-   * University of Aberdeen: MSc Geophysics: 2014 - 2015.
-   * University of Liverpool: BSc (hons) Geophysics (Physics): 2009 - 2012
+   * **University of Edinburgh**: 09/2020 - Present
+     MSc High Performance Computing (Online Part-time).
+     
+   * **University of Aberdeen**: 2014 - 2015
+     MSc Geophysics.
+     
+   * **University of Liverpool**: 2009 - 2012
+     BSc (hons) Geophysics (Physics).
 
 
 

@@ -20,8 +20,11 @@ allowing Stakeholders to make informed decisions.
 ### Employment History (Technical)
 
 * **Sword Group**: September 2019 - November 2019: **Geo-Data Scientist**.
+  
 * **Tesco CEC**: July 2018 - September 2019: **Performance Insight Analyst**.
+  
 * **Schlumberger**: November 2013 - November 2014: **Geophysicist & Data Scientist**.
+  
 * **Halliburton**: November 2012 - November 2014: **Seismic Data Scientist**.
 
 ### Education

@@ -118,6 +118,9 @@ rates for Tesco and reduce the financial loss.
     </tr>
 </table>
 
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRLintern&layout=compact&langs_count=7&theme=dracula"/> 
+<img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MRLintern&layout=compact&langs_count=7&theme=dracula"/>
+
 
 
                                                                                                                                                                                                                                           

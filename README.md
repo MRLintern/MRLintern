@@ -101,13 +101,7 @@ rates for Tesco and reduce the financial loss.
 
 ### My GitHub Stats
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRLintern&layout=compact&langs_count=7&theme=tokyonight"/> 
-<tr>
-         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRLintern&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-        </td>
-    </tr>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRLintern&layout=compact&langs_count=7&theme=tokyonight"/> 
 
 <table>
     <tr>

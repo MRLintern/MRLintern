@@ -8,7 +8,7 @@ rates for Tesco and reduce the financial loss.
 
 <br/>
 
-- 🔭 I’m currently working on: __Data Engineering and tinkering with High Performance Computing with applications to Applied Maths and the Physical Sciences__.
+- 🔭 I’m currently working on: __Data/Cloud Engineering and tinkering with High Performance Computing with applications to Applied Maths and the Physical Sciences__.
 - 🌱 I’m currently learning: __Data Engineering, Cloud Engineering, DevOps, High Performance Computing with Fortran, C, Modern C++ and Python__.
 
 <br/>

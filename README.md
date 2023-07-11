@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Matthew Lintern-Monro, but I go by Matt
+### Hello 👋, I'm Matthew Lintern-Monro, but I go by Matt
 
-I'm a Data Scientist with experience working in Scientific Computing and BI/HR Analytics.
+I'm a Data Technologist with experience of working in Scientific Computing and Data Science.
 My past experience includes working in the Oil & Gas Industry and Retail Sector (BI & HR Analytics), utilising a wide range of technologies,
 allowing Stakeholders to make informed decisions. My experience in these industries has seen me work on a wide range of projects. For example, from
 developing shell scripts to load, process and unload large Seismic data sets, to using Machine Learning Algorithms to try and understand employee absence

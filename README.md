@@ -9,7 +9,7 @@ rates for Tesco and reduce the financial loss.
 <br/>
 
 - 🔭 I’m currently working on:
-  __Data/Cloud Engineering and DevOps Projects__.
+  __Data Science, Data/Cloud Engineering and DevOps Projects__.
 - 🌱 I’m currently learning: __Data Engineering, Cloud Engineering and DevOps. However, I still like to tinker around with Scientific Computing using Fortran, C and Modern C++__.
 
 <br/>

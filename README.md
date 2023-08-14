@@ -8,7 +8,7 @@ rates for Tesco and reduce the financial loss.
 
 <br/>
 
-- 🔭 I’m interested in: __Data Science, Data & Cloud Engineering, DevOps, High Performance Scientific Computing.__
+- 🔭 I’m interested in: __Data Science, Data & Cloud Engineering, DevOps and (High Performance) Scientific Computing.__
 - 🌱 I’m currently working on:
 
     - __Seismic-Image-Classification_Sediment-or-Salt__: Application of Neural Networks to Determine whether a Seismic Image shows Sedimentary Layers or Salt Deposits.

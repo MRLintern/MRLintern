@@ -8,10 +8,8 @@ rates for Tesco and reduce the financial loss.
 
 <br/>
 
-- 🔭 I’m currently working on:
-  __Data Science, Data/Cloud Engineering and DevOps Projects__.
-- 🌱 I’m currently learning: __Data Engineering, Cloud Engineering and DevOps. However, I still like to tinker around with Scientific Computing using Fortran, C and Modern C++__.
-
+- 🔭 I’m interested in: __Data Science, Data & Cloud Engineering, DevOps, High Performance Computing and Numerical/Scientific Computing.__
+- 🌱 I’m currently working on: __Image Classification and Compiler & Interpreter Design.__
 <br/>
 
 ### Contact Me:
@@ -89,7 +87,6 @@ rates for Tesco and reduce the financial loss.
     <td>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/></a>
-      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
     </td>

@@ -10,7 +10,7 @@ rates for Tesco and reduce the financial loss.
 
 - 🔭 I’m interested in: __Data Science, Data & Cloud Engineering, DevOps, High Performance Computing and Numerical/Scientific Computing.__
 - 🌱 I’m currently working on:
-    * __Image Classification and Compiler & Interpreter Design.__
+    - __Image Classification and Compiler & Interpreter Design.__
 <br/>
 
 ### Contact Me:

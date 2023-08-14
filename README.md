@@ -10,7 +10,7 @@ rates for Tesco and reduce the financial loss.
 
 - 🔭 I’m interested in: __Data Science, Data & Cloud Engineering, DevOps, High Performance Computing and Numerical/Scientific Computing.__
 - 🌱 I’m currently working on:
-    - __Seismic-Image-Classification_Sediment-or-Salt.__: Application of Neural Networks to Determine whether a Seismic Image shows Sedimentary Layers or Salt Deposits.
+    - __Seismic-Image-Classification_Sediment-or-Salt__: Application of Neural Networks to Determine whether a Seismic Image shows Sedimentary Layers or Salt Deposits.
     - __Deep-Go__: Application of Neural Networks to develop a Go A.I. Bot.
 <br/>
 

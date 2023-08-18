@@ -90,7 +90,6 @@ rates for Tesco and reduce the financial loss.
     <td>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/></a>
-      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
     </td>
   </tr>

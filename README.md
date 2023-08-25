@@ -22,7 +22,7 @@ rates for Tesco and reduce the financial loss.
 * <lintern121184@gmail.com>
 * T - 07813661626
 
-### Employment History (Technical)
+### Employment History (Technical Positions Only)
 
 * **Sword Group**: September 2019 - November 2019: **Geo-Data Scientist**.
   

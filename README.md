@@ -12,7 +12,7 @@ rates for Tesco and reduce the financial loss.
 - 🌱 I’m currently working on:
   
     - __Deep-Go__: Application of Neural Networks to develop a Go A.I. Bot.
-    - __NavierStokes-2D-ChanelFlow__: Needs looking at again; problems with saving output data; to be fixed ASAP.
+    - __NavierStokes-2D-ChanelFlow__: Needs looking at again; problems with saving output data. 
 
 
 

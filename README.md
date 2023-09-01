@@ -12,7 +12,9 @@ rates for Tesco and reduce the financial loss.
 - 🌱 I’m currently working on:
   
     - **C++_Data_Structures_and_Algorithms**: Looking at the fundamentals of Computer Science instead of Scientific Computing for a change. 
-    - __NavierStokes-2D-ChanelFlow__: Needs looking at again; problems with saving output data. 
+    - __NavierStokes-2D-ChanelFlow__: Needs looking at again; problems with saving output data.
+
+  - Note: The Deep-Go project is currently on hold while I look at fixing the **NavierStokes-2D-ChanelFlow** Data issues and developing a solid understanding of Data Structures and Algorithms in C++.
 
 
 

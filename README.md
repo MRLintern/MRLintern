@@ -11,7 +11,7 @@ rates for Tesco and reduce the financial loss.
 - 🔭 I’m interested in: __Data Science, Data & Cloud Engineering, DevOps and (High Performance) Scientific Computing.__
 - 🌱 I’m currently working on:
   
-    - __C++ Data_Structures_and_Algorithms__: Looking the fundamentals of Computer Science instead of Scientific Computing for a change. 
+    - **C++ Data_Structures_and_Algorithms**: Looking the fundamentals of Computer Science instead of Scientific Computing for a change. 
     - __NavierStokes-2D-ChanelFlow__: Needs looking at again; problems with saving output data. 
 
 

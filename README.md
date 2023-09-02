@@ -15,7 +15,7 @@ rates for Tesco and reduce the financial loss.
     - __NavierStokes-2D-ChanelFlow__: Needs looking at again; problems with saving output data.
     - **TODO**: Will be looking at applying the techniques from the **Clothing-Image-Classifier** project to classify images of Salt and Sediment structures; inspired by my time working as a Geophysicist in the Oil & Gas Industry.
 
-  - **Note**: The **Deep-Go** project is currently on hold while I look at fixing the **NavierStokes-2D-ChanelFlow** Data issues and developing a solid understanding of Data Structures and Algorithms in C++.
+  - **Note**: The **Deep-Go** project is currently on hold while I look at fixing the **NavierStokes-2D-ChanelFlow** Data issues and developing a solid understanding of **Data Structures and Algorithms in C++**.
 
 
 

@@ -11,7 +11,7 @@ rates for Tesco and reduce the financial loss.
 - 🔭 I’m interested in: __Data Science, Machine Learning, DevOps and (High Performance) Scientific Computing.__
 - 🌱 I’m currently working on:
   
-    - **Data_Structures_and_Algorithms**: Looking at the fundamentals of Computer Science instead of Scientific Computing for a change. Looking at C++ and C. 
+    - **Data_Structures_and_Algorithms**: Looking at the fundamentals of Computer Science instead of Scientific Computing for a change. Looking at C++ and C. I'll probably add Python to the list too.
     - __TODO: NavierStokes-2D-ChannelFlow__: Needs looking at again; problems with saving output data.
     - **TODO**: Will be looking at applying the techniques from the **Clothing-Image-Classifier** project to classify images of Salt and Sediment structures; inspired by my time working as a Geophysicist in the Oil & Gas Industry.
   

@@ -13,7 +13,7 @@ rates for Tesco and reduce the financial loss.
   
     - **Data_Structures_and_Algorithms**: Learning the Essential Topic of Algorithms & Data Structures using C++.
     - __TODO: NavierStokes-2D-ChannelFlow__: Needs looking at again; problems with saving output data.
-    - **TODO**: Will be looking at applying the techniques from the **Clothing-Image-Classifier** project to classify images of Salt and Sediment structures; inspired by my time working as a Geophysicist in the Oil & Gas Industry.
+  
   
 
 ### Contact Me:

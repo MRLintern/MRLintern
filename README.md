@@ -12,7 +12,7 @@ rates for Tesco and reduce the £2million financial loss.
 - 🌱 I’m currently working on:
   
     - **Data_Structures_and_Algorithms**: Learning the Essential Topic of Algorithms & Data Structures using C++.
-    - __TODO: NavierStokes-2D-ChannelFlow__: Needs looking at again; problems with saving output data.
+    - __TODO: NavierStokes-2D-ChannelFlow__: Problems with saving results to file.
   
   
 

@@ -8,7 +8,7 @@ rates for Tesco and reduce the £2million financial loss.
 
 <br/>
 
-- 🔭 I’m interested in: __Data Science, Machine Learning, Linux Stuff, Cloud Computing and (High Performance) Scientific Computing.__
+- 🔭 I’m interested in: __Data Science, Machine Learning, Data Engineering, Linux Stuff, Cloud Computing and (High Performance) Scientific Computing.__
 - 🌱 I’m currently working on:
   
     - **Data_Structures_and_Algorithms**: Learning the Essential Topic of Algorithms & Data Structures using C++.

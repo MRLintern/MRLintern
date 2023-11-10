@@ -11,8 +11,8 @@ rates for Tesco and reduce the £2million financial loss.
 - 🔭 I’m interested in: __Data Science, Machine Learning, Data Engineering, Linux Stuff, Cloud Computing and (High Performance) Scientific Computing.__
 - 🌱 I’m currently working on:
   
-    - **Data_Structures_and_Algorithms**: Learning the Essential Topic of Algorithms & Data Structures using C++.
-    - __TODO: NavierStokes-2D-ChannelFlow__: Problems with saving results to file.
+    - **OpenFoam & Ansys**: Developing knowledge in the Essential Topics.
+    - **Navier-Stokes 2D Channel Flow Solver**: Refactoring the code for Parallel Programming with OpenMP or MPI.
   
   
 

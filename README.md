@@ -6,7 +6,7 @@ allowing Stakeholders to make informed business decisions. My experience in thes
 developing shell scripts to load, process and unload large Seismic data sets, to using Machine Learning to try and understand employee absence
 rates for Tesco and reduce the £2million financial loss. 
 
-Note: Quite a few of my repositories include lengthy chats on topics that many others might call basic.
+Note: Quite a few of my repositories include lengthy chats on topics that others might call basic.
 This is deliberate. Over the years I have found other peoples' README files simply rubbish. There's no depth to the project and a lack of commentary leaves
 people lost. I want people who are interested in my work to enjoy using it as easily as possible. If you want to suggest improvements to any code or chat about
 something in particular, just send me an email.

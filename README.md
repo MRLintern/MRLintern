@@ -12,7 +12,7 @@ rates for Tesco and reduce the £2million financial loss.
 - 🌱 I’m currently working on:
   
     - **OpenFoam & Ansys**: Developing knowledge in the Essential Topics.
-    - **Navier-Stokes 2D Channel Flow Solver**: Refactoring the code for Parallel Programming with OpenMP or MPI.
+    - **Navier-Stokes 2D Channel Flow Solver**: Refactoring code for Parallel Programming with OpenMP or MPI.
   
   
 

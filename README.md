@@ -4,7 +4,9 @@ I'm a Technologist with experience of working in Scientific Computing and Data S
 My past experience includes working in the Oil & Gas Industry and Retail Sector (BI & HR Analytics), utilising a wide range of technologies,
 allowing Stakeholders to make informed business decisions. My experience in these industries has seen me work on a wide range of projects. For example, from
 developing shell scripts to load, process and unload large Seismic data sets, to using Machine Learning to try and understand employee absence
-rates for Tesco and reduce the £2million financial loss.
+rates for Tesco and reduce the £2million financial loss. Note: Quite a few of my repositories include lengthy chats on topics that many others might call basic.
+This is deliberate. Over the years I have found other peoples' README.md files simply rubbish. There's no depth to the project and a lack of commentary leaves
+people lost. Good commentary is paramount in Software Engineering! Rant over.  
 
 <br/>
 

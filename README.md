@@ -11,7 +11,7 @@ It would be great to hear about improvements to my code or possible collaboratio
 
 <br/>
 
-- 🔭 I’m interested in: Linux Stuff, Cloud Computing and (High Performance) Scientific Computing.__
+- 🔭 I’m interested in: **Linux Engineering/Administration**, **Cloud Computing (AWS DevOps & Architecture)**, **(High Performance) Scientific Computing** and **Numerical Analysis (Linear Algebra & ODE/PDEs)**.
 - 🌱 I’m currently working on:
 
     - **2D Heat Equation**: Implementing OOP and Parallel Programming with the **MPI API**.

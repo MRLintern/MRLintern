@@ -18,16 +18,16 @@ It would be great to hear about improvements to my code or possible collaboratio
 
 - Stuff I love:
 
-    - C.
-    - Modern C++.
-    - Fortran.
-    - MATLAB.
-    - Bash Scripting.
-    - Parallel Programming with OpenMP & MPI.
-    - Heterogeneous Programming: Really trying to learn more about the SYCL Programming Model.
-    - Linux: At some point I want to develop a Multithread Linux Kernel.
-    - Scientific Programming: Modelling and Simulation of problems in Fluid Dynamics & Geophysics.
-    - Numerical Linear Algebra, Ordinary Differential & Partial Differential Equations.
+    - __C__.
+    - __Modern C++__.
+    - __Fortran__.
+    - __MATLAB__.
+    - __Bash Scripting__.
+    - __Parallel Programming__ with __OpenMP__ & __MPI__.
+    - __Heterogeneous Programming__: Really trying to learn more about the __SYCL Programming Model__.
+    - __Linux__: At some point I want to develop a __Multithread Linux Kernel__.
+    - __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & __Geophysics__.
+    - __Numerical Linear Algebra__, __Ordinary Differential__ & __Partial Differential Equations__.
   
   
 

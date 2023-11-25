@@ -13,8 +13,7 @@ It would be great to hear about improvements to my code or possible collaboratio
 
 - 🔭 I’m interested in: __Data Science, Machine Learning, Data Engineering, Linux Stuff, Cloud Computing and (High Performance) Scientific Computing.__
 - 🌱 I’m currently working on:
-  
-    - **OpenFoam & Ansys**: Developing knowledge in the Essential Topics.
+
     - **Navier-Stokes 2D Channel Flow Solver**: Refactoring code for Parallel Programming with OpenMP or MPI.
   
   

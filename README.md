@@ -27,7 +27,7 @@ It would be great to hear about suggestive improvements to my code or possible c
     - __Heterogeneous Programming__: Really trying to learn more about the __SYCL Programming Model__.
     - __Linux__: At some point I want to develop a __Multithread Linux Kernel__.
     - __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & __Geophysics__.
-    - __Numerical Linear Algebra__, __Numerical Ordinary Differential__ & __Numerical Partial Differential Equations__.
+    - __Numerical Linear Algebra__, __Numerical Ordinary Differential Equations__ & __Numerical Partial Differential Equations__.
   
   
 

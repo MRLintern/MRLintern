@@ -21,6 +21,7 @@ It would be great to hear about suggestive improvements to my code or possible c
     - __Modern C++__.
     - __Fortran__.
     - __MATLAB__.
+    - __Data Structures & Algorithms__: People think these things are used to pass a coding interview. Well yes, they are. However, who doesn't want __faster__ & __optimized__ code!
     - __Bash Scripting__.
     - __High Performance Computing__: Nothing in particular, it's just an amazing field of work.
     - __Parallel Programming__ with __OpenMP__ & __MPI__.

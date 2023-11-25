@@ -14,7 +14,7 @@ It would be great to hear about suggestive improvements to my code or possible c
 - 🔭 I’m interested in: **Linux Engineering/Administration**, **Cloud Computing (AWS DevOps & Architecture)**, **(High Performance) Scientific Computing** and **Numerical Analysis (Linear Algebra & ODE/PDEs)**.
 - 🌱 I’m currently working on:
 
-    - **2D Heat Equation**: Implementing OOP and Parallel Programming with the **MPI API** in Fortran.
+    - **2D Heat Equation**: Implementing OOP and Parallel Programming with the **MPI API** in **Fortran**.
 
 - Stuff I love:
 

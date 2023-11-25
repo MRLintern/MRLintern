@@ -23,6 +23,7 @@ It would be great to hear about suggestive improvements to my code or possible c
     - __Fortran__.
     - __MATLAB__.
     - __Bash Scripting__.
+    - __High Performance Computing__: Nothing in particular, it's just an amazing field of work.
     - __Parallel Programming__ with __OpenMP__ & __MPI__.
     - __Heterogeneous Programming__: Really trying to learn more about the __SYCL Programming Model__.
     - __Linux__: At some point I want to develop a __Multithread Linux Kernel__.

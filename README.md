@@ -50,7 +50,7 @@ It would be great to hear about improvements to my code or possible collaboratio
 ### Education
 
 
-   * **University of Edinburgh**: 09/2020 - Present: 
+   * **University of Edinburgh**: 09/2021 - Present: 
      **MSc High Performance Computing (Online Part-time)**.
      
    * **University of Aberdeen**: 2014 - 2015: 

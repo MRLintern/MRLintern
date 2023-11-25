@@ -11,7 +11,6 @@ It would be great to hear about suggestive improvements to my code or possible c
 
 <br/>
 
-- 🔭 I’m interested in: **Linux Engineering/Administration**, **Cloud Computing (AWS DevOps & Architecture)**, **(High Performance) Scientific Computing** and **Numerical Analysis (Linear Algebra & ODE/PDEs)**.
 - 🌱 I’m currently working on:
 
     - **2D Heat Equation**: Implementing OOP and Parallel Programming with the **MPI API** in **Fortran**.
@@ -29,6 +28,7 @@ It would be great to hear about suggestive improvements to my code or possible c
     - __Linux__: At some point I want to develop a __Multithread Linux Kernel__.
     - __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & __Geophysics__.
     - __Numerical Linear Algebra__, __Numerical Ordinary Differential Equations__ & __Numerical Partial Differential Equations__.
+    - __Cloud Computing__: Looking at getting the __AWS Certifications__ in __DevOps__ & __Solutions Architect__.
   
   
 

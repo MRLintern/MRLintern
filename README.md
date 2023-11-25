@@ -15,6 +15,19 @@ It would be great to hear about improvements to my code or possible collaboratio
 - 🌱 I’m currently working on:
 
     - **2D Heat Equation**: Implementing OOP and Parallel Programming with the **MPI API**.
+
+- Stuff I love:
+
+    - C.
+    - Modern C++.
+    - Fortran.
+    - MATLAB.
+    - Bash Scripting.
+    - Parallel Programming with OpenMP & MPI.
+    - Heterogeneous Programming: Really trying to learn more about the SYCL Programming Model.
+    - Linux: At some point I want to develop a Multithread Linux Kernel.
+    - Scientific Programming: Modelling and Simulation of problems in Fluid Dynamics & Geophysics.
+    - Numerical Linear Algebra, Ordinary Differential & Partial Differential Equations.
   
   
 

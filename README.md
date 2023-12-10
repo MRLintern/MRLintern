@@ -13,7 +13,7 @@ It would be great to hear about suggestive improvements to my code or possible c
 
 - 🌱 I’m currently working on:
 
-    - **2D Heat Equation**: Implementing OOP and Parallel Programming with the **MPI API** in **Fortran**.
+    - Currently hopping between things. Once I've found something I'm interested in, I'll let you know here.
 
 - Stuff I love:
 
@@ -21,10 +21,9 @@ It would be great to hear about suggestive improvements to my code or possible c
     - __Modern C++__.
     - __Fortran__.
     - __MATLAB__.
-    - __Data Structures & Algorithms__: People think these things are used to pass a coding interview. Well yes, they are. However, who doesn't want __faster__ & __optimized__ code!
+    - __Data Structures & Algorithms__.
     - __Bash Scripting__.
-    - __High Performance Computing__: Nothing in particular, it's just an amazing field of work.
-    - __Parallel Programming__ with __OpenMP__ & __MPI__.
+    - __High Performance Computing__.
     - __Heterogeneous Programming__: Really trying to learn more about the __SYCL Programming Model__.
     - __Linux__: At some point I want to develop a __Multithread Linux Kernel__.
     - __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & __Geophysics__.

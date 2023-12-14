@@ -13,8 +13,7 @@ It would be great to hear about suggestive improvements to my code or possible c
 
 - 🌱 I’m currently working on:
 
-    - Currently hopping between things. Once I've found something I'm interested in, I'll let you know here.
-
+    - Currently hopping between things. 
 - Stuff I love:
 
     - __C__.

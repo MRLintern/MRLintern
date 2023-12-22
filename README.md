@@ -23,7 +23,7 @@ It would be great to hear about suggestive improvements to my code or possible c
     - __Data Structures & Algorithms__.
     - __Bash Scripting__.
     - __High Performance Computing__.
-    - __Quantum Computing__. Currently learning __Azure Quantum__, __Q#__ and __Qiskit__.
+    - __Quantum Computing__. Currently learning __Q#__ and __Qiskit__. Intrigued by applications to __Quantum Chemistry__.
     - __Heterogeneous Programming__: Really trying to learn more about the __SYCL Programming Model__.
     - __Linux__: At some point I want to develop a __Multithread Linux Kernel__.
     - __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & __Geophysics__.

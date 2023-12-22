@@ -24,9 +24,9 @@ It would be great to hear about suggestive improvements to my code or possible c
     - __Bash Scripting__.
     - __High Performance Computing__.
     - __Quantum Computing__. Currently learning __Q#__ and __Qiskit__. Intrigued by applications to __Quantum Chemistry__.
-    - __Heterogeneous Programming__: Really trying to learn more about the __SYCL Programming Model__.
+    - __Heterogeneous Programming__: Trying to learn more about the __SYCL Programming Model__.
     - __Linux__: At some point I want to develop a __Multithread Linux Kernel__.
-    - __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & __Geophysics__.
+    - __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & the __Physical Sciences__.
     - __Numerical Linear Algebra__, __Numerical Ordinary Differential Equations__ & __Numerical Partial Differential Equations__.
     - __Cloud Computing__: Looking at getting the __AWS Certifications__ in __DevOps__ & __Solutions Architect__.
   

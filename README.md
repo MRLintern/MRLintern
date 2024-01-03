@@ -13,7 +13,7 @@ It would be great to hear about suggestive improvements to my code or possible c
 
 - 🌱 I’m currently working on:
 
-    - Currently hopping between things. 
+    - Developing a "Book" of sorts called __Learn C++ The Hard Way__. It follows the same structure as Zed Shaw's __Learn C The Hard Way__ but with some extra stuff thats more C++ related. It will take a long time I imagine. 
 - Stuff I love:
 
     - __C__.

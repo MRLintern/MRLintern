@@ -47,7 +47,7 @@ It would be great to hear about suggestive improvements to my code or possible c
 * **Tesco CEC**: July 2018 - September 2019: **Performance Insight Analyst**.
   - Automated weekly reports for KPIs such as company performance and staff absenteeism.
   - Worked with the Absenteeism Stakeholders to provide a new dashboard using Tableau rather than Excel.
-  - Worked with the Absenteeism Stakeholders to investigate Absenteeism Rates across the year. This was an important project because Tesco CEC was loosing £2million PA due to staff absences. Technologies used in this project: Python, SQL, Tableau and Linear Regression.
+  - Worked with the Absenteeism Stakeholders to investigate Absenteeism Rates across the year. This was an important project because Tesco CEC was loosing £2million PA due to staff absences. Technologies used in this project: __Python, SQL, Tableau and Multiple Linear Regression__.
   
 * **Schlumberger**: November 2013 - November 2014: **Geophysicist & Data Scientist**.
   - Assisted Senior Geoscientists with training for clients using Petrel and Techlog software.

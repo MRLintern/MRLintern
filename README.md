@@ -58,12 +58,12 @@ It would be great to hear about suggestive improvements to my code or possible c
    * **University of Aberdeen**: 2014 - 2015: 
      **MSc Geophysics**.
 
-     -Dissertation: __Forward Modelling of the Seismic Response of the Sherwood Sandstone Group of the Rhyl Gas Field__. 
+     - Dissertation: __Forward Modelling of the Seismic Response of the Sherwood Sandstone Group of the Rhyl Gas Field__. 
      
    * **University of Liverpool**: 2009 - 2012: 
      **BSc (hons) Geophysics (Physics)**.
 
-     -Dissertation: __Rate of Change of Earth’s Magnetic Field due to Various Outer Core Fluid Flows__.
+     - Dissertation: __Rate of Change of Earth’s Magnetic Field due to Various Outer Core Fluid Flows__.
 
 
 

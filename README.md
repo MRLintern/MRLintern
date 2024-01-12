@@ -52,7 +52,7 @@ It would be great to hear about suggestive improvements to my code or possible c
 ### Education
 
 
-   * **University of Edinburgh**: 09/2021 - Present: 
+   * **University of Edinburgh**: 09/2022 - Present: 
      **MSc High Performance Computing (Online Part-time)**.
      
    * **University of Aberdeen**: 2014 - 2015: 

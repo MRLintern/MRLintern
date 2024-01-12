@@ -42,12 +42,21 @@ It would be great to hear about suggestive improvements to my code or possible c
 ### Employment History (Technical Positions Only)
 
 * **Sword Group**: September 2019 - November 2019: **Geo-Data Scientist**.
+  - Looked into using Natural Language Processing to search for key information regarding Reservoir Formations in reports.
   
 * **Tesco CEC**: July 2018 - September 2019: **Performance Insight Analyst**.
+  - Automated weekly reports for KPIs such as company performance and staff absenteeism.
+  - Worked with the Absenteeism Stakeholders to provide a new dashboard using Tableau rather than Excel.
+  - Worked with the Absenteeism Stakeholders to investigate Absenteeism Rates across the year. This was an important project because Tesco CEC was loosing £2million PA due to staff absences. Technologies used in this project: Python, SQL, Tableau and Linear Regression.
   
 * **Schlumberger**: November 2013 - November 2014: **Geophysicist & Data Scientist**.
+  - Assisted Senior Geoscientists with training for clients using Petrel and Techlog software.
+  - Provided general Data Management solutions for Stakeholders as and when required.
+  - Joined the BP Chili Data Migration Project. This involved migrating all of BP’s Data Assets from OpenWorks DM Software to Petrel and Studio Manager.
   
 * **Halliburton**: November 2012 - November 2014: **Seismic Data Scientist**.
+  - General duties: Seismic (SEG-Y and P1/90) Data Loading/Unloading, Seismic Data Processing and Bash scripting.
+  - Developed reports for clients on the life-cycle of their data assets.
 
 ### Education
 

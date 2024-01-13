@@ -41,6 +41,7 @@ It would be great to hear about suggestive improvements to my code or possible c
 
 * **Sword Group**: September 2019 - November 2019: **Geo-Data Scientist**.
   - Looked into using Natural Language Processing to search for key information regarding Reservoir Formations in reports.
+  - Using Python, developed software which converted folders of reports from docx to PDF format.
   
 * **Tesco CEC**: July 2018 - September 2019: **Performance Insight Analyst**.
   - Automated weekly reports for KPIs such as company performance and staff absenteeism.

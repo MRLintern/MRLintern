@@ -54,7 +54,7 @@ It would be great to hear about suggestive improvements to my code or possible c
   - Joined the BP Chili Data Migration Project. This involved migrating all of BP’s Data Assets from OpenWorks DM Software to Petrel and Studio Manager.
   
 * **Halliburton**: November 2012 - November 2014: **Seismic Data Scientist**.
-  - General duties: Seismic (SEG-Y and P1/90) Data Loading/Unloading, Seismic Data Processing and Bash scripting.
+  - General duties: Seismic (SEG-Y and P1/90) Data Loading/Unloading and Bash scripting.
   - Developed reports for clients on the life-cycle of their data assets.
 
 ### Education

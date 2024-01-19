@@ -14,8 +14,8 @@ It would be great to hear about suggestive improvements to my code or possible c
 - 🌱 I’m currently working on:
 
     - __Algorithms & Data Structures in C++__.
-    - Looking the book *Pro Go* by Adam Freeman. I'm interested in developing the Online Party Invite application and the Sports Store application in C++.
-    - Looking the book *Rust Programming by Example* by Guilaume Gomez and Antoni Boucher. I will be trying to develop the Tetris and MP3 player applications in C++.
+    - Looking at the book *Pro Go* by Adam Freeman. I'm interested in developing the Online Party Invite application and the Sports Store application in C++.
+    - Looking at the book *Rust Programming by Example* by Guilaume Gomez and Antoni Boucher. I will be trying to develop the Tetris and MP3 player applications in C++.
        
 - Stuff I love:
 

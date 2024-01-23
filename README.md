@@ -13,8 +13,7 @@ It would be great to hear about suggestive improvements to my code or possible c
 
 - 🌱 I’m currently working on:
 
-    - __Algorithms & Data Structures in C++__.
-   
+    - Hopping about at the moment 
        
 - Stuff I love:
 

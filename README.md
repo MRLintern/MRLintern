@@ -6,7 +6,7 @@ allowing Stakeholders to make informed business decisions. My experience in thes
 developing shell scripts to load, process and unload large Seismic data sets, to using Machine Learning to try and understand employee absence
 rates for Tesco and reduce the £2million financial loss. 
 
-If you're interested in any of the work you find in my profile, I'd love to hear from you, especially in areas such as HPC and Numerical/Scientific Computing.
+If you're interested in any of the work you find in my profile, I'd love to hear from you, especially in areas such as Numerical/Scientific Computing.
 It would be great to hear about suggestive improvements to my code or possible collaboration on open-source projects.
 
 <br/>

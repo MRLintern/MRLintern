@@ -13,7 +13,8 @@ It would be great to hear about suggestive improvements to my code or possible c
 
 - 🌱 I’m currently working on:
 
-    - Hopping about at the moment 
+    - Navier Stokes Equation Fortran Solver for 2D Open Channel Flow:
+      - Incorporates multithreading via the OpenMP API and is developed in a 'modern' Object Oriented way
        
 - Stuff I love:
 

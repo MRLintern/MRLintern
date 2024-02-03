@@ -25,7 +25,6 @@ It would be great to hear about suggestive improvements to my code or possible c
     - __Data Structures & Algorithms__.
     - __Bash Scripting__.
     - __High Performance Computing__.
-    - __Quantum Computing__. Currently learning __Qiskit__. Interested in applications to __Quantum Chemistry__.
     - __Linux__: At some point I want to develop a __Multithreaded Linux Kernel__.
     - __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & the __Physical Sciences__.
     - __Numerical Linear Algebra__, __Numerical Ordinary Differential Equations__ & __Numerical Partial Differential Equations__.

@@ -6,15 +6,11 @@ allowing Stakeholders to make informed business decisions. My experience in thes
 developing shell scripts to load, process and unload large Seismic data sets, to using Machine Learning to try and understand employee absence
 rates for Tesco and reduce the £2million financial loss. 
 
-If you're interested in any of the work you find in my profile, I'd love to hear from you, especially in areas such as Numerical/Scientific Computing.
-It would be great to hear about suggestive improvements to my code or possible collaboration on open-source projects.
-
 <br/>
 
 - 🌱 I’m currently working on:
 
-    - Navier Stokes Equation Multithreaded Solver for 2D Open Channel Flow using different languages:
-      - Incorporates multithreading via the OpenMP API and is developed in a 'modern' Object Oriented way.
+   
        
 - Stuff I love:
 
@@ -25,6 +21,8 @@ It would be great to hear about suggestive improvements to my code or possible c
     - __Data Structures & Algorithms__.
     - __Bash Scripting__.
     - __High Performance Computing__.
+    - __Data Science__.
+    - __Data Engineering__.
     - __Linux__: At some point I want to develop a __Multithreaded Linux Kernel__.
     - __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & the __Physical Sciences__.
     - __Numerical Linear Algebra__, __Numerical Ordinary Differential Equations__ & __Numerical Partial Differential Equations__.

@@ -44,10 +44,12 @@ rates for Tesco and reduce the £2million financial loss.
  
 ### Technologies I've used in Industry
 
-  - __Python__.
+  - __Python__. E.g. used for: __Automation__, small-scale __Software Development__ and __Machine Learning Algorithm__ implementation.
   - __Data Science Stack__: E.g. __Pandas__, __NumPy__, __Matplotlib__, __seaborn__, __SciPy__, __sci-kit learn__, __Keras__ and __TensorFlow__.
+  - __Machine Learning Algorithms___: E.g. __Natural Language Processing__, __Multilinear Regression__, __Logistic Regression__, __K-Means__ and __Support Vector Machine (SVM)__.
   - __Tableau__.
   - __Microsoft SQL Server__.
+  - __PostgreSQL__.
   - __Excel/VBA__.
   - __Linux/Bash Scripting__.
   

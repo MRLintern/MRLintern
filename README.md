@@ -19,8 +19,8 @@ rates for Tesco and reduce the £2million financial loss.
      - Developing a __Multithreaded 2D Chanel Flow Solver__ for the Navier-Stokes Equations in a variety of languages: e.g. __C__, __C++__, __Fortran__, __Python__ and __Rust__.
      - Employing __Fortran__ and the __GPU__ to build a __Linear/Non-Linear Shallow Water Equation Solver__.
      - Venturing into the World of __C#__ & __ASP.NET__ and developing a __Patient Management System__, inspired by my wife, a __GP__, who dislikes her current __NHS__ application. I'm intrigued by the possibility of using __Go__ too.
-     - Writing a Interpreter &/or Compiler in __Go__.
-     - Developing a simplified Cryptocurrency Exchange Platform in __C++__.
+     - Writing an __Interpreter__ &/or __Compiler__ in __Go__.
+     - Developing a simplified __Cryptocurrency Exchange Platform__ in __C++__.
 
 
 ### What I want to Work with in a Job
@@ -34,6 +34,7 @@ rates for Tesco and reduce the £2million financial loss.
     - __Data Structures & Algorithms__.
     - __Bash Scripting__.
     - __High Performance Computing__.
+    - __Systems Programming__: I love knowing how things work under the hood. E.g. __Compilers__, __Operating Systems (Linux)__ and the __Linux Kernel__.
     - __Data Science__.
     - __Data Engineering__.
     - __Linux__: At some point I want to develop a __Multithreaded Linux Kernel__.

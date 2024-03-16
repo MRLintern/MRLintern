@@ -1,4 +1,6 @@
-### Hello 👋, I'm Matthew Lintern-Monro, but I go by Matt
+## Hello 👋, I'm Matthew Lintern-Monro, but I go by Matt
+
+### Introduction
 
 My trade is Data Science but my side hussle and hobby is Computational Applied Mathematics with a helping of High Performance Computing techniques. 
 My past experience includes working in the Oil & Gas Industry and Retail Sector (BI & HR Analytics), utilising a wide range of technologies,
@@ -6,7 +8,7 @@ allowing Stakeholders to make informed business decisions. My experience in thes
 developing shell scripts to load, process and unload large Seismic data sets, to using Machine Learning to try and understand employee absence
 rates for Tesco and reduce the £2million financial loss. 
 
-<br/>
+### What I'm up to
 
 - 🌱 I’m currently working on:
 
@@ -16,9 +18,10 @@ rates for Tesco and reduce the £2million financial loss.
      - Employing __Fortran__ and the __GPU__ to build a __Linear/Non-Linear Shallow Water Equation Solver__.
      - Venturing into the World of __C#__ & __ASP.NET__ and developing a __Patient Management System__, inspired by my wife, a __GP__, who dislikes her current __NHS__ application. I'm intrigued by the possibility of using __Go__ too. 
 
-   
+
+### What I want to Work with in a Job
        
-- Stuff I love:
+- Theres a lot of things I love working with, but I'd love to have a job using some of these technologies:
 
     - __C__.
     - __Modern C++__.
@@ -31,8 +34,16 @@ rates for Tesco and reduce the £2million financial loss.
     - __Data Engineering__.
     - __Linux__: At some point I want to develop a __Multithreaded Linux Kernel__.
     - __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & the __Physical Sciences__.
-    - __Numerical Linear Algebra__, __Numerical Ordinary Differential Equations__ & __Numerical Partial Differential Equations__.
+    - __Applied Mathematics__: E.g. __Numerical Analysis__, __Linear Algebra__, __Ordinary/Partial Differential Equations__ and __(Computational) Fluid Dyanamics__.
     - __Cloud Computing__: Looking at getting the __AWS Certifications__ in __DevOps__ & __Solutions Architect__.
+ 
+### Technologies I've used in Industry
+
+  - __Python__.
+  - __Data Science Stack__: E.g. __Pandas__, __NumPy__, __Matplotlib__, __SciPy__, __sci-kit learn__, __Keras__ and __TensorFlow__.
+  - __Microsoft SQL Server__.
+  - __Excel/VBA__.
+  - __Linux/Bash Scripting__.
   
   
 

@@ -46,6 +46,7 @@ rates for Tesco and reduce the £2million financial loss.
 
   - __Python__.
   - __Data Science Stack__: E.g. __Pandas__, __NumPy__, __Matplotlib__, __seaborn__, __SciPy__, __sci-kit learn__, __Keras__ and __TensorFlow__.
+  - __Tableau__.
   - __Microsoft SQL Server__.
   - __Excel/VBA__.
   - __Linux/Bash Scripting__.

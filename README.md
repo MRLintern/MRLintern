@@ -14,7 +14,7 @@ rates for Tesco and reduce the £2million financial loss.
 
      - Developing a __Multithreaded 2D Chanel Flow Solver__ for the Navier-Stokes Equations in a variety of languages: e.g. __C__, __C++__, __Fortran__, __Python__ and __Rust__.
      - Employing __Fortran__ and the __GPU__ to build a __Linear/Non-Linear Shallow Water Equation Solver__.
-     - Venturing into the World of __C#__ & __ASP.NET__ and developing a __Patient Management System__, inspired by wife, a __GP__, who dislikes her current __NHS__ application. I'm intrigued by the possibility of using __Go__ too. 
+     - Venturing into the World of __C#__ & __ASP.NET__ and developing a __Patient Management System__, inspired by my wife, a __GP__, who dislikes her current __NHS__ application. I'm intrigued by the possibility of using __Go__ too. 
 
    
        

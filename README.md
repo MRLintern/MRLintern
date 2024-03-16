@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Matthew Lintern-Monro, but I go by Matt
 
-I'm a Technologist with experience of working in Scientific Computing and Data Science.
+My trade is Data Science but my side hussle and hobby is Scientific Computing with a helping of High Performance Computing techniques. 
 My past experience includes working in the Oil & Gas Industry and Retail Sector (BI & HR Analytics), utilising a wide range of technologies,
 allowing Stakeholders to make informed business decisions. My experience in these industries has seen me work on a wide range of projects. For example, from
 developing shell scripts to load, process and unload large Seismic data sets, to using Machine Learning to try and understand employee absence

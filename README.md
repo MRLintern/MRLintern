@@ -16,7 +16,8 @@ rates for Tesco and reduce the £2million financial loss.
 
      Nothing at the moment, but I'm floating around with some ideas. E.g.
 
-     - Developing a __Multithreaded 2D Chanel Flow Solver__ for the Navier-Stokes Equations in a variety of languages: e.g. __C__, __C++__, __Fortran__, __Python__ and __Rust__.
+     - Developing a __Multithreaded 2D Chanel Flow Solver__ for the Navier-Stokes Equations, using the __Finite Difference Method__ and the __Successive Over-Relaxation Method, in a variety of languages: e.g. __C__, __C++__, __Fortran__ & __Python__.
+     - Developing a __Linear & Non-Linear Covective Heat Flow Solver__, in __C++__, using the __Finite Element Method__ and solved via __Successive Over-Relaxation Method__ 
      - Employing __Fortran__ and the __GPU__ to build a __Linear/Non-Linear Shallow Water Equation Solver__.
      - Venturing into the World of __C#__ & __ASP.NET__ and developing a __Patient Management System__, inspired by my wife, a __GP__, who dislikes her current __NHS__ application. I'm intrigued by the possibility of using __Go__ too.
      - Writing an __Interpreter__ &/or __Compiler__ in __Go__.

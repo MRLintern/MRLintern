@@ -24,7 +24,7 @@ rates for Tesco and reduce the £2million financial loss.
      - Writing an __Interpreter__ &/or __Compiler__ in __Go__.
      - Learning the __SYCL Programming Model__ and creating some basic applications with it.
      - Venturing into the World of __C#__ & __ASP.NET__ and developing a __Patient Management System__, inspired by my wife, a __GP__, who dislikes her current __NHS__ application. I'm intrigued by the possibility of using __Go__ too.
-     - Writing an __Interpreter__ &/or __Compiler__ in __Go__.
+    
      
 
 

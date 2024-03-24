@@ -14,14 +14,18 @@ rates for Tesco and reduce the £2million financial loss.
 
 - 🌱 I’m currently working on:
 
-     Nothing at the moment, but I'm floating around with some ideas. E.g.
+     Nothing at the moment, but I'm floating around with (a lot of) ideas. E.g.
 
-     - Developing a __Multithreaded 2D Chanel Flow Solver__ for the Navier-Stokes Equations, using the __Finite Difference Method__ and the __Successive Over-Relaxation Method__, in a variety of languages: e.g. __C__, __C++__, __Fortran__ & __Python__.
+     - Developing a __Multithreaded 2D Chanel Flow Solver__ for the Navier-Stokes Equations, using the __Finite Difference Method__ and the __Successive Over-Relaxation Method__, in a variety of languages: e.g. __C__, __C++__, & __Fortran__.
      - Developing a __Linear & Non-Linear Covective Heat Flow Solver__, in __C++__, using the __Finite Element Method__ and solved via the __Successive Over-Relaxation Method__ 
      - Employing __Fortran__ and the __GPU__ to build a __Linear/Non-Linear Shallow Water Equation Solver__.
+     - Creating a __Compiler__ using the __LLVM Project__.
+     - Developing a __Multithreaded Linux Kernel__.
+     - Writing an __Interpreter__ &/or __Compiler__ in __Go__.
+     - Learning the __SYCL Programming Model__ and creating some basic applications with it.
      - Venturing into the World of __C#__ & __ASP.NET__ and developing a __Patient Management System__, inspired by my wife, a __GP__, who dislikes her current __NHS__ application. I'm intrigued by the possibility of using __Go__ too.
      - Writing an __Interpreter__ &/or __Compiler__ in __Go__.
-     - Developing a simplified __Cryptocurrency Exchange Platform__ in __C++__.
+     
 
 
 ### What I want to Work with in a Job
@@ -38,7 +42,6 @@ rates for Tesco and reduce the £2million financial loss.
     - __Systems Programming__: I love knowing how things work under the hood. E.g. __Compilers__, __Operating Systems (Linux)__ and the __Linux Kernel__.
     - __Data Science__.
     - __Data Engineering__.
-    - __Linux__: At some point I want to develop a __Multithreaded Linux Kernel__.
     - __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & the __Physical Sciences__.
     - __Applied Mathematics__: E.g. __Numerical Analysis__, __Linear Algebra__, __Ordinary/Partial Differential Equations__ and __(Computational) Fluid Dyanamics__.
     - __Cloud Computing__: Looking at getting the __AWS Certifications__ in __DevOps__ & __Solutions Architect__.

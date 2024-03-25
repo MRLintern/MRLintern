@@ -60,8 +60,7 @@ rates for Tesco and reduce the £2million financial loss.
   
 
 ### Contact Me:
-I'm keen to here from recruiters and companies that are looking for new employees in areas of Scientific Software Engineering and/or Simulation/Modelling
-I'm also keen to hear from people who want to work together and contribute to open-source projects in Scientific/Numerical Computing.
+
 
 * <a href="https://www.linkedin.com/in/matthew-lintern-monro-585592159/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 * <lintern121184@gmail.com>

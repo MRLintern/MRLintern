@@ -1,7 +1,7 @@
 ## Hello 👋, I'm Matthew Lintern-Monro, but I go by Matt
 
 ### Introduction
-
+<br>
 My trade is Data Science but my side hussle and hobby is Computational Applied Mathematics with a helping of High Performance Computing techniques. 
 However, I'm also starting to look at more "general Software Engineering" and creating general purpose Applications rather than solely Scientific and Data Centric ones. 
 </br>

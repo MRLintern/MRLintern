@@ -28,7 +28,7 @@ rates for Tesco and reduce the £2million pa financial loss.
      
 
 
-### What Do I Love Working With?
+### What do I love working with?
        
 - Theres a lot of things I love working with, but I'd love to have a job using some of this stuff:
 

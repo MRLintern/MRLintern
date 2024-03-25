@@ -111,6 +111,7 @@ Take a look at these repositories:
   - Assisted Senior Geoscientists with training for clients using Petrel and Techlog software.
   - Provided general Data Management solutions for Stakeholders as and when required.
   - Joined the BP Chili Data Migration Project. This involved migrating all of BP’s Data Assets from OpenWorks DM Software to Petrel and Studio Manager.
+  - Acted as a Focal Point for the BP Chili Project in the Schlumberger Houston (Texas) Office. E.g. Producing documentation on the Migration Techniques being employed in the Aberdeen Office.
   
 * **Halliburton**: November 2012 - November 2014: **Seismic Data Scientist**.
   - General duties: Seismic (SEG-Y and P1/90) Data Loading/Unloading and Bash scripting.

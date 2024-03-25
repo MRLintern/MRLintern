@@ -8,7 +8,7 @@ However, I'm also starting to look at more "general Software Engineering" and cr
 My past experience includes working in the Oil & Gas Industry and Retail Sector (BI & HR Analytics), utilising a wide range of technologies,
 allowing Stakeholders to make informed business decisions. My experience in these industries has seen me work on a wide range of projects. For example, from
 developing shell scripts to load, process and unload large Seismic data sets, to using Machine Learning to try and understand employee absence
-rates for Tesco and reduce the £2million financial loss. 
+rates for Tesco and reduce the £2million pa financial loss. 
 </br>
 ### What I'm up to?
 

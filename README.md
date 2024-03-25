@@ -1,16 +1,15 @@
 ## Hello 👋, I'm Matthew Lintern-Monro, but I go by Matt
 
-### Introduction
+### Who am I?
 My trade is Data Science but my side hussle and hobby is Computational Applied Mathematics with a helping of High Performance Computing techniques. 
 However, I'm also starting to look at more "general Software Engineering" and creating general purpose Applications rather than solely Scientific and Data Centric ones. 
-</br>
 <br>
 My past experience includes working in the Oil & Gas Industry and Retail Sector (BI & HR Analytics), utilising a wide range of technologies,
 allowing Stakeholders to make informed business decisions. My experience in these industries has seen me work on a wide range of projects. For example, from
 developing shell scripts to load, process and unload large Seismic data sets, to using Machine Learning to try and understand employee absence
 rates for Tesco and reduce the £2million financial loss. 
 </br>
-### What I'm up to
+### What I'm up to?
 
 - 🌱 I’m currently working on:
 
@@ -28,9 +27,9 @@ rates for Tesco and reduce the £2million financial loss.
      
 
 
-### What I want to Work with in a Job
+### What do I Love Working With?
        
-- Theres a lot of things I love working with, but I'd love to have a job using some of these technologies:
+- Theres a lot of things I love working with, but I'd love to have a job using some of this stuff:
 
     - __C__.
     - __Modern C++__.
@@ -46,7 +45,7 @@ rates for Tesco and reduce the £2million financial loss.
     - __Applied Mathematics__: E.g. __Numerical Analysis__, __Linear Algebra__, __Ordinary/Partial Differential Equations__ and __(Computational) Fluid Dyanamics__.
     - __Cloud Computing__: Looking at getting the __AWS Certifications__ in __DevOps__ & __Solutions Architect__.
  
-### Technologies I've used in Industry
+### What I've used in Industry
 
   - __Python__. E.g. used for: __Automation__, small-scale __Software Development__ and __Machine Learning Algorithm__ implementation.
   - __Data Science Stack__: E.g. __Pandas__, __NumPy__, __Matplotlib__, __seaborn__, __SciPy__, __sci-kit learn__, __Keras__ and __TensorFlow__.
@@ -60,6 +59,8 @@ rates for Tesco and reduce the £2million financial loss.
   
 
 ### Contact Me:
+I'm keen to here from recruiters and companies that are looking for new employees in areas of Scientific Software Engineering and/or Simulation/Modelling
+I'm also keen to hear from people who want to work together and contribute to open-source projects in Scientific/Numerical Computing.
 
 * <a href="https://www.linkedin.com/in/matthew-lintern-monro-585592159/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 * <lintern121184@gmail.com>

@@ -32,19 +32,19 @@ rates for Tesco and reduce the £2million pa financial loss.
 
 ### What do I love?
        
-    - __C__.
-    - __Modern C++__.
-    - __Fortran__.
-    - __MATLAB__.
-    - __Data Structures & Algorithms__.
-    - __Bash Scripting__.
-    - __High Performance Computing__: I love seeing how __HPC__ can help with Scientific/Simulation problems. I'm keen to start learning about the __SYCL__ framework. 
-    - __Systems Programming__: I love knowing how things work under the hood. E.g. __Compilers__, __Operating Systems (Linux)__ and the __Linux Kernel__.
-    - __Data Science__.
-    - __Data Engineering__.
-    - __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & the __Physical Sciences__.
-    - __Applied Mathematics__: E.g. __Numerical Analysis__, __Linear Algebra__, __Ordinary/Partial Differential Equations__ and __(Computational) Fluid Dyanamics__.
-    - __Cloud Computing__: Looking at getting the __AWS Certifications__ in __DevOps__ & __Solutions Architect__.
+- __C__.
+- __Modern C++__.
+- __Fortran__.
+- __MATLAB__.
+- __Data Structures & Algorithms__.
+- __Bash Scripting__.
+- __High Performance Computing__: I love seeing how __HPC__ can help with Scientific/Simulation problems. I'm keen to start learning about the __SYCL__ framework. 
+- __Systems Programming__: I love knowing how things work under the hood. E.g. __Compilers__, __Operating Systems (Linux)__ and the __Linux Kernel__.
+- __Data Science__.
+- __Data Engineering__.
+- __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & the __Physical Sciences__.
+- __Applied Mathematics__: E.g. __Numerical Analysis__, __Linear Algebra__, __Ordinary/Partial Differential Equations__ and __(Computational) Fluid Dyanamics__.
+- __Cloud Computing__: Looking at getting the __AWS Certifications__ in __DevOps__ & __Solutions Architect__.
  
 ### What I've used in Industry
 

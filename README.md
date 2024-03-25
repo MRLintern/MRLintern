@@ -30,17 +30,15 @@ rates for Tesco and reduce the £2million pa financial loss.
      
 
 
-### What do I love working with?
+### What do I love?
        
-- Theres a lot of things I love working with, but I'd love to have a job using some of this stuff:
-
     - __C__.
     - __Modern C++__.
     - __Fortran__.
     - __MATLAB__.
     - __Data Structures & Algorithms__.
     - __Bash Scripting__.
-    - __High Performance Computing__.
+    - __High Performance Computing__: I love seeing how __HPC__ can help with Scientific/Simulation problems. I'm keen to start learning about the __SYCL__ framework. 
     - __Systems Programming__: I love knowing how things work under the hood. E.g. __Compilers__, __Operating Systems (Linux)__ and the __Linux Kernel__.
     - __Data Science__.
     - __Data Engineering__.

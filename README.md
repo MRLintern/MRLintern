@@ -57,7 +57,7 @@ Take a look at these repositories:
 
 #### High Performance Computing Applications for Physical Simulation
 - [2D Poisson Equation Solver with OpenMP](https://github.com/MRLintern/2D_Poisson_Equation_OpenMP).
-- [Navier-Stokes Equation Solver for 2D Channel Flow](https://github.com/MRLintern/NavierStokes-2D-ChannelFlow).
+- [Navier-Stokes Equation Solver for 2D Channel Flow](https://github.com/MRLintern/NavierStokes-2D-ChannelFlow). Just plain old Fortran 90 here no HPC API's, techniques etc.
 - [2D Heat Equation Solver using OpenMP](https://github.com/MRLintern/2D-Heat-Equation_OpenMP).
 - [2D Heat Equation Solver using MPI](https://github.com/MRLintern/2D_Heat_Equation-MPI).
 - [1D Wave Equation Solver using MPI](https://github.com/MRLintern/1D_Wave-Equation-MPI).

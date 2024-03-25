@@ -47,9 +47,35 @@ rates for Tesco and reduce the £2million pa financial loss.
 - __Cloud Computing__: Looking at getting the __AWS Certifications__ in __DevOps__ & __Solutions Architect__.
 
 ### What are you interested in?
-Take a look at repositories:
+Take a look at these repositories:
+#### Systems Programming
+- [Systems Monitor similar to htop](https://github.com/MRLintern/System-Monitor).
+- [Memory Leak Detection with Modern C++: Garbage Collector](https://github.com/MRLintern/Garbage-Collector).
 
-[Systems Monitor similar to htop](https://github.com/MRLintern/System-Monitor)
+#### Scientific Software Engineering
+- [Boundary Value Problem (BVP) Library](https://github.com/MRLintern/Boundary-Value-Problem_Library).
+
+#### High Performance Computing Applications for Physical Simulation
+- [2D Poisson Equation Solver with OpenMP](https://github.com/MRLintern/2D_Poisson_Equation_OpenMP).
+- [Navier-Stokes Equation Solver for 2D Channel Flow](https://github.com/MRLintern/NavierStokes-2D-ChannelFlow).
+- [2D Heat Equation Solver using OpenMP](https://github.com/MRLintern/2D-Heat-Equation_OpenMP).
+- [2D Heat Equation Solver using MPI](https://github.com/MRLintern/2D_Heat_Equation-MPI).
+- [1D Wave Equation Solver using MPI](https://github.com/MRLintern/1D_Wave-Equation-MPI).
+
+#### Geophysical Fluid Dynamics
+- [Application of the Shallow Water Equations to Problems in Oceanography & Planetary Atmospheres](https://github.com/MRLintern/Shallow_Water_Equations).
+
+#### Data Science and Machine Learning
+- [Application of the U-Net Convolutional Neural Network to Classify Salt and Sediment Structures in Oil & Gas Reservoire](https://github.com/MRLintern/Salt_and_Sediment_Classification).
+- [Classifying Different Images of Clothing](https://github.com/MRLintern/Clothing-Image-Classifier).
+- [Application of Logistic Regression to Identify Customer Churn and Why They Churn](https://github.com/MRLintern/churn_prediction).
+- [A Real-Time Data Platform for Detecting Anomalies in Data](https://github.com/MRLintern/Real-Time_Data_Anomaly_Platform).
+- [C++ application that performs Linear and Gaussian Regression ](https://github.com/MRLintern/Cpp-Regression).
+
+#### Data Engineering
+- [Data Warehouse for Music Files Leveraging AWS RedShift](https://github.com/MRLintern/Music_Data_Warehouse).
+- [ETL Pipeline for Music Analysis](https://github.com/MRLintern/Sparkify_ETL).
+- [A Spam Message Detection Application making use of Spark's ML & Data Pipeline Functionality](https://github.com/MRLintern/NLP_Spam_Pipeline).
  
 ### What I've used in Industry
 

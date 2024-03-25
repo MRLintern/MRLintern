@@ -38,7 +38,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 - __MATLAB__.
 - __Data Structures & Algorithms__.
 - __Bash Scripting__.
-- __High Performance Computing__: I love seeing how __HPC__ can help with Scientific/Simulation problems. I'm keen to start learning about the __SYCL__ framework. 
+- __High Performance Computing__: I love seeing how __HPC__ can help with Scientific/Simulation problems. I'm keen to start learning about the __SYCL__ framework too. 
 - __Systems Programming__: I love knowing how things work under the hood. E.g. __Compilers__, __Operating Systems (Linux)__ and the __Linux Kernel__.
 - __Data Science__.
 - __Data Engineering__.

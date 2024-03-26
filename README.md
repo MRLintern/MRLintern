@@ -75,7 +75,7 @@ Take a look at these repositories; some my applications might interest you and m
 - [Classifying Different Images of Clothing](https://github.com/MRLintern/Clothing-Image-Classifier).
 - [Application of Logistic Regression to Identify Customer Churn and Why They Churn](https://github.com/MRLintern/churn_prediction).
 - [A Real-Time Data Platform for Detecting Anomalies in Data](https://github.com/MRLintern/Real-Time_Data_Anomaly_Platform).
-- [C++ application that performs Linear and Gaussian Regression ](https://github.com/MRLintern/Cpp-Regression).
+- [C++ Application that Performs Linear and Gaussian Regression ](https://github.com/MRLintern/Cpp-Regression).
 
 #### Data Engineering
 - [Data Warehouse for Music Files Leveraging AWS RedShift](https://github.com/MRLintern/Music_Data_Warehouse).

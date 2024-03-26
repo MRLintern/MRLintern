@@ -14,7 +14,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 
 - 🌱 I’m currently working on:
 
-     - 3D Heat Equation Solver and "Movie": Developing the Solver in __Python__ using the __Finite Difference Method__ and creating an __Animation__ of the Solution.
+     - __3D Heat Equation Solver__ and "Movie": Developing the Solver in __Python__ using the __Finite Difference Method__ and creating an __Animation__ of the Solution.
 
      I'm also floating around with (a lot of) other ideas. E.g.
 

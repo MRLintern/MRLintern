@@ -28,7 +28,9 @@ rates for Tesco and reduce the £2million pa financial loss.
      - Venturing into the World of __C#__ & __ASP.NET__ and developing a __Patient Management System__, inspired by my wife, a __GP__, who dislikes her current __NHS__ application. I'm intrigued by the possibility of using __Go__ too.
      - Creating a simple __Crypto Trading Platform__ in __C++__.
      - Creating a simple __Trading Bot__ in __Java__. I've never worked with __Java__ and I've always been put off by it; Might be a good time to see why!
-     - Could a __Physics Game Engine__ be used for __Scientific Simulation/Modelling__? 
+     - Could a __Physics Game Engine__ be used for __Scientific Simulation/Modelling__?
+     - Writing a solver for the __(Discrete) Fast Fourier Transform__ using __OpenCL__. I studied __Geophyics__ so I'm naturally interested in __Signal Processing__.
+     - __GPU Programming__ and __Fluid Dynamics__: Taking a look at the __SYCL Framework__ and using it to develop a solver.
     
      
 
@@ -50,7 +52,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 - __Cloud Computing__: Looking at getting the __AWS Certifications__ in __DevOps__ & __Solutions Architect__.
 
 ### What are you interested in?
-Take a look at these repositories:
+Take a look at these repositories; some my applications might interest you and might help you out in some way:
 #### Systems Programming
 - [Systems Monitor similar to htop](https://github.com/MRLintern/System-Monitor).
 - [Memory Leak Detection with Modern C++: Garbage Collector](https://github.com/MRLintern/Garbage-Collector).
@@ -60,13 +62,13 @@ Take a look at these repositories:
 
 #### High Performance Computing Applications for Physical Simulation
 - [2D Poisson Equation Solver with OpenMP](https://github.com/MRLintern/2D_Poisson_Equation_OpenMP).
-- [Navier-Stokes Equation Solver for 2D Channel Flow](https://github.com/MRLintern/NavierStokes-2D-ChannelFlow). Just plain old Fortran 90 here no HPC API's, techniques etc.
 - [2D Heat Equation Solver using OpenMP](https://github.com/MRLintern/2D-Heat-Equation_OpenMP).
 - [2D Heat Equation Solver using MPI](https://github.com/MRLintern/2D_Heat_Equation-MPI).
 - [1D Wave Equation Solver using MPI](https://github.com/MRLintern/1D_Wave-Equation-MPI).
 
 #### Geophysical Fluid Dynamics
 - [Application of the Shallow Water Equations to Problems in Oceanography & Planetary Atmospheres](https://github.com/MRLintern/Shallow_Water_Equations).
+- [Navier-Stokes Equation Solver for 2D Channel Flow](https://github.com/MRLintern/NavierStokes-2D-ChannelFlow).
 
 #### Data Science and Machine Learning
 - [Application of the U-Net Convolutional Neural Network to Classify Salt and Sediment Structures in Oil & Gas Reservoire](https://github.com/MRLintern/Salt_and_Sediment_Classification).

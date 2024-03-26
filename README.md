@@ -14,7 +14,9 @@ rates for Tesco and reduce the £2million pa financial loss.
 
 - 🌱 I’m currently working on:
 
-     Nothing at the moment, but I'm floating around with (a lot of) ideas. E.g.
+     - 3D Heat Equation Solver and "Movie": Developing the Solver in __Python__ using the __Finite Difference Method__ and creating an __Animation__ of the Solution.
+
+     I'm also floating around with (a lot of) other ideas. E.g.
 
      - Developing a __Multithreaded 2D Chanel Flow Solver__ for the Navier-Stokes Equations, using the __Finite Difference Method__ and the __Successive Over-Relaxation Method__, in a variety of languages: e.g. __C__, __C++__, & __Fortran__.
      - Developing a __Linear & Non-Linear Covective Heat Flow Solver__, in __C++__, using the __Finite Element Method__ and solved via the __Successive Over-Relaxation Method__ 
@@ -26,6 +28,7 @@ rates for Tesco and reduce the £2million pa financial loss.
      - Venturing into the World of __C#__ & __ASP.NET__ and developing a __Patient Management System__, inspired by my wife, a __GP__, who dislikes her current __NHS__ application. I'm intrigued by the possibility of using __Go__ too.
      - Creating a simple __Crypto Trading Platform__ in __C++__.
      - Creating a simple __Trading Bot__ in __Java__. I've never worked with __Java__ and I've always been put off by it; Might be a good time to see why!
+     - Could a __Physics Game Engine__ be used for __Scientific Simulation/Modelling__? 
     
      
 

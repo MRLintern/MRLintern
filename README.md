@@ -14,9 +14,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 
 - 🌱 I’m currently working on:
 
-     - __3D Heat Equation Solver__ with __Animation__: Developing the Solver in __Python__ using the __Finite Difference Method__ and creating an __Animation__ of the Solution.
-
-     I'm also floating around with (a lot of) other ideas. E.g.
+Nothing at the moment. I need to pick one of the following projects:
 
      - Developing a __Multithreaded 2D Chanel Flow Solver__ for the Navier-Stokes Equations, using the __Finite Difference Method__ and the __Successive Over-Relaxation Method__, in a variety of languages: e.g. __C__, __C++__, & __Fortran__.
      - Developing a __Linear & Non-Linear Covective Heat Flow Solver__, in __C++__, using the __Finite Element Method__ and solved via the __Successive Over-Relaxation Method__ 

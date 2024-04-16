@@ -18,17 +18,17 @@ Nothing at the moment. I need to pick one of the following projects:
 
 - Developing a __Multithreaded 2D Chanel Flow Solver__ for the Navier-Stokes Equations, using the __Finite Difference Method__ and the __Successive Over-Relaxation Method__, in a variety of languages: e.g. __C__, __C++__, & __Fortran__.
 - Developing a __Linear & Non-Linear Covective Heat Flow Solver__, in __C++__, using the __Finite Element Method__ and solved via the __Successive Over-Relaxation Method__ 
-     - Employing __Fortran__ and the __GPU__ to build a __Linear/Non-Linear Shallow Water Equation Solver__.
-     - Creating a __Compiler__ using the __LLVM Project__.
-     - Developing a __Multithreaded Linux Kernel__.
-     - Writing an __Interpreter__ &/or __Compiler__ in __Go__.
-     - Learning the __SYCL Programming Model__ and creating some basic applications with it.
-     - Venturing into the World of __C#__ & __ASP.NET__ and developing a __Patient Management System__, inspired by my wife, a __GP__, who dislikes her current __NHS__ application. I'm intrigued by the possibility of using __Go__ too.
-     - Creating a simple __Crypto Trading Platform__ in __C++__.
-     - Creating a simple __Trading Bot__ in __Java__. I've never worked with __Java__ and I've always been put off by it; Might be a good time to see why!
-     - Could a __Physics Game Engine__ be used for __Scientific Simulation/Modelling__?
-     - Writing a solver for the __(Discrete) Fast Fourier Transform__ using __OpenCL__. I studied __Geophyics__ so I'm naturally interested in __Signal Processing__.
-     - __GPU Programming__ and __Fluid Dynamics__: Taking a look at the __SYCL Framework__ and using it to develop a solver.
+- Employing __Fortran__ and the __GPU__ to build a __Linear/Non-Linear Shallow Water Equation Solver__.
+- Creating a __Compiler__ using the __LLVM Project__.
+- Developing a __Multithreaded Linux Kernel__.
+- Writing an __Interpreter__ &/or __Compiler__ in __Go__.
+- Learning the __SYCL Programming Model__ and creating some basic applications with it.
+- Venturing into the World of __C#__ & __ASP.NET__ and developing a __Patient Management System__, inspired by my wife, a __GP__, who dislikes her current __NHS__ application. I'm intrigued by the possibility of using __Go__ too.
+- Creating a simple __Crypto Trading Platform__ in __C++__.
+- Creating a simple __Trading Bot__ in __Java__. I've never worked with __Java__ and I've always been put off by it; Might be a good time to see why!
+- Could a __Physics Game Engine__ be used for __Scientific Simulation/Modelling__?
+- Writing a solver for the __(Discrete) Fast Fourier Transform__ using __OpenCL__. I studied __Geophyics__ so I'm naturally interested in __Signal Processing__.
+- __GPU Programming__ and __Fluid Dynamics__: Taking a look at the __SYCL Framework__ and using it to develop a solver.
     
      
 

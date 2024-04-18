@@ -26,7 +26,6 @@ rates for Tesco and reduce the £2million pa financial loss.
 - Developing a __Multithreaded Linux Kernel__.
 - Writing an __Interpreter__ &/or __Compiler__ in __Go__.
 - Learning the __SYCL Programming Model__ and creating some basic applications with it.
-- Venturing into the World of __C#__ & __ASP.NET__ and developing a __Patient Management System__, inspired by my wife, a __GP__, who dislikes her current __NHS__ application. I'm intrigued by the possibility of using __Go__ too.
 - Creating a simple __Crypto Trading Platform__ in __C++__.
 - Creating a simple __Trading Bot__ in __Java__. I've never worked with __Java__ and I've always been put off by it; Might be a good time to see why!
 - Could a __Physics Game Engine__ be used for __Scientific Simulation/Modelling__?

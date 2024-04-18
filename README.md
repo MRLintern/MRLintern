@@ -14,11 +14,14 @@ rates for Tesco and reduce the £2million pa financial loss.
 
 - 🌱 I’m currently working on:
 
-  - Nothing at the moment. I need to pick one of the following projects:
+  - Nothing at the moment.
+
+### Ideas for Possible Projects
 
 - Developing a __Multithreaded 2D Chanel Flow Solver__ for the Navier-Stokes Equations, using the __Finite Difference Method__ and the __Successive Over-Relaxation Method__, in a variety of languages: e.g. __C__, __C++__, & __Fortran__.
 - Developing a __Linear & Non-Linear Covective Heat Flow Solver__, in __C++__, using the __Finite Element Method__ and solved via the __Successive Over-Relaxation Method__ 
 - Employing __Fortran__ and the __GPU__ to build a __Linear/Non-Linear Shallow Water Equation Solver__.
+- __Physics-Informed Machine Learning__. Applying this to __Inverse Problems__ in __Geophysics__. E.g. __Seismic tomography__ and __Geomagnetism__.
 - Creating a __Compiler__ using the __LLVM Project__.
 - Developing a __Multithreaded Linux Kernel__.
 - Writing an __Interpreter__ &/or __Compiler__ in __Go__.

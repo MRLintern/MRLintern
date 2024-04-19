@@ -51,7 +51,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 - __Data Engineering__.
 - __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & the __Physical Sciences__.
 - __Applied Mathematics__: E.g. __Numerical Analysis__, __Linear Algebra__, __Ordinary/Partial Differential Equations__ and __(Computational) Fluid Dyanamics__.
-- __Cloud Computing__: Looking at getting the __AWS Certifications__ in __DevOps__ & __Solutions Architect__.
+
 
 ### What are you interested in?
 Take a look at these repositories; some my applications might interest you and might help you out in some way:

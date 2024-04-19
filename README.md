@@ -24,6 +24,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 - Employing __Fortran__ and the __GPU__ to build a __Linear/Non-Linear Shallow Water Equation Solver__.
 - __Physics-Informed Machine Learning__. Applying this to __Inverse Problems__ in __Geophysics__. E.g. __Seismic tomography__ and __Geomagnetism__.
 - Creating a __Compiler__ using the __LLVM Project__.
+- Developing a __Compiler__ in __C/C++__.
 - Developing a __Multithreaded Linux Kernel__.
 - Writing an __Interpreter__ &/or __Compiler__ in __Go__.
 - Learning the __SYCL Programming Model__ and creating some basic applications with it.

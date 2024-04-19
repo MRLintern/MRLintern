@@ -46,7 +46,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 - __Bash Scripting__.
 - __High Performance Computing__: I love seeing how __HPC__ can help with Scientific/Simulation problems. I'm keen to start learning about the __SYCL__ framework too.
 - __Computational Science__. Like my repo's show, I love developing __Numerical Algorithms__ to solve Scientific and Engineering Problems.
-- __Systems Programming__: I love knowing how things work under the hood. E.g. __Compilers__, __Operating Systems (Linux)__ and the __Linux Kernel__.
+- __Systems Programming__: I love knowing how things work under the hood. E.g. __Compilers__ and __Operating Systems (Linux)__.
 - __Data Science__.
 - __Data Engineering__.
 - __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & the __Physical Sciences__.

@@ -55,7 +55,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 
 
 ### What are you interested in?
-Take a look at these repositories; some my applications might interest you and might help you out in some way:
+Take a look at these repositories; some of my applications might interest you and might help you out in some way:
 #### Systems Programming
 - [Systems Monitor similar to htop](https://github.com/MRLintern/System-Monitor).
 - [Memory Leak Detection with Modern C++: Garbage Collector](https://github.com/MRLintern/Garbage-Collector).

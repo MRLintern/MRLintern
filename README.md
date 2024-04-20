@@ -6,7 +6,7 @@ I consider myself to be a polyglot programmer with various interests. If I'm unf
 Most of the projects I have on GitHub started their life written in Python, and I have then used this as a proof-of-concept for further development into
 a different language. With this in mind, I'm always intrigued by using a different language to develop a project I've already completed.
 For example, the project [Systems Monitor similar to htop](https://github.com/MRLintern/System-Monitor) was developed in __Modern C++__. Could there be
-an advantage in writing this application in __Rust__ &/or __Golang__, given these are both System Level languages? Anyway, what do I usually do in the workplace? 
+an advantage in writing this application in __Rust__ or __Golang__, given these are both System Level languages? Anyway, what do I usually do in the workplace? 
 Find out below...
 </br>
 <br>

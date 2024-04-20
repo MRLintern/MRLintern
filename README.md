@@ -1,8 +1,13 @@
 ## Hello 👋, I'm Matthew Lintern-Monro, but I go by Matt
 
 ### Who am I?
-My trade is Data Science but my side hussle and hobby is Computational Applied Mathematics with a helping of High Performance Computing techniques. 
-However, I'm also starting to look at more "general Software Engineering" and creating general purpose Applications rather than solely Scientific and Data Centric ones. 
+
+I consider myself to be a polyglot programmer with various interests. If I'm unfamiliar with a language and its technlogies (frameworks, libraries etc), I will teach myself these to get a project done.
+Most of the projects I have on GitHub started their life written in Python, and I have then used this as a proof-of-concept for further development into
+a different language. With this in mind, I'm always intrigued by using a different language to develop a project I've already completed.
+For example, the project [Systems Monitor similar to htop](https://github.com/MRLintern/System-Monitor) was developed in __Modern C++__. Could there be
+an advantage of writing this application in __Rust__ &/or __Golang__, given these are both System Level languages? Anyway, what do I usually do in the workplace? 
+Find out below...
 </br>
 <br>
 My past experience includes working in the Oil & Gas Industry and Retail Sector (BI & HR Analytics), utilising a wide range of technologies,

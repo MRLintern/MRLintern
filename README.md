@@ -34,7 +34,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 - Developing an __Interpreter__ &/or __Compiler__ in __Go__.
 - Learning the __SYCL Programming Model__ and creating some basic applications with it.
 - Creating a simple __Crypto Trading Platform__ in __C++__.
-- Creating a __Cryptocurrency Trading Bot __with__ __a__ User Interface in Python__.
+- Creating a __Cryptocurrency Trading Bot__ with__ __a __User Interface in Python__.
 - Creating a simple __Trading Bot__ in __Java__. I've never worked with __Java__ and I've always been put off by it; Might be a good time to see why!
 - Could a __Physics Game Engine__ be used for __Scientific Simulation/Modelling__?
 - Writing a solver for the __(Discrete) Fast Fourier Transform__ using __OpenCL__. I studied __Geophyics__ so I'm naturally interested in __Signal Processing__.

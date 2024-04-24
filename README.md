@@ -19,8 +19,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 
 - 🌱 I’m currently working on:
   
-  - A book/reference of sorts called ___Learn Bash the Hard Way___. It follows the outline of __Zed Shaw's__ ___Learn C the Hard Way___.
-
+  - ___Bash-Hacks___. A folder of mini `Bash scripts` which perform all manner of automation tasks.
 ### Ideas for Possible Projects
 
 - Developing a __Multithreaded 2D Chanel Flow Solver__ for the __Navier-Stokes Equations__, using the __Finite Difference Method__ and the __Successive Over-Relaxation Method__, in a variety of languages: e.g. __C__, __C++__, & __Fortran__.

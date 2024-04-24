@@ -18,8 +18,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 ### What I'm up to?
 
 - 🌱 I’m currently working on:
-
-  - A book/reference of sorts called ___Bash Hacks___. Essentially just a collection of little Bash programs which performs all manner of tasks.
+  
   - A book/reference of sorts called ___Learn Bash the Hard Way___. It follows the outline of __Zed Shaw's__ ___Learn C the Hard Way___.
 
 ### Ideas for Possible Projects

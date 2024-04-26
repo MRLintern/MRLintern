@@ -19,7 +19,8 @@ rates for Tesco and reduce the £2million pa financial loss.
 
 - 🌱 I’m currently working on:
   
-  - ___Bash-Hacks___. A folder of mini `Bash scripts` which perform all manner of automation tasks.
+  - ___Bash-Hacks___. A folder of mini `Bash scripts` which perform all manner of automation tasks. Working on this now and then so I'll always be adding to it when I'm not doing something more substantial.
+  - Now in the process of creating a __Multithreaded Linux Kernel__. This will be a fun, long and hard project.
 ### Ideas for Possible Projects
 
 - Developing a __Multithreaded 2D Chanel Flow Solver__ for the __Navier-Stokes Equations__, using the __Finite Difference Method__ and the __Successive Over-Relaxation Method__, in a variety of languages: e.g. __C__, __C++__, & __Fortran__.

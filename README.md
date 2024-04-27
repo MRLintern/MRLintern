@@ -33,7 +33,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 - Creating a simple __Crypto Trading Platform__ in __C++__.
 - Creating a __Cryptocurrency Trading Bot__ with a __User Interface__ in __Python__.
 - Creating a simple __Trading Bot__ in __Java__. I've never worked with __Java__ and I've always been put off by it; Might be a good time to see why!
-- Creating a basic __Online Oil & Gas Data Management System__ called ___GeoDataManager___, developed in __Golang__.  
+- Creating a basic __Online Oil & Gas Data Management System__ called ___OGManager___, developed in __Golang__.  
 - Could a __Physics Game Engine__ be used for __Scientific Simulation/Modelling__?
 - Writing a solver for the __(Discrete) Fast Fourier Transform__ using __OpenCL__. I studied __Geophyics__ so I'm naturally interested in applications of __Signal Processing__.
 - __GPU Programming__ and __Fluid Dynamics__: Taking a look at the __SYCL Framework__ and using it to develop a solver.

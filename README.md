@@ -29,6 +29,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 - Developing a __Compiler__ in __C/C++__.
 - Developing a __Multithreaded Linux Kernel__.
 - Developing an __Interpreter__ &/or __Compiler__ in __Go__.
+- Deloping a basic __Operating System__ in __C__. 
 - Learning the __SYCL Programming Model__ and creating some basic applications with it.
 - Creating a simple __Crypto Trading Platform__ in __C++__.
 - Creating a __Cryptocurrency Trading Bot__ with a __User Interface__ in __Python__.

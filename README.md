@@ -49,8 +49,8 @@ rates for Tesco and reduce the £2million pa financial loss.
 
 
 ### What do I love?
-- __Rust__. Getting to know this language.
-- __Golang__. Getting to know this language.       
+- __Rust__. 
+- __Golang__.       
 - __C__.
 - __Modern C++__.
 - __Fortran__.

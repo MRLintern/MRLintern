@@ -43,7 +43,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 - Building a browser engine in __Rust__.
 - Building my own __Container__ with __Golang__.
 - Building a simple __Terminal Emulator__ in __Golang__.
-- Creating a `Distributed Service` in __Golang__.
+- Creating a __Distributed Service__ in __Golang__.
     
      
 

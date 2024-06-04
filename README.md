@@ -38,12 +38,19 @@ rates for Tesco and reduce the £2million pa financial loss.
 - Could a __Physics Game Engine__ be used for __Scientific Simulation/Modelling__?
 - Writing a solver for the __(Discrete) Fast Fourier Transform__ using __OpenCL__. I studied __Geophyics__ so I'm naturally interested in applications of __Signal Processing__.
 - __GPU Programming__ and __Fluid Dynamics__: Taking a look at the __SYCL Framework__ and using it to develop a solver.
+- Building a __RISC-V Operating System__ using __Rust__.
+- Building a __Shell__ in __Golang__.
+- Building a browser engine in __Rust__.
+- Building my own __Container__ with __Golang__.
+- Building a simple __Terminal Emulator__ in __Golang__.
+- Creating a `Distributed Service` in __Golang__.
     
      
 
 
 ### What do I love?
-       
+- __Rust__. Getting to know this language.
+- __Golang__. Getting to know this language.       
 - __C__.
 - __Modern C++__.
 - __Fortran__.

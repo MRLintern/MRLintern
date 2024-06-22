@@ -3,7 +3,7 @@
 ### Who am I?
 
 I consider myself to be a polyglot programmer with various interests. If I'm unfamiliar with a language and its technlogies (frameworks, libraries etc), I will teach myself these to get a project done, something I've had to do in and outside of industry.
-I'm always intrigued by using a different language to develop a project I've already completed. This can be a good experiement or a bad one; the below example I feel is a good on.
+I'm always intrigued by using a different language to develop a project I've already completed. This can be a good experiement or a bad one; the below example I feel is a good one.
 For example, the project [Systems Monitor similar to htop](https://github.com/MRLintern/System-Monitor) was developed in __Modern C++__. Could there be
 an advantage in writing this application in __Rust__ or __Golang__, given these are both System Level languages? Anyway, what do I usually do in the workplace? Read about that below.
 </br>

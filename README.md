@@ -17,7 +17,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 
 - 🌱 I’m currently working on:
   
-  - ___Bash-Hacks___. A folder of mini `Bash scripts` which perform all manner of automation tasks. Working on this now and then so I'll always be adding to it when I'm not doing something more substantial.
+  - Learning __Golang__. I've a number of projects I want to develop in this language. 
  
 ### Ideas for Possible Projects
 

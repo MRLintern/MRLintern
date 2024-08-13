@@ -17,7 +17,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 
 - 🌱 I’m currently working on:
   
-  - Backtesting Cryto Trading Strats with __Golang__. 
+  - ___OGManager___; an online Oil & Gas Data Management System, developed in __Golang__.
  
 ### Ideas for Possible Projects
 

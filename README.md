@@ -25,7 +25,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 - Developing a __Linear & Non-Linear Covective Heat Flow Solver__, in __C++__, using the __Finite Element Method__ and solved via the __Successive Over-Relaxation Method__ 
 - Employing __Fortran__ and the __GPU__ to build a __Linear/Non-Linear Shallow Water Equation Solver__. 
 - __Physics-Informed Machine Learning__. Applying this to __Inverse Problems__ in __Geophysics__. E.g. __Seismic tomography__ and __Geomagnetism__.
-- Developing a __Compiler__ using the __LLVM Project__.
+- Developing a __Compiler__ using __LLVM__.
 - Developing a __Compiler__ in __C/C++__.
 - Developing a __Multithreaded Linux Kernel__.
 - Developing an __Interpreter__ &/or __Compiler__ in __Go__.

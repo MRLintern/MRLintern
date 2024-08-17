@@ -18,6 +18,7 @@ rates for Tesco and reduce the £2million pa financial loss.
 - 🌱 I’m currently working on:
   
   - ___OGManager___; an __Online Oil & Gas Data Management System__, developed in __Golang__.
+  - Teaching myself some __Vim__.
  
 ### Ideas for Possible Projects
 

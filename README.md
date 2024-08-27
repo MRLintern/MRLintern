@@ -6,7 +6,7 @@ I consider myself to be a polyglot programmer with various interests. If I'm unf
 These various interests are:
 
 - __Systems Programming__. I love understanding how things work at their most basic level. Essentially creating software for software.
-- __Scientific Computing___. My interest in Programming and Computer Science started from my time at University, using Fortran to model the Earths Geomagnetic Field and the Fluid Dynamics of Earths Core.
+- __Scientific Computing__. My interest in Programming and Computer Science started from my time at University, using Fortran to model the Earths Geomagnetic Field and the Fluid Dynamics of Earths Core.
 - __Blockchain Development__. I'm new to this but will be doing something project wise soon.
 - __Quant Development__. I love C++ and the idea of attempting to develop a basic Low Latency Trading System sounds amazing. It would be great to try this using Rust too.
 

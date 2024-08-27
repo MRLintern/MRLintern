@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-I consider myself to be a polyglot programmer with various interests. If I'm unfamiliar with a language and its technlogies (frameworks, libraries etc), I will teach myself these to get a project done, something I've had to do in and outside of industry.
+I consider myself to be a polyglot with various interests. If I'm unfamiliar with a language and its technlogies (frameworks, libraries etc), I will teach myself these to get a project done, something I've had to do in and outside of industry.
 These various interests are:
 
 - __Systems Programming__. I love understanding how things work at their most basic level. Essentially creating software for software.

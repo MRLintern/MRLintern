@@ -10,6 +10,8 @@ These various interests are:
 - __Blockchain Development__. I'm new to this but will be doing something project wise soon.
 - __Quant Development__. I love C++ and the idea of attempting to develop a basic Low Latency Trading System sounds amazing. It would be great to try this using Rust too.
 
+However, I'm also looking at developing software thats a bit more "general purpose", such as the project I'm currently working on.
+
 ### What I'm up to?
 
 - 🌱 I’m currently working on:

@@ -3,51 +3,19 @@
 ### Who am I?
 
 I consider myself to be a polyglot programmer with various interests. If I'm unfamiliar with a language and its technlogies (frameworks, libraries etc), I will teach myself these to get a project done, something I've had to do in and outside of industry.
-I'm always intrigued by using a different language to develop a project I've already completed. This can be a good experiement or a bad one; the below example I feel is a good one.
-For example, the project [Systems Monitor similar to htop](https://github.com/MRLintern/System-Monitor) was developed in __Modern C++__. Could there be
-an advantage in writing this application in __Rust__ or __Golang__? Anyway, what do I usually do in the workplace? Read about that below.
-</br>
-<br>
-My past experience includes working in the Oil & Gas Industry and Retail Sector (BI & HR Analytics), utilising a wide range of technologies,
-allowing Stakeholders to make informed business decisions. My experience in these industries has seen me work on a wide range of projects. For example, from
-developing shell scripts to load, process and unload large Seismic data sets, to using Machine Learning to try and understand employee absence
-rates for Tesco and reduce the £2million pa financial loss. 
-</br>
+These various interests are:
+
+- __Systems Programming__. I love understanding how things work at their most basic level. Essentially creating software for software.
+- __Scientific Computing___. My interest in Programming and Computer Science started from my time at University, using Fortran to model the Earths Geomagnetic Field and the Fluid Dynamics of Earths Core.
+- __Blockchain Development__. I'm new to this but will be doing something project wise soon.
+- __Quant Development__. I love C++ and the idea of attempting to develop a basic Low Latency Trading System sounds amazing. It would be great to try this using Rust too.
+
 ### What I'm up to?
 
 - 🌱 I’m currently working on:
   
   - ___OGManager___; an __Online Oil & Gas Data Management System__, developed in __Golang__.
  
-### Ideas for Possible Projects
-
-- Developing a __Multithreaded 2D Chanel Flow Solver__ for the __Navier-Stokes Equations__, using the __Finite Difference Method__ and the __Successive Over-Relaxation Method__, in a variety of languages: e.g. __C__, __C++__, & __Fortran__. Will use the __OpenMP__ API for Multithreading.
-- Developing a __Linear & Non-Linear Covective Heat Flow Solver__, in __C++__, using the __Finite Element Method__ and solved via the __Successive Over-Relaxation Method__ 
-- Employing __Fortran__ and the __GPU__ to build a __Linear/Non-Linear Shallow Water Equation Solver__. 
-- __Physics-Informed Machine Learning__. Applying this to __Inverse Problems__ in __Geophysics__. E.g. __Seismic tomography__ and __Geomagnetism__.
-- Developing a __Compiler__ using __LLVM__.
-- Developing a __Compiler__ in __C/C++__.
-- Developing a __Multithreaded Linux Kernel__.
-- Developing an __Interpreter__ &/or __Compiler__ in __Go__.
-- Deloping a basic __Operating System__ in __C__. 
-- Learning the __SYCL Programming Model__ and creating some basic applications with it.
-- Creating a simple __Crypto Trading Platform__ in __C++__.
-- Creating a __Cryptocurrency Trading Bot__ with a __User Interface__ in __Python__.
-- Creating a simple __Trading Bot__ in __Java__. I've never worked with __Java__ and I've always been put off by it; Might be a good time to see why!
-- Creating a basic __Online Oil & Gas Data Management System__ called ___OGManager___, developed in __Golang__.  
-- Could a __Physics Game Engine__ be used for __Scientific Simulation/Modelling__?
-- Writing a solver for the __(Discrete) Fast Fourier Transform__ using __OpenCL__. I studied __Geophyics__ so I'm naturally interested in applications of __Signal Processing__.
-- __GPU Programming__ and __Fluid Dynamics__: Taking a look at the __SYCL Framework__ and using it to develop a solver.
-- Building a __RISC-V Operating System__ using __Rust__.
-- Building a __Shell__ in __Golang__.
-- Building a __Browser Engine__ in __Rust__.
-- Building my own __Container__ with __Golang__.
-- Building a simple __Terminal Emulator__ in __Golang__.
-- Creating a __Distributed Service__ in __Golang__.
-    
-     
-
-
 ### What do I love?
 - __Rust__. 
 - __Golang__.       
@@ -97,19 +65,6 @@ Take a look at these repositories; some of my applications might interest you an
 - [ETL Pipeline for Music Analysis](https://github.com/MRLintern/Sparkify_ETL).
 - [A Spam Message Detection Application making use of Spark's ML & Data Pipeline Functionality](https://github.com/MRLintern/NLP_Spam_Pipeline).
  
-### What I've used in Industry
-
-  - __Python__. E.g. used for: __Automation__, small-scale __Software Development__ and __Machine Learning Algorithm__ implementation.
-  - __Data Science Stack__: E.g. __Pandas__, __NumPy__, __Matplotlib__, __seaborn__, __SciPy__, __sci-kit learn__, __Keras__ and __TensorFlow__.
-  - __Machine Learning Algorithms__: E.g. __Natural Language Processing__, __Multilinear Regression__, __Logistic Regression__, __K-Means__ and __Support Vector Machine (SVM)__.
-  - __Tableau__.
-  - __Microsoft SQL Server__.
-  - __PostgreSQL__.
-  - __Excel/VBA__.
-  - __Linux/Bash Scripting__.
-  
-  
-
 ### Contact Me:
 
 

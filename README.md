@@ -16,7 +16,7 @@ However, I'm also looking at developing software thats a bit more "general purpo
 
 - 🌱 I’m currently working on:
   
-  - ___OGManager___; an __Online Oil & Gas Data Management System__, developed in __Golang__.
+ 
  
 ### What do I love?
 - __Rust__. 

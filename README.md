@@ -10,7 +10,7 @@
 - __High Performance Computing__.
 - __Computational Science__. 
 - __Systems Programming__: E.g. __Operating Systems__ and __Kernel Development__.
-- __Scientific Programming__: E.g. __Modelling and Simulation of problems in __Fluid Dynamics__ & the __Physical Sciences__.
+- __Scientific Programming__: E.g. __Modelling and Simulation__ of problems in __Fluid Dynamics__ & the __Physical Sciences__.
 - __Applied Mathematics__: E.g. __Numerical Analysis__, __Linear Algebra__ and __Ordinary/Partial Differential Equations__.
 
 

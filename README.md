@@ -1,43 +1,21 @@
 ## Hello 👋, I'm Matthew Lintern-Monro, but I go by Matt
 
-### Who am I?
-
-I consider myself to be a polyglot with various interests. If I'm unfamiliar with a language and its technlogies (frameworks, libraries etc), I will teach myself these to get a project done, something I've had to do in and outside of industry.
-These various interests are:
-
-- __Systems Programming__. I love understanding how things work at their most basic level. Essentially creating software for software.
-- __Scientific Computing__. My interest in Programming and Computer Science started from my time at University, using Fortran to model the Earths Geomagnetic Field and the Fluid Dynamics of Earths Core.
-- __Blockchain Development__. I'm new to this but will be doing something project wise soon.
-- __Quant Development__. I love C++ and the idea of attempting to develop a basic Low Latency Trading System sounds amazing. It would be great to try this using Rust too.
-
-However, I'm also looking at developing software thats a bit more "general purpose", such as the project I'm currently working on.
-
 ### What I'm up to?
 
-- 🌱 I’m currently working on:
+- 🌱 I’m currently working on: Nowt.
   
- 
- 
-### What do I love?
-- __Rust__. 
-- __Golang__.       
-- __C__.
-- __Modern C++__.
-- __Fortran__.
-- __MATLAB__.
+### Interests
+
 - __Data Structures & Algorithms__.
-- __Bash Scripting__.
-- __High Performance Computing__: I love seeing how __HPC__ can help with Scientific/Simulation problems. I'm keen to start learning about the __SYCL__ framework too.
-- __Computational Science__. Like my repo's show, I love developing __Numerical Algorithms__ to solve Scientific and Engineering Problems.
-- __Systems Programming__: I love knowing how things work under the hood. E.g. __Compilers__ and __Operating Systems (Linux)__.
-- __Data Science__.
-- __Data Engineering__.
-- __Scientific Programming__: Modelling and Simulation of problems in __Fluid Dynamics__ & the __Physical Sciences__.
-- __Applied Mathematics__: E.g. __Numerical Analysis__, __Linear Algebra__, __Ordinary/Partial Differential Equations__ and __(Computational) Fluid Dyanamics__.
+- __High Performance Computing__.
+- __Computational Science__. 
+- __Systems Programming__: E.g. __Operating Systems__ and __Kernel Development__.
+- __Scientific Programming__: E.g. __Modelling and Simulation of problems in __Fluid Dynamics__ & the __Physical Sciences__.
+- __Applied Mathematics__: E.g. __Numerical Analysis__, __Linear Algebra__ and __Ordinary/Partial Differential Equations__.
 
 
 ### What are you interested in?
-Take a look at these repositories; some of my applications might interest you and might help you out in some way. Or you might look at them and think "___Why on Earth has he done it that way, when he could have done it this way!___". If thats the case, please let me know as I'm always looking to better myself and my applications.
+Below shows a list of link to some of my repositories.
 #### Systems Programming
 - [Systems Monitor similar to htop](https://github.com/MRLintern/System-Monitor).
 - [Memory Leak Detection with Modern C++: Garbage Collector](https://github.com/MRLintern/Garbage-Collector).
@@ -72,45 +50,6 @@ Take a look at these repositories; some of my applications might interest you an
 
 * <a href="https://www.linkedin.com/in/matthew-lintern-monro-585592159/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 * <lintern121184@gmail.com>
-
-### Employment History (Technical Positions Only)
-
-* **Sword Group**: September 2019 - November 2019: **Geo-Data Scientist**.
-  - Looked into using Natural Language Processing to search for key information regarding Reservoir Formations in reports.
-  - Using Python, developed software which converted folders of reports from docx to PDF format.
-  
-* **Tesco CEC**: July 2018 - September 2019: **Performance Insight Analyst**.
-  - Automated weekly reports for KPIs such as company performance and staff absenteeism.
-  - Worked with the Absenteeism Stakeholders to provide a new dashboard using Tableau rather than Excel.
-  - Worked with the Absenteeism Stakeholders to investigate Absenteeism Rates across the year. This was an important project because Tesco CEC was loosing £2million PA due to staff absences. Technologies used in this project: __Python, SQL, Tableau and Multiple Linear Regression__.
-  
-* **Schlumberger**: November 2013 - November 2014: **Geophysicist & Data Scientist**.
-  - Assisted Senior Geoscientists with training for clients using Petrel and Techlog software.
-  - Provided general Data Management solutions for Stakeholders as and when required.
-  - Joined the BP Chili Data Migration Project. This involved migrating all of BP’s Data Assets from OpenWorks DM Software to Petrel and Studio Manager.
-  - Acted as a Focal Point for the BP Chili Project in the Schlumberger Houston (Texas) Office. E.g. Producing documentation on the Migration Techniques being employed in the Aberdeen Office.
-  
-* **Halliburton**: November 2012 - November 2014: **Seismic Data Scientist**.
-  - General duties: Seismic (SEG-Y and P1/90) Data Loading/Unloading and Bash scripting.
-  - Developed reports for clients on the life-cycle of their data assets.
-
-### Education
-
-
-   * **University of Edinburgh**: 09/2022 - Present: 
-     **MSc High Performance Computing (Online Part-time)**.
-     
-   * **University of Aberdeen**: 2014 - 2015: 
-     **MSc Geophysics**.
-
-     - Dissertation: ___Forward Modelling of the Seismic Response of the Sherwood Sandstone Group of the Rhyl Gas Field___. 
-     
-   * **University of Liverpool**: 2008 - 2012: 
-     **BSc (hons) Geophysics (Physics)**.
-
-     - Dissertation: ___Rate of Change of Earth’s Magnetic Field due to Various Outer Core Fluid Flows___.
-
-
 
 ### Tools and Technologies
 

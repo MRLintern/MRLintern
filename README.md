@@ -15,7 +15,7 @@
 
 
 ### What are you interested in?
-Below shows a list of link to some of my repositories.
+Below shows a list of links to some of my repositories.
 #### Systems Programming
 - [Systems Monitor similar to htop](https://github.com/MRLintern/System-Monitor).
 - [Memory Leak Detection with Modern C++: Garbage Collector](https://github.com/MRLintern/Garbage-Collector).

@@ -34,7 +34,7 @@ Below shows a list of links to some of my repositories.
 - [Navier-Stokes Equation Solver for 2D Channel Flow](https://github.com/MRLintern/NavierStokes-2D-ChannelFlow).
 
 #### Data Science and Machine Learning
-- [Application of the U-Net Convolutional Neural Network to Classify Salt and Sediment Structures in Oil & Gas Reservoire](https://github.com/MRLintern/Salt_and_Sediment_Classification).
+- [Application of the U-Net Convolutional Neural Network to Classify Salt and Sediment Structures in Oil & Gas Reservoirs](https://github.com/MRLintern/Salt_and_Sediment_Classification).
 - [Classifying Different Images of Clothing](https://github.com/MRLintern/Clothing-Image-Classifier).
 - [Application of Logistic Regression to Identify Customer Churn and Why They Churn](https://github.com/MRLintern/churn_prediction).
 - [A Real-Time Data Platform for Detecting Anomalies in Data](https://github.com/MRLintern/Real-Time_Data_Anomaly_Platform).

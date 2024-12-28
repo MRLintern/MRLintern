@@ -2,16 +2,16 @@
 
 ### What I'm up to?
 
-- 🌱 I’m currently working on: Nowt.
+- 🌱 I’m currently working on: No projects; developing language skills ATM.
   
 ### Interests
-
+- __My Prefered Languages I prefer developing in: __C, Modern C++, Fortran, Rust & Golang__. 
 - __Data Structures & Algorithms__.
-- __High Performance Computing__.
+- __High Performance Computing__. E.g __OpenCL__ & __SYCL__; I'll be doing some projects using these (at some point in the next couple of months).
 - __Computational Science__. 
-- __Systems Programming__: E.g. __Operating Systems__ and __Kernel Development__.
+- __Systems Programming__: E.g. __Operating Systems/Kernel Development__ & __Compiler Development__
 - __Scientific Programming__: E.g. __Modelling and Simulation__ of problems in __Fluid Dynamics__ & the __Physical Sciences__.
-- __Applied Mathematics__: E.g. __Numerical Analysis__, __Linear Algebra__ and __Ordinary/Partial Differential Equations__.
+- __Applied Mathematics__: E.g. __Numerical Analysis__, __Numerical Linear Algebra__ and __Numerical Ordinary/Partial Differential Equations__.
 
 
 ### What are you interested in?

@@ -10,6 +10,7 @@
 - __Operating System__ developed in __Zig__.
 - __RDBMS (SQL)__ developed in __C++20__.
 - __Distributed File System__ development in __Golang__.
+- __Rust__ version of __Git__.
 - __Compiler Development__ using __LLVM__.
 - __Compiler Development__ using __C__.
 - __Heterogeneous Programming__: Using __SYCL__ to develop a __Numerical Solver__ for the __Linear 2D Heat/Diffusion Equation__. Could be any __Partial Differential Equation__; TBC.

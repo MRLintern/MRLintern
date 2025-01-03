@@ -2,7 +2,17 @@
 
 ### What I'm up to?
 
-- 🌱 I’m currently working on: No projects; developing language skills ATM.
+- 🌱 Looking at the __Zig Programming Language__. Very interesting! Seems to be a mixture of __C__ & __Rust__.
+
+### Projects that are Comming Up
+- __Multithreaded Linux Kernel__.
+- __Operating System__ developed in __Rust__.
+- __Operating System__ developed in __Zig__.
+- __RDBMS (SQL)__ developed in __C++20__.
+- __Distributed File System__ development in __Golang__.
+- __Compiler Development__ using __LLVM__.
+- __Compiler Development__ using __C__.
+- __Heterogeneous Programming__: Using __SYCL__ to develop a __Numerical Solver__ for the __Linear 2D Heat/Diffusion Equation__. Could be any __Partial Differential Equation__; TBC.
   
 ### Interests
 - Languages I prefer developing with: __C, Modern C++, Fortran, Rust & Golang__. 

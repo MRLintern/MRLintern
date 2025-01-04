@@ -14,6 +14,13 @@
 - __Compiler Development__ using __LLVM__.
 - __Compiler Development__ using __C__.
 - __Heterogeneous Programming__: Using __SYCL__ to develop a __Numerical Solver__ for the __Linear 2D Heat/Diffusion Equation__. Could be any __Partial Differential Equation__; TBC.
+
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRLintern&layout=compact&theme=rose_pine&hide=jupyter%20notebook,javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+### My GitHub Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MRLintern&show_icons=true&theme=gotham", alt="doleron"></p>
   
 ### Interests
 - Languages I prefer developing with: __C, Modern C++, Fortran, Rust & Golang__. 

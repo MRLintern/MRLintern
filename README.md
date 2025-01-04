@@ -3,15 +3,8 @@
 ### Contact Me:
 
 * <a href="https://www.linkedin.com/in/matthew-lintern-monro-585592159/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-* 
 * <lintern121184@gmail.com>
-  <div align="center">
-  <a href="lintern121184@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/matthew-lintern-monro-585592159/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  
 
 ### What I'm up to?
 

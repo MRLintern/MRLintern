@@ -1,5 +1,11 @@
 ## Hello 👋, I'm Matthew Lintern-Monro, but I go by Matt
 
+### Contact Me:
+
+
+* <a href="https://www.linkedin.com/in/matthew-lintern-monro-585592159/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+* <lintern121184@gmail.com>
+
 ### What I'm up to?
 
 - 🌱 Looking at the __Zig Programming Language__. Very interesting! Seems to be a mixture of __C__ & __Rust__.
@@ -63,11 +69,7 @@ Below shows a list of links to some of my repositories.
 - [ETL Pipeline for Music Analysis](https://github.com/MRLintern/Sparkify_ETL).
 - [A Spam Message Detection Application making use of Spark's ML & Data Pipeline Functionality](https://github.com/MRLintern/NLP_Spam_Pipeline).
  
-### Contact Me:
 
-
-* <a href="https://www.linkedin.com/in/matthew-lintern-monro-585592159/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-* <lintern121184@gmail.com>
 
 ### Tools and Technologies
 
@@ -77,6 +79,8 @@ Below shows a list of links to some of my repositories.
     <td>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/golang/golang-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/></a>
      </td>

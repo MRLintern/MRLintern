@@ -80,7 +80,7 @@ Below shows a list of links to some of my repositories.
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="40" height="40"/></a>
-      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/golang/golang-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/></a>
      </td>

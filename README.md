@@ -14,7 +14,7 @@
 - __Multithreaded Linux Kernel__.
 - __Operating System__ developed in __Rust__.
 - __Operating System__ developed in __Zig__.
-- __RDBMS (SQL)__ developed in __C++20__.
+- __RDBMS (SQL)__ developed in __C++__. Hopefully look at doing this with __C++20__.
 - __Distributed File System__ development in __Golang__.
 - __Rust__ version of __Git__.
 - __Compiler Development__ using __LLVM__.

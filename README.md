@@ -8,7 +8,7 @@
 
 ### What I'm up to?
 
-- 🌱 Looking at the __Zig Programming Language__. Very interesting! Seems to be a mixture of __C__ & __Rust__.
+- 🌱 Looking at the __Zig Programming Language__.
 
 ### Projects that are Comming Up
 - __Multithreaded Linux Kernel__.

@@ -8,17 +8,17 @@
 
 ### What I'm up to?
 
-- 🌱 Looking at the __Zig Programming Language__.
+- 🌱 - __Compiler Development__ using __C__.
+- Reading __Operating Systems: Three Easy Pieces__. 
 
 ### Projects that are Comming Up
-- __Multithreaded Linux Kernel__.
-- __Operating System__ developed in __Rust__.
-- __Operating System__ developed in __Zig__.
+- __Compiler Development__ using __C__.
+- __Linux Kernel__ called ___basix___.
+- __Operating System__ developed in __Rust__. I might try and include a __compiler__ written in __Rust__ too.
 - __RDBMS (SQL)__ developed in __C++__. Hopefully look at doing this with __C++20__.
 - __Distributed File System__ development in __Golang__.
 - __Rust__ version of __Git__.
 - __Compiler Development__ using __LLVM__.
-- __Compiler Development__ using __C__.
 - __Heterogeneous Programming__: Using __SYCL__ to develop a __Numerical Solver__ for the __Linear 2D Heat/Diffusion Equation__. Could be any __Partial Differential Equation__; TBC.
 
 ### Top Languages

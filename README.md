@@ -16,7 +16,8 @@
 
 ### What I'm up to?
 
--  __Compiler Development__ using __C__.
+-  __Compiler__ using __C__.
+-  
 - Reading __Operating Systems: Three Easy Pieces__.
 - Reading about __Advanced C Programming Concepts/Techniques__.
 

@@ -23,7 +23,7 @@
 ### Projects that are Comming Up
 
 - __Linux Kernel__ called ___basix___.
-- __Operating System__ developed in __Rust__. I might try and include a __compiler__ written in __Rust__ too. Project Name: ___ros___.
+- __Operating System__ developed in __Rust__. Project Name: ___ros___.
 - __RDBMS (SQL)__ developed in __C++__. Hopefully look at doing this with __C++20__.
 - __Distributed File System__ development in __Golang__.
 - __Rust__ version of __Git__. Project Name: ___RustIt___.

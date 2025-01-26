@@ -69,7 +69,6 @@
   <tr>
     <td>Text Editors</td>
     <td>
-      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/></a>
     </td>
   </tr>

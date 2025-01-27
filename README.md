@@ -96,7 +96,7 @@ Below shows a list of links to some of my repositories.
 - [Systems Monitor similar to htop](https://github.com/MRLintern/System-Monitor).
 - [Memory Leak Detection with Modern C++: Garbage Collector](https://github.com/MRLintern/Garbage-Collector).
 
-#### Scientific Computing & Software Engineering
+#### Scientific Computing
 - [Boundary Value Problem (BVP) Library](https://github.com/MRLintern/Boundary-Value-Problem_Library).
 - [Application of the Shallow Water Equations to Problems in Oceanography & Planetary Atmospheres](https://github.com/MRLintern/Shallow_Water_Equations).
 - [Navier-Stokes Equation Solver for 2D Channel Flow](https://github.com/MRLintern/NavierStokes-2D-ChannelFlow).

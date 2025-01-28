@@ -22,7 +22,7 @@
 - Reading and learning about __Advanced C Programming Concepts/Techniques__.
 
 ### Projects that are Comming Up
-- A __Library (.so file)__ for the __2D Linear Heat/Diffusion Equation__ using __C++20__. Hopefully I'll be able to incorporate the __Non-Linear__ case further down the line. Project Name: ___FlowLib___. 
+- A __Library (.SO)__ for the __2D Linear Heat/Diffusion Equation__ using __C++20__. Hopefully I'll be able to incorporate the __Non-Linear__ case further down the line. Project Name: ___FlowLib___. 
 - __Linux Kernel__ called ___basix___.
 - __Operating System__ developed in __Rust__. Project Name: ___ros___.
 - __RDBMS (SQL)__ developed in __C++__. Hopefully look at doing this with __C++20__. Project Name: ___CDB++___. 

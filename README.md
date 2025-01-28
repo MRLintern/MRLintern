@@ -15,7 +15,7 @@
 
 ### What I'm up to?
 - Refactoring [Application of the Shallow Water Equations to Problems in Oceanography & Planetary Atmospheres](https://github.com/MRLintern/Shallow_Water_Equations) from __MATLAB__ to __Modern Fortran__.
-- Developing a __Modern Fortran Solver__ for an __Inter-Hemispheric Box Model of Deep Ocean Circulation. I'll hopefully incorporate __OOP__ and make use of __OpenMP__ or __MPI__. 
+- Developing a __Modern Fortran Solver__ for an __Inter-Hemispheric Box Model of Deep Ocean Circulation__. I'll hopefully incorporate __OOP__ and make use of __OpenMP__ or __MPI__. 
 - Developing __Unit Tests__ for a number of solvers developed in __C__. See repositories from __High Performance Computing Applications for Physical Simulation__. 
 -  __Compiler__ using __C__. Language implementation will (hopefully) be with __Rust__. 
 - Reading __Operating Systems: Three Easy Pieces__.

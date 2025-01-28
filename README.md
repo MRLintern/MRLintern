@@ -15,17 +15,19 @@
 - __Applied Mathematics__: E.g. __Numerical Analysis__, __Numerical Linear Algebra__ and __Numerical Ordinary/Partial Differential Equations__.
 
 ### What I'm up to?
-
--  __Compiler__ using __C__.
+- Refactoring [Application of the Shallow Water Equations to Problems in Oceanography & Planetary Atmospheres](https://github.com/MRLintern/Shallow_Water_Equations) from __MATLAB__ to __Modern Fortran__.
+- Developing a __Modern Fortran Solver__ for an __Inter-Hemispheric Box Model of Deep Ocean Circulation. I'll hopefully incorporate __OOP__ and make use of __OpenMP__ or __MPI__. 
+- Developing __Unit Tests__ for a number of solvers developed in __C__. See repositories from __High Performance Computing Applications for Physical Simulation__. 
+-  __Compiler__ using __C__. Language implementation will (hopefully) be with __Rust__. 
 - Reading __Operating Systems: Three Easy Pieces__.
-- Reading about __Advanced C Programming Concepts/Techniques__.
+- Reading and learning about __Advanced C Programming Concepts/Techniques__.
 
 ### Projects that are Comming Up
-
+- A __Library (.so file)__ for the __2D Linear Heat/Diffusion Equation__ using __C++20__. Hopefully I'll be able to incorporate the __Non-Linear__ case further down the line. Project Name: ___FlowLib___. 
 - __Linux Kernel__ called ___basix___.
 - __Operating System__ developed in __Rust__. Project Name: ___ros___.
-- __RDBMS (SQL)__ developed in __C++__. Hopefully look at doing this with __C++20__.
-- __Distributed File System__ development in __Golang__.
+- __RDBMS (SQL)__ developed in __C++__. Hopefully look at doing this with __C++20__. Project Name: ___CDB++___. 
+- __Distributed File System__ development in __Golang__. Project Name: ___GoDistIt___.
 - __Rust__ version of __Git__. Project Name: ___RustIt___.
 - __Compiler Development__ using __LLVM__.
 - __Heterogeneous Programming__: Using __SYCL__ to develop a __Numerical Solver__ for the __Linear 2D Heat/Diffusion Equation__. Could be any __Partial Differential Equation__; TBC.

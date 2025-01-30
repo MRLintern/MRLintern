@@ -14,15 +14,15 @@
 - __Applied Mathematics__: E.g. __Numerical Analysis__, __Numerical Linear Algebra__ and __Numerical Ordinary/Partial Differential Equations__.
 
 ### What I'm up to?
-- Refactoring [Application of the Shallow Water Equations to Problems in Oceanography & Planetary Atmospheres](https://github.com/MRLintern/Shallow_Water_Equations) from __MATLAB__ to __Modern Fortran__.
-- Developing a __Modern Fortran Solver__ for an __Inter-Hemispheric Box Model of Deep Ocean Circulation__. Makes use of __OOP__ and __OpenMP__. Project Name: ___2D-O-C-HotBox___. 
+- Developing a __Modern Fortran Solver__ for __2D Heat Diffusion Through Different Geological Materials__. Makes use of __OOP__ techniques and the __OpenMP__ API. Project Name: ___2D-GeoHeatFlow___. 
+- Developing a __Modern Fortran Solver__ for an __Inter-Hemispheric Box Model of Deep Ocean Circulation__. Makes use of __OOP__ techniques and __OpenMP__ API. Project Name: ___2D-O-C-HotBox___. 
 - Developing __Unit Tests__ for a number of solvers developed in __C__. See repositories from __High Performance Computing Applications for Physical Simulation__. 
 -  __Compiler__ using __C__. Language implementation will (hopefully) be with __Rust__. 
 - Reading __Operating Systems: Three Easy Pieces__.
 - Reading and learning about __Advanced C Programming Concepts/Techniques__.
 
 ### Projects that are Comming Up
-- A __Library (.SO)__ for the __2D Linear Heat/Diffusion Equation__ using __C++20__. Hopefully I'll be able to incorporate the __Non-Linear__ case further down the line. Project Name: ___FlowLib___. 
+- A __Library (.SO)__ for the __2D Linear Heat/Diffusion Equation__ using __C++20__. The __Discretization Method__ used will be the __Finite Volume Method (FVM)__. Hopefully I'll be able to incorporate the __Non-Linear__ case further down the line. Project Name: ___FlowLib___. 
 - __Linux Kernel__ called ___basix___.
 - __Operating System__ developed in __Rust__. Project Name: ___ros___.
 - __RDBMS (SQL)__ developed in __C++__. Hopefully look at doing this with __C++20__. Project Name: ___CDB++___. 
@@ -109,7 +109,7 @@ Below shows a list of links to some of my repositories.
 - [2D Heat Equation Solver using OpenMP](https://github.com/MRLintern/2D-Heat-Equation_OpenMP).
 - [2D Heat Equation Solver using MPI](https://github.com/MRLintern/2D_Heat_Equation-MPI).
 - [1D Wave Equation Solver using MPI](https://github.com/MRLintern/1D_Wave-Equation-MPI).
-
+- [](https://www.sciencedirect.com/science/article/pii/S0920410516312712#sec4)
 
 
 

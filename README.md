@@ -22,7 +22,7 @@
 - Reading and learning about __Advanced C Programming Concepts/Techniques__.
 
 ### Projects that are Comming Up
-- Re-developing the ___NavierStokes-2D-ChannelFlowow___ __Fortran Solver__ from a __Serial__ to __Parallel__ version, making use of __OOP__ techniques and the __OpenMP__ API.
+- Re-developing the ___NavierStokes-2D-ChannelFlow___ __Fortran Solver__ from a __Serial__ to __Parallel__ version, making use of __OOP__ techniques and the __OpenMP__ API.
 - A __Library (.SO)__ for the __2D Linear Heat/Diffusion Equation__ using __C++20__. The __Discretization Method__ used will be the __Finite Volume Method (FVM)__. Hopefully I'll be able to incorporate the __Non-Linear__ case further down the line. Project Name: ___FlowLib___. 
 - __Linux Kernel__ called ___basix___.
 - __Operating System__ developed in __Rust__. Project Name: ___ros___.

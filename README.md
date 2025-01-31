@@ -6,7 +6,8 @@
 * <lintern121184@gmail.com>
 
 ### Interests
-- Languages I prefer developing with: __C, Modern C++, Fortran, Rust & Golang__. 
+- Languages I prefer developing with: __C, Modern C++, Fortran, Rust & Golang__.
+  
 - __High Performance Computing__. E.g __OpenCL__ & __SYCL__; I'll be doing some projects using these (at some point in the next couple of months).
 - __Computational Science__. 
 - __Systems Programming__: E.g. __Operating Systems/Kernel Development__ & __Compiler Development__

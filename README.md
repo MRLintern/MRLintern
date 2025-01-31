@@ -23,7 +23,8 @@
 
 ### Projects that are Comming Up
 - Re-developing the ___NavierStokes-2D-ChannelFlow___ __Fortran Solver__ from a __Serial__ to __Parallel__ version, making use of __OOP__ techniques and the __OpenMP__ API.
-- A __Library (.SO)__ for the __2D Linear Heat/Diffusion Equation__ using __C++20__. The __Discretization Method__ used will be the __Finite Volume Method (FVM)__. Hopefully I'll be able to incorporate the __Non-Linear__ case further down the line. Project Name: ___FlowLib___. 
+
+- A __Dynamic Library__ called ___cfvmLib___, developed in __C++__, (hopefully __C++20__), for problems in ___Fluid Dynamics___. The __Discretization Method__ used will be the __Finite Volume Method (FVM)__. __Linear__ problems will be tackled first; hopefully __Non-Linear__ problems will be tackled not too far down the line!
 - __Linux Kernel__ called ___basix___.
 - __Operating System__ developed in __Rust__. Project Name: ___ros___.
 - __RDBMS (SQL)__ developed in __C++__. Hopefully look at doing this with __C++20__. Project Name: ___CDB++___. 

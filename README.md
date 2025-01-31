@@ -14,7 +14,8 @@
 - __Applied Mathematics__: E.g. __Numerical Analysis__, __Numerical Linear Algebra__ and __Numerical Ordinary/Partial Differential Equations__.
 
 ### What I'm up to?
-- Developing a __Modern Fortran Solver__ for __2D Heat Diffusion Through Different Geological Materials__. Makes use of __OOP__ techniques and the __OpenMP__ API. Project Name: ___2D-GeoHeatFlow___. 
+- Developing a __Modern Fortran Solver__ for __2D Heat Diffusion Through Different Geological Materials__. Makes use of __OOP__ techniques and the __OpenMP__ API. Project Name: ___2D-GeoHeatFlow___.
+  
 - Developing a __Modern Fortran Solver__ for an __Inter-Hemispheric Box Model of Deep Ocean Circulation__. Makes use of __OOP__ techniques and __OpenMP__ API. Project Name: ___2D-O-C-HotBox___. 
 - Developing __Unit Tests__ for a number of solvers developed in __C__. See repositories from __High Performance Computing Applications for Physical Simulation__. 
 -  __Compiler__ using __C__. Language implementation will (hopefully) be with __Rust__. 

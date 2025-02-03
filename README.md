@@ -21,7 +21,7 @@
 - Developing __Unit Tests__ for a number of solvers developed in __C__. See repositories from __High Performance Computing Applications for Physical Simulation__. 
 -  __Compiler__ using __C__. Language implementation will (hopefully) be with __Rust__. 
 - Reading __Operating Systems: Three Easy Pieces__.
-- Reading and learning about __Advanced C Programming Concepts/Techniques__.
+- __Data Structures & Algorithms__ in __C__.
 
 ### Projects that are Comming Up
 - Re-developing the ___NavierStokes-2D-ChannelFlow___ __Fortran Solver__ from a __Serial__ to __Parallel__ version, making use of __OOP__ techniques and the __OpenMP__ API.

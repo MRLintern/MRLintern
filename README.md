@@ -12,7 +12,7 @@
 - __Computational Science__. 
 - __Systems Programming__: E.g. __Operating Systems/Kernel Development__ & __Compiler Development__
 - __Scientific Programming__: E.g. __Modelling and Simulation__ of problems in __Fluid Dynamics__ & the __Physical Sciences__.
-- __Applied Mathematics__: E.g. __Numerical Analysis_: __Numerical Linear Algebra__ and __Numerical Ordinary/Partial Differential Equations__.
+- __Applied Mathematics__: E.g. __Numerical Analysis__: __Numerical Linear Algebra__ and __Numerical Ordinary/Partial Differential Equations__.
 
 ### What I'm up to?
 - Developing a __Modern Fortran Solver__ for __2D Heat Diffusion Through Different Geological Materials__. Makes use of __OOP__ techniques and the __OpenMP__ API. Project Name: ___2D-GeoHeatFlow___.

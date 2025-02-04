@@ -27,7 +27,7 @@
 - A __Dynamic Library__ called ___cfvmLib___, developed in __C++__, (hopefully __C++20__), for problems in ___Fluid Dynamics___. The __Discretization Method__ used will be the __Finite Volume Method (FVM)__. __Linear__ problems will be tackled first; hopefully __Non-Linear__ problems will be tackled not too far down the line!
 - __Linux Kernel__ called ___basix___.
 - __Operating Systems: Three Easy Pieces__. I've been meaning to read this for years!
-- -  __Compiler__ using __C__. Language implementation will (hopefully) be with __Rust__. 
+- __Compiler__ using __C__. Language implementation will (hopefully) be with __Rust__. 
 - __Operating System__ developed in __Rust__. Project Name: ___ros___.
 - __RDBMS (SQL)__ developed in __C++__. Hopefully look at doing this with __C++20__. Project Name: ___CDB++___. 
 - __Distributed File System__ development in __Golang__. Project Name: ___GoDistIt___.

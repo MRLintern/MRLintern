@@ -22,7 +22,7 @@
 - __Data Structures & Algorithms__ in __C__.
 
 ### Projects that are Comming Up
-- Re-developing the ___NavierStokes-2D-ChannelFlow___ __Fortran Solver__ from a __Serial__ to __Parallel__ version, making use of __OOP__ techniques and the __OpenMP__ API.
+- Re-developing the ___NavierStokes-2D-ChannelFlow___ __Fortran Solver__ from a __Serial__ to a __Parallel__ version, making use of __OOP__ techniques and the __OpenMP__ API.
 
 - A __Dynamic Library__ called ___cfvmLib___, developed in __C++__, (hopefully __C++20__), for problems in ___Fluid Dynamics___. The __Discretization Method__ used will be the __Finite Volume Method (FVM)__. __Linear__ problems will be tackled first; hopefully __Non-Linear__ problems will be tackled not too far down the line!
 - __Linux Kernel__ called ___basix___.

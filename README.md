@@ -15,7 +15,7 @@
 - __Applied Mathematics__: E.g. __Numerical Analysis__: __Numerical Linear Algebra__ and __Numerical Ordinary/Partial Differential Equations__.
 
 ### What I'm up to?
-- Developing a __Modern Fortran Solver__ for __2D Heat Diffusion Through Different Geological Materials__. Makes use of __OOP__ techniques and the __OpenMP__ API. Project Name: ___2D-GeoHeatFlow___.
+- Developing a __Modern Fortran Solver__ for __2D Heat Diffusion Through Different Geological Materials__. Makes use of __OOP__ techniques and the __OpenMP__ API. Project Name: ___2DGeoHF___.
 
 - Developing a __C++ Solver__ for the ___Burgers Equation___ for __2D Channel Flow__. Concepts/tools that will be utilised: __OOP__, the __Finite Element Method (FEM)__ and the __Eigen Template Library__ for the __Algebra__. Project Name: ___2D_BurgerFEM___.
 - Developing __Unit Tests__ for a number of solvers developed in __C__. See repositories from __High Performance Computing Applications for Physical Simulation__. 

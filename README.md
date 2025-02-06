@@ -95,7 +95,7 @@
 <br />
   
 
-### What are you interested in?
+### Sample Projects (at the click of a button)
 Below shows a list of links to some of my repositories.
 #### Systems Programming
 - [Systems Monitor similar to htop](https://github.com/MRLintern/System-Monitor).

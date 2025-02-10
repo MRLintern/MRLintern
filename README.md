@@ -17,6 +17,9 @@
 ### What I'm up to?
 - Developing a __Modern Fortran Solver__ for __2D Heat Diffusion Through Different Geological Materials__. Makes use of __OOP__ techniques and the __OpenMP__ API. Project Name: ___2DGeoHF___.
 
+
+-___viscousRiver___: a __C++__ solver for modelling a ___Viscous Fluid flowing through a Channel___. Makes use of the __Finite Element Method (FEM)___ and the __Eigen Template Library__ for the __Algebra__.
+
 - ___lidFlowFVM___. This is a __C++__ solver, which models __Lid-Driven Cavity Flow__. The __Discretization Method__ used will be the __Finite Volume Method (FVM)__. Everything else will be developed by myself.
 
 - Developing a __C++ Solver__ for the ___Burgers Equation___ for __2D Channel Flow__. Concepts/tools that will be utilised: __OOP__, the __Finite Element Method (FEM)__ and the __Eigen Template Library__ for the __Algebra__. Project Name: ___2D_BurgerFEM___.

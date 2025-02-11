@@ -23,12 +23,13 @@
 - ___lidFlowFVM___. This is a __C++__ solver, which models __Lid-Driven Cavity Flow__. The __Discretization Method__ used will be the __Finite Volume Method (FVM)__. Everything else will be developed by myself.
 
 - Developing a __C++ Solver__ for the ___Burgers Equation___ for __2D Channel Flow__. Concepts/tools that will be utilised: __OOP__, the __Finite Element Method (FEM)__ and the __Eigen Template Library__ for the __Algebra__. Project Name: ___2D_BurgerFEM___.
-- Developing __Unit Tests__ for a number of solvers developed in __C__. See repositories from __High Performance Computing Applications for Physical Simulation__. 
+- 
 - __Data Structures & Algorithms__ in __C__.
 
 ### Projects that are Comming Up
 - Re-developing the ___NavierStokes-2D-ChannelFlow___ __Fortran Solver__ from a __Serial__ to a __Parallel__ version, making use of __OOP__ techniques and the __OpenMP__ API.
 
+- Developing __Unit Tests__ for a number of solvers developed in __C__. See repositories from __High Performance Computing Applications for Physical Simulation__. 
 - A __Dynamic Library__ called ___cfvmLib___, developed in __C++__, (hopefully __C++20__), for problems in ___Fluid Dynamics___. The __Discretization Method__ used will be the __Finite Volume Method (FVM)__. __Linear__ problems will be tackled first; hopefully __Non-Linear__ problems will be tackled not too far down the line!
 - __Linux Kernel__ called ___basix___.
 - __Operating Systems: Three Easy Pieces__. I've been meaning to read this for years!

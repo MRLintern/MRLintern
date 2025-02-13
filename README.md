@@ -118,9 +118,6 @@ Below shows a list of links to some of my repositories.
 - [2D Heat Equation Solver using OpenMP](https://github.com/MRLintern/2D-Heat-Equation_OpenMP).
 - [2D Heat Equation Solver using MPI](https://github.com/MRLintern/2D_Heat_Equation-MPI).
 - [1D Wave Equation Solver using MPI](https://github.com/MRLintern/1D_Wave-Equation-MPI).
-- [](https://www.sciencedirect.com/science/article/pii/S0920410516312712#sec4)
-
-
 
 
 

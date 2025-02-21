@@ -100,8 +100,8 @@
 <br />
   
 
-### Sample Projects (at the click of a button)
-Below shows a list of links to some of my repositories.
+### Sample Projects
+Below shows a list of links to some of my repositories that I'm quite chuffed with.
 #### Systems Programming
 - [Systems Monitor similar to htop](https://github.com/MRLintern/System-Monitor).
 - [Memory Leak Detection with Modern C++: Garbage Collector](https://github.com/MRLintern/Garbage-Collector).

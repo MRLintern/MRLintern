@@ -6,9 +6,10 @@
 * <lintern121184@gmail.com>
 
 ### Interests
-- Languages I prefer developing with: __C, Modern C++, Fortran, Rust & Golang__. However, I've got a decent amount of experience using __MATLAB__ & __Python__.
+- Languages I prefer developing with: __C, Modern C++, Fortran, Rust & Golang__. However, I've got a decent amount of experience using __MATLAB__ & __Python__ from my time working in the __Oil & Gas__ and __Retail Analytics__ industries.
   
 - __High Performance Computing__. E.g __OpenCL__ & __SYCL__; I'll be doing some projects using these (at some point in the next couple of months).
+- __Machine Learning and Fluid Dynamics__. E.g. Application of __Deep Learning Algorithms/Methods__ for replacing or augmenting __Conventional Numerical Solvers__ in __Fluid Dynamics__.
 - __Computational Science__. 
 - __Systems Programming__: E.g. __Operating Systems/Kernel Development__ & __Compiler Development__
 - __Scientific Programming__: E.g. __Modelling and Simulation__ of problems in __Fluid Dynamics__ & the __Physical Sciences__.

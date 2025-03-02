@@ -21,12 +21,14 @@
 
 
 - ___viscousRiver___: a __C++__ solver for modelling a ___Viscous Fluid flowing through a Channel___. Makes use of the __Finite Element Method (FEM)__ and the __Eigen Template Library (Eigen)__ for the __Algebra__.
-- Developing a __C++ Solver__ for the ___Burgers Equation___ for __2D Channel Flow__. Concepts/tools that will be utilised: __OOP__, the __Finite Element Method (FEM)__ and the __Eigen Template Library__ for the __Algebra__. Project Name: ___2D_BurgerFEM___.
+- Developing a __C++ Solver__ for the ___Burgers Equation___ for __2D Channel Flow__. Concepts/tools that will be utilised: __OOP__, the __Finite Element Method (FEM)__ and the __Eigen Template Library__ for the __Algebra__. Project Name: ___burgerFLOW___.
 
 
 ### Projects that are Comming Up
 - Re-developing the ___NavierStokes-2D-ChannelFlow___ __Fortran Solver__ from a __Serial__ to a __Parallel__ version, making use of __OOP__ techniques and the __OpenMP__ API.
- 
+
+  
+- ___fastFLOW___: a solver for either ___burgerFLOW___ or ___viscousRiver___, using the __SYCL Framework__, the __Finite Element Method__ and the __Eigen C++ Template Library__. Initially this will be a project that looks at applying __Heterogeneous Computing__ to __Fluid Dynamics__. If this works out, I'd like to incorporate some sort of __Neural Network__.
 - ___sigPro___. This is a __Dynamic Library (.SO)__ developed in __Modern C++__, (hopefully __C++20__), which allows user to perform basic __Signal Processing__ tasks. E.g. converting __spacial or  temporal data into frequency data__ via the __Discrete Fourier Transform (DFT)__.
 - ___fastDFT___. Using __OpenCL__ to develop a solver for the __Discrete Fourier Transform (DFT)__.
 - ___lidFlowFVM___. This is a __C++__ solver, which models __Lid-Driven Cavity Flow__. The __Discretization Method__ used will be the __Finite Volume Method (FVM)__. Everything else will be developed by myself.

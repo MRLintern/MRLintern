@@ -10,7 +10,7 @@
   
 - __High Performance Computing__. E.g __OpenCL__ & __SYCL__; I'll be doing some projects using these (at some point in the next couple of months).
 - __Machine Learning (Fluid Dynamics)__. E.g. Application of __Deep Learning Algorithms/Methods__ for replacing or augmenting __Conventional Numerical Solvers__ in __Fluid Dynamics__.
-- __Machine Learning (Natural Language Processing)__. I've used this in a couple of jobs and it proved to be very informative. E.g. I used __Sentiment Analysis__ while working at Tesco to understand customer opions of Tesco products.
+- __Machine Learning (Natural Language Processing)__. I've used this in a couple of jobs and it proved to be very informative. E.g. I used __Sentiment Analysis__ while working at Tesco to understand customer opinions of Tesco products.
 - __Computational Science__. 
 - __Systems Programming__: E.g. __Operating Systems/Kernel Development__ & __Compiler Development__
 - __Scientific Programming__: E.g. __Modelling and Simulation__ of problems in __Fluid Dynamics__ & the __Physical Sciences__.

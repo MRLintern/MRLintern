@@ -28,7 +28,7 @@
 
   
 - ___fastFLOW___: a solver for either ___burgerFLOW___ or ___viscousRiver___, using the __SYCL Framework__, the __Finite Element Method__ and the __Eigen C++ Template Library__. Initially this will be a project that looks at applying __Heterogeneous Computing__ to __Fluid Dynamics__. If this works out, I'd like to incorporate some sort of __Neural Network__.
-- ___sigPro___. This is a __Dynamic Library (.SO)__ developed in __Modern C++__, (hopefully __C++20__), which allows user to perform basic __Signal Processing__ tasks. E.g. converting __spacial or  temporal data into frequency data__ via the __Discrete Fourier Transform (DFT)__.
+- ___sigPro___. This is a __Dynamic Library (.SO)__ developed in __Modern C++__, (hopefully __C++20__), which allows the user to perform basic __Signal Processing__ tasks. E.g. converting __temporal data into frequency data__ via the __Discrete Fourier Transform (DFT)__.
 - ___fastDFT___. Using __OpenCL__ to develop a solver for the __Discrete Fourier Transform (DFT)__.
 - ___lidFlowFVM___. This is a __C++__ solver, which models __Lid-Driven Cavity Flow__. The __Discretization Method__ used will be the __Finite Volume Method (FVM)__. Everything else will be developed by myself.
 - Developing __Unit Tests__ for a number of solvers developed in __C__. See repositories from __High Performance Computing Applications for Physical Simulation__. 

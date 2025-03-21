@@ -6,15 +6,14 @@
 * <lintern121184@gmail.com>
 
 ### Interests
-- Languages I prefer developing with: __C, Modern C++, Fortran, Rust & Golang__. However, I've got a decent amount of experience using __MATLAB__ & __Python__ from my time working in the __Oil & Gas__ and __HR/Retail Analytics__ industries.
+- Languages I prefer developing with: __C, Modern C++ and Fortran__. However, I've got a decent amount of experience using __MATLAB__ & __Python__ from my time working in the __Oil & Gas__ and __HR/Retail Analytics__ industries.
   
-- __High Performance Computing__. E.g __OpenCL__ & __SYCL__; I'll be doing some projects using these (at some point in the next couple of months).
+
 - __Machine Learning (Fluid Dynamics)__. E.g. Application of __Deep Learning Algorithms/Methods__ for replacing or augmenting __Conventional Numerical Solvers__ in __Fluid Dynamics__.
 - __Machine Learning (Natural Language Processing)__. I've used this in a couple of jobs and it proved to be very informative. E.g. I used __Sentiment Analysis__ while working at Tesco to understand customer opinions of Tesco products.
 - __Computational Science__. 
-- __Systems Programming__: E.g. __Operating Systems/Kernel Development__ & __Compiler Development__
 - __Scientific Programming__: E.g. __Modelling and Simulation__ of problems in __Fluid Dynamics__ & the __Physical Sciences__.
-- __Applied Mathematics__: E.g. __Numerical Analysis__: __Numerical Linear Algebra__ and __Numerical Ordinary/Partial Differential Equations__.
+
 
 ### What I'm up to?
 - ___viscousRiver___: a __C++__ solver for modelling a ___Viscous Fluid flowing through a Channel___. Makes use of the __Finite Element Method (FEM)__ and the __Eigen Template Library (Eigen)__ for the __Algebra__.

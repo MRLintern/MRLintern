@@ -50,10 +50,7 @@
   
 
 ### Sample Projects
-Below shows a list of links to some of my repositories that I'm quite chuffed with.
-#### Systems Programming
-- [Systems Monitor similar to htop](https://github.com/MRLintern/System-Monitor).
-- [Memory Leak Detection with Modern C++: Garbage Collector](https://github.com/MRLintern/Garbage-Collector).
+Some projects I'm quite chuffed with.
 
 #### Scientific Computing
 - [Boundary Value Problem (BVP) Library](https://github.com/MRLintern/Boundary-Value-Problem_Library).

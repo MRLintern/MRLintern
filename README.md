@@ -4,8 +4,7 @@
 
 * Tel (Mob): 07813661626
 * <lintern121184@gmail.com>
-  https://img.shields.io/badge/:badgeContent
-
+ 
 
 ### Interests
 - Languages I prefer developing with: __C, Modern C++ and Fortran__. However, I've got a decent amount of experience using __MATLAB__ & __Python__ from my time working in the __Oil & Gas__ and __HR/Retail Analytics__ industries.

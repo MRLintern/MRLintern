@@ -20,7 +20,7 @@
 - ___viscousRiver___: a __C++__ solver for modelling a ___Viscous Fluid flowing through a Channel___. Makes use of the __Finite Element Method (FEM)__ and the __Eigen Template Library (Eigen)__ for the __Algebra__.
 
 
-- Developing a __C++ Solver__ for the ___Burgers Equation___ for __2D Channel Flow__. Concepts/tools that will be utilised: __OOP__, the __Finite Element Method (FEM)__ and the __Eigen Template Library__ for the __Algebra__. Project Name: ___burgerFLOW___.
+
 
 
 ### Projects that are Comming Up

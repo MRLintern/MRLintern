@@ -20,8 +20,10 @@
 - ___viscousRiver___: a __Modern C++__ solver for modelling a ___Viscous Fluid flowing through a Channel___. Makes use of the __Finite Element Method (FEM)__ and the __Eigen Template Library (Eigen)__ for the __Algebra__.
 
 - ___2D-NavierStokes_Flow___: a __Modern C++__ solver for solving the __2D Navier-Stokes Equations__ for a fluid in a River/Open Channel. Makes use of the __Eigen Template Library (Eigen)__ to implement the __Successive Over Relaxation (SOR) Algorithm__. This project is essentially a __C++__ version of the ___NavierStokes-2D-ChannelFlow___ __Fortran__ solver. However, instead of using __Finite Differences__ it will use the __Finite Element Method (FEM)__.
+ 
+- ___SORC++___: Using __Modern C++__ and __Eigen__ to implement the  __Successive Over Relaxation (SOR) Algorithm__. This will be used for the ___2D-NavierStokes_Flow___ project.
 
-- ___SORC++___: Using __Modern C++__ and __Eigen__ to implement the  __Successive Over Relaxation (SOR) Algorithm__. This will be used for the ___2D-NavierStokes_Flow___ project. 
+- ___Linear-Solvers___: This is software, developed in __Modern C++__, that compares the __Jacobi__, __Gauss-Seidel__ and __Successive Over Relaxation__ methods for solving __Linear Algebraic Systems__ of the form ___Ax = b___. The solvers/methods are developed using the __Eigen Library__. By compare, I mean, how long does it take for the solutions of ___Ax = b___ to converge for each method. Initially, a __serial__ approach is used, and then a __parallel__ approach using __OpenMP__. Performance metrics/indicators, such as, __speed-up__ and __efficiency__ will be calculated for the __parallel__ case.
 
 
 

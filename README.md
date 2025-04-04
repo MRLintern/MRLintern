@@ -60,7 +60,7 @@
 Some projects I'm quite chuffed with.
 
 #### Scientific Computing
-- [Boundary Value Problem (BVP) Library](https://github.com/MRLintern/Boundary-Value-Problem_Library).
+
 - [Application of the Shallow Water Equations to Problems in Oceanography & Planetary Atmospheres](https://github.com/MRLintern/Shallow_Water_Equations).
 - [Navier-Stokes Equation Solver for 2D Open Channel Flow](https://github.com/MRLintern/NavierStokes-2D-ChannelFlow).
 - [Application of the U-Net Convolutional Neural Network to Classify Salt and Sediment Structures in Oil & Gas Reservoirs](https://github.com/MRLintern/Salt_and_Sediment_Classification).

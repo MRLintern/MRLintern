@@ -19,7 +19,7 @@
 ### What I'm up to?
 - ___viscousRiver___: a __Modern C++__ solver for modelling a ___Viscous Fluid flowing through a Channel___. Makes use of the __Finite Element Method (FEM)__ and the __Eigen Template Library (Eigen)__ for the __Algebra__.
 
-- ___2D-NavierStokes_Flow___: a __C++__ solver for solving the __2D Navier-Stokes Equations__ for a fluid in a River/Open Channel. Makes use of the __Eigen Template Library (Eigen)__ to implement the __Successive Over Relaxation (SOR) Algorithm__. This project is essentially a __C++__ version of the ___NavierStokes-2D-ChannelFlow___ __Fortran__ solver. However, instead of using __Finite Differences__ it will use the __Finite Element Method (FEM)__. The __Mesh Points__ will be loaded into the application. The `meshPoints.dat` file from [viscousRiver](https://github.com/MRLintern/viscousRiver) will be used.
+- ___2D-NavierStokes_Flow___: a __C++__ solver for solving the __2D Navier-Stokes Equations__ for a fluid in a River/Open Channel. Makes use of the __Eigen Template Library (Eigen)__ to implement the __Successive Over Relaxation (SOR) Algorithm__. This project is essentially a __C++__ version of the ___NavierStokes-2D-ChannelFlow___ __Fortran__ solver. However, instead of using __Finite Differences__ it will use the __Finite Element Method (FEM)__. The __Mesh Points__ will be loaded into the application. The `meshPoints.dat` file from [viscousRiver](https://github.com/MRLintern/viscousRiver) will be used. Note: ___viscousRiver___ has to be run to use the resulting `meshPoints.dat` file.
  
 - ___SORC++___: Using __C++__ and __Eigen__ to implement the  __Successive Over Relaxation (SOR) Algorithm__. This will be used for the ___2D-NavierStokes_Flow___ project.
 

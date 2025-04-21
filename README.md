@@ -19,7 +19,8 @@
 ### What I'm up to?
 - ___viscousRiver___: a __Modern C++__ solver for modelling a ___Viscous Fluid flowing through a Channel___. Makes use of the __Finite Element Method (FEM)__ and the __Eigen Template Library (Eigen)__ for the __Algebra__. Currently refactoring the software to make it more modular; its all in 1 `main.cpp` source file.
 
-- ___2D-Navier-Stokes_FEM_Solver___: a __C++__ solver for solving the __2D Navier-Stokes Equations__ for a fluid in a River/Open Channel. Makes use of the __Eigen Template Library (Eigen)__ to implement __Matrices and Vectors__ and the __Successive Over Relaxation (SOR) Algorithm__ to solve for  __Velocity__ and __Pressure__. ___caveat___: The __SOR Algorithm__ is only appropriate if the __Velocity__ and __Pressure__ __Matrices__ are __symmetric positive__. So if there are __non-symmetric convective terms__, __SOR__ might not converge reliably.
+- ___2D-Navier-Stokes_FEM_Solver___: a __C++__ solver for solving the __2D Navier-Stokes Equations__ for a fluid in a River/Open Channel. Makes use of the __Eigen Template Library (Eigen)__ to implement __Matrices and Vectors__ and the __Successive Over Relaxation (SOR) Algorithm__ to solve for  __Velocity__ and __Pressure__.
+  - ___caveat___: The __SOR Algorithm__ is only appropriate if the __Velocity__ and __Pressure__ __Matrices__ are __symmetric positive__. So if there are __non-symmetric convective terms__, __SOR__ might not converge reliably.
 
  
 

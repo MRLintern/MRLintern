@@ -18,13 +18,9 @@
 
 ### What I'm up to?
 
-- ___NavierStokes-2D-Open-Channel-Flow-CPP___. This is a __Modern C++__ version of the [NavierStokes-2D-Open-Channel-Flow Fortran Solver](https://github.com/MRLintern/NavierStokes-2D-Open-Channel-Flow). The __2D Navier-Stokes Equations__ are discretisised via the __Finite Difference Method__. The __Velocity__ and __Pressure__ matrices are solved via the __Successice Over Relaxation (SOR)__ Iterative Method. The resulting data (`.dat/.csv`) will be plotted via a `Python script`. I will also attempt to make an `animation` of the __Velocity__ and __Pressure__ fields.
+
 - ___viscousRiver___: a __Modern C++__ solver for modelling a ___Viscous Fluid flowing through a Channel___. Makes use of the __Finite Element Method (FEM)__ and the __Eigen Template Library (Eigen)__ for the __Algebra__. Currently refactoring the software to make it more modular; its all in 1 `main.cpp` source file.
 
-- ___2D-Navier-Stokes_FEM_Solver___: a __C++__ solver for solving the __2D Navier-Stokes Equations__ for a fluid in a River/Open Channel. Makes use of the __Eigen Template Library (Eigen)__ to implement __Matrices and Vectors__ and the __Conjugate Gradient Method__ to solve for  __Velocity__ and __Pressure__. A `Python` script will be provided to visualise the `Velocity` and the `Pressure` fields.
- 
-
- 
 
 - ___Parallel_Linear-Solvers___: __C++20__ __OOD__ software which utilises __OpenMP__ and the __Red-Black Ordering Scheme__ to parallelise the __Jacobi__, __Gauss-Seidel__ and __Successive Over Relaxation (SOR)__ iterative methods. __Bench-Marking__, __Performance__ and __Convergence Rates__ are considered, and __matplotlib-cpp__ will be used to __Visualise Convergence__. 
 

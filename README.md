@@ -22,8 +22,7 @@
 - ___viscousRiver___: a __Modern C++__ solver for modelling a ___Viscous Fluid flowing through a Channel___. Makes use of the __Finite Element Method (FEM)__ and the __Eigen Template Library (Eigen)__ for the __Algebra__. Currently refactoring the software to make it more modular; its all in 1 `main.cpp` source file.
 
 
-- ___Parallel_Linear-Solvers___: __C++20__ __OOD__ software which utilises __OpenMP__ and the __Red-Black Ordering Scheme__ to parallelise the __Jacobi__, __Gauss-Seidel__ and __Successive Over Relaxation (SOR)__ iterative methods. __Bench-Marking__, __Performance__ and __Convergence Rates__ are considered, and __matplotlib-cpp__ will be used to __Visualise Convergence__. 
-
+- ___Parallel_Linear-Solvers___: Project done. Currently experimenting with plotting tasks.
 
 
 

@@ -22,8 +22,6 @@
 - ___viscousRiver___: a __Modern C++__ solver for modelling a ___Viscous Fluid flowing through a Channel___. Makes use of the __Finite Element Method (FEM)__ and the __Eigen Template Library (Eigen)__ for the __Algebra__. Currently refactoring the software to make it more modular; its all in 1 `main.cpp` source file.
 
 
-- ___Parallel_Linear-Solvers___: Project done. Currently experimenting with plotting tasks.
-
 
 
 

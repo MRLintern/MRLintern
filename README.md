@@ -16,10 +16,7 @@
 
 
 ### What I'm up to?
-
-
-- ___viscousRiver___: a __Modern C++__ solver for modelling a ___Viscous Fluid flowing through a Channel___. Makes use of the __Finite Element Method (FEM)__ and the __Eigen Template Library (Eigen)__ for the __Algebra__. Currently refactoring the software to make it more modular; its all in 1 `main.cpp` source file.
-
+* ___PoissonDensity___: a __2D C++17 Solver__ for solving __Poissons Equation__ in order to find the __Mass-Density Distribution__ within __Earth's Mantle__. The __Finite Element Method__ is used to discretise Poisson's Equation and __Eigen__ is used for managing the __System of Algebraic Equations__. The __Problem Domain__ consists of an __Annulus__, which is divided into __Finite Element Triangles__. The __Mesh__ is uploaded via a file, created using ___gmsh___, a __Finite-Element Mesh Generator__.
 
 
 

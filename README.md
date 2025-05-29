@@ -19,7 +19,7 @@
 * ___PoissonDensity___: a `2D C++17` Solver for solving __Poissons Equation__ in order to find the __Mass-Density Distribution__ within __Earth's Mantle__. The __Finite Element Method__ is used to discretise Poisson's Equation and __Eigen__ is used for managing the __System of Algebraic Equations__. The __Problem Domain__ consists of an __Annulus__, which is divided into __Finite Element Triangles__. The __Mesh__ is uploaded via a file, created using ___Gmsh___, a __Finite-Element Mesh Generator__.
 
 
-* ___Conjugate_Gradient_Method___: a `C++17 Solver` which implements the __Conjugate Gradient Method__ for solving __Algebraic Systems__ of the form __Ax = b__. This solver will be used in the [PoissonDensity](https://github.com/MRLintern/PoissonDensity) project.
+
 
 
 

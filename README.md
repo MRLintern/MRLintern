@@ -15,10 +15,8 @@
 - __Scientific Programming__: E.g. __Modelling and Simulation__ of problems in __Fluid Dynamics__ & the __Physical Sciences__.
 
 
-### What I'm up to?
-* ___PoissonDensity___: a `2D C++17` Solver for solving __Poissons Equation__ in order to find the __Mass-Density Distribution__ within __Earth's Mantle__. The __Finite Element Method__ is used to discretise Poisson's Equation and __Eigen__ is used for managing the __System of Algebraic Equations__. The __Problem Domain__ consists of an __Annulus__, which is divided into __Finite Element Triangles__. The __Mesh__ is uploaded via a file, created using ___Gmsh___, a __Finite-Element Mesh Generator__.
-
-
+### What I'm Up To
+* Thinking...
 
 
 

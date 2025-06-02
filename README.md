@@ -13,6 +13,7 @@
 - __Machine Learning (Natural Language Processing)__. I've used this in a couple of jobs and it proved to be very informative. E.g. I used __Sentiment Analysis__ while working at Tesco to understand customer opinions of Tesco products.
 - __Computational Science__. 
 - __Scientific Programming__: E.g. __Modelling and Simulation__ of problems in __Fluid Dynamics__ & the __Physical Sciences__.
+- __Systems-Level Programming__.
 
 
 ### What I'm Up To

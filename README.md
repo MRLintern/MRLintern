@@ -17,6 +17,9 @@
 
 
 ### What I'm Up To
+* Refactoring [2D_Poisson_Equation_OpenMP](https://github.com/MRLintern/2D_Poisson_Equation_OpenMP) into a __Modular Form__ which includes __Unit Testing__ via a __Bash Script__.
+
+
 * Developing a __Modern (Pure) Modular Fortran__ version of [NavierStokes-2D-Open-Channel-Flow](https://github.com/MRLintern/NavierStokes-2D-Open-Channel-Flow) using __OOD__. Unlike the original solver, this one uses ___Coarrays___ and ___Domain Decomposition___ for `Parallelism`.
 
  

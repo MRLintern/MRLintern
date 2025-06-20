@@ -6,7 +6,12 @@
  
 
 ## Interests
-- Languages I prefer developing with: __C, Modern C++ and Fortran__. However, I've got a decent amount of experience using __MATLAB__ & __Python__ from my time working in the __Oil & Gas__ and __HR/Retail Analytics__ industries.
+- Languages I love working with:
+   * __C__,
+   * __Modern C++__,
+   * __Fortran__,
+   * __Python__ &
+   * __MATLAB__.
   
 
 - __Machine Learning (Fluid Dynamics)__. E.g. Application of __Deep Learning Algorithms/Methods__ for replacing or augmenting __Conventional Numerical Solvers__ in __Fluid Dynamics__.

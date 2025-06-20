@@ -24,6 +24,16 @@
 
 
 ### Future Projects:
+* The following projects are ___ideas___; I might not do them.
+
+
+
+* ___Ocean-Kit___: A `C++17` __Library__ which helps users solve __Partial Differential Equations (PDEs)__ that model different __2D Ocean Models__.
+
+* ___Tsunami-Solver___: A `C++17` Non-Linear Solver which models Tsunamis by solving the __2D Shallow Water Equations__.
+
+* ___Barotropic-Circulation___: A `C++17` solver which models __Large-Scale Ocean Gyres__ and __Wind-Driven Circulation__ by solving the __Linearized Shallow Water Equations__ on a __Beta Plane__ using __FEM__.
+  
 * ___GeoCoreFlow___: This project looks at producing __Core-Surface Flow Maps/Models__ at the __Earths Core Mantle Boundary (CMB)__. These maps are created by solving an __Ill-Posed Inverse Problem__. The ___Magnetic Induction Equation___ is inverted to find the __Flow Velocity__ of the __Earth's Liquid Outer Core__ at the top of the __CMB__. ___Magentic Field Data___ from, e.g. __CHAMP__ will be used to for modelling the __Geomagnetic Field__ near Earth's surface. I.e. mapping the __Geomagnetic Field__ onto a __Spherical Shell__, and __Secular Variation Data__ from, e.g., __CHAOS__ or __IGRF__ will be used to invert the __Magnetic Induction Equation__ with __Physical Constraints/Assumptions__. Key __Technologies/Techniques/Theory__ to be used: `C++17`, `Eigen Template Library`, `Python`, __Inverse Theory__, __Fluid Dynamics__, __Spectral Methods__ and other __Numerical Methods__ for the solver.
 
 

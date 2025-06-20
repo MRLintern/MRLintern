@@ -1,11 +1,11 @@
-## Hello 👋, I'm Matthew Lintern-Monro, but I go by Matt
+# Hello 👋, I'm Matthew Lintern-Monro, but I go by Matt
 
-### Contact Me:
+## Contact Me:
 
 * <lintern121184@gmail.com>
  
 
-### Interests
+## Interests
 - Languages I prefer developing with: __C, Modern C++ and Fortran__. However, I've got a decent amount of experience using __MATLAB__ & __Python__ from my time working in the __Oil & Gas__ and __HR/Retail Analytics__ industries.
   
 
@@ -16,12 +16,15 @@
 - __Systems-Level Programming__.
 
 
-### What I'm Up To
+## What I'm Up To
+
+### Currently Working on:
 
 * Developing a __Modern (Pure) Modular Fortran__ version of [NavierStokes-2D-Open-Channel-Flow](https://github.com/MRLintern/NavierStokes-2D-Open-Channel-Flow) using __OOD__. Unlike the original solver, this one uses ___Coarrays___ and ___Domain Decomposition___ for `Parallelism`.
 
- 
-* ___Possible Project___: ___GeoCoreFlow___: This project looks at producing __Core-Surface Flow Maps/Models__ at the __Earths Core Mantle Boundary (CMB)__. These maps are created by solving an __Ill-Posed Inverse Problem__. The ___Magnetic Induction Equation___ is inverted to find the __Flow Velocity__ of the __Earth's Liquid Outer Core__ at the top of the __CMB__. ___Magentic Field Data___ from, e.g. __CHAMP__ will be used to for modelling the __Geomagnetic Field__ near Earth's surface. I.e. mapping the __Geomagnetic Field__ onto a __Spherical Shell__, and ___Secular Variation Data__ from, e.g., __CHAOS__ or __IGRF__ will be used to invert the __Magnetic Induction Equation__ with __Physical Constraints/Assumptions__. Key __Technologies/Techniques/Theory__ to be used: `C++17`, `Eigen Template Library`, `Python`, __Inverse Theory__, __Fluid Dynamics__, __Spectral Methods__ and other __Numerical Methods__ for the solver.
+
+### Future Projects
+* ___GeoCoreFlow___: This project looks at producing __Core-Surface Flow Maps/Models__ at the __Earths Core Mantle Boundary (CMB)__. These maps are created by solving an __Ill-Posed Inverse Problem__. The ___Magnetic Induction Equation___ is inverted to find the __Flow Velocity__ of the __Earth's Liquid Outer Core__ at the top of the __CMB__. ___Magentic Field Data___ from, e.g. __CHAMP__ will be used to for modelling the __Geomagnetic Field__ near Earth's surface. I.e. mapping the __Geomagnetic Field__ onto a __Spherical Shell__, and ___Secular Variation Data__ from, e.g., __CHAOS__ or __IGRF__ will be used to invert the __Magnetic Induction Equation__ with __Physical Constraints/Assumptions__. Key __Technologies/Techniques/Theory__ to be used: `C++17`, `Eigen Template Library`, `Python`, __Inverse Theory__, __Fluid Dynamics__, __Spectral Methods__ and other __Numerical Methods__ for the solver.
 
 
 

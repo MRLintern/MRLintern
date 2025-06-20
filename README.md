@@ -10,7 +10,7 @@
    * __C__,
    * __Modern C++__,
    * __Fortran__,
-   * __Python__ &
+   * __Python__,
    * __MATLAB__.
   
 

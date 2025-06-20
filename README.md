@@ -30,7 +30,7 @@
 
 * ___Ocean-Kit___: A `C++17` __Library__ which helps users solve __Partial Differential Equations (PDEs)__ that model different __2D Ocean Models__.
 
-* ___Tsunami-Solver___: A `C++17` Non-Linear Solver which models Tsunamis by solving the __2D Shallow Water Equations__.
+* ___Tsunami-Solver___: A `C++17` Non-Linear Solver which models __Tsunamis__ by solving the __2D Shallow Water Equations__.
 
 * ___Barotropic-Circulation___: A `C++17` solver which models __Large-Scale Ocean Gyres__ and __Wind-Driven Circulation__ by solving the __Linearized Shallow Water Equations__ on a __Beta Plane__ using __FEM__.
   

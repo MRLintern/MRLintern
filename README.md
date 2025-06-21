@@ -6,7 +6,7 @@
 
 ## About Me
 * __Geophysicist__ by trade who fell into __Data Science & Machine Learning__.
-* My real passion is __Scientific Programming & Software Development__ applied to areas in __Applied Mathematics__, such as __Geophysical Fluid Dynamics__.
+* My real passion is __Scientific Programming & Software Engineering__ applied to areas in __Applied Mathematics__, such as __Geophysical Fluid Dynamics__ and __Numerical Analysis__.
 * I'm also interested in __Computational Science__; it takes the best parts of __Computer Science__ and combines it with general Science.
 
 ## Interests

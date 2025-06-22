@@ -50,8 +50,8 @@
 
 ---
 ## Sample Projects
-* Some projects I'm quite chuffed of.
----
+* Some projects I'm quite chuffed of can be found below:
+
 ### Scientific Computing
 
 - [Application of the Shallow Water Equations to Problems in Oceanography & Planetary Atmospheres](https://github.com/MRLintern/Shallow_Water_Equations). This software has been used by a chap in China for his Ph.D in Hydrogeology. Please ask for information on the details of his Ph.D and its use.

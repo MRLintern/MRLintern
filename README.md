@@ -1,14 +1,14 @@
 # Hello 👋, I'm Matthew Lintern-Monro, but I go by Matt
-
+---
 ## Contact Me:
 
 * <lintern121184@gmail.com>
-
+---
 ## About Me
 * __Geophysicist__ by trade who fell into __Data Science & Machine Learning__.
 * My real passion is __Scientific Programming & Software Engineering__ applied to areas in __Applied Mathematics__, such as __Geophysical Fluid Dynamics__ and __Numerical Analysis__.
 * I'm also interested in __Computational Science__; it takes the best parts of __Computer Science__ and combines it with general Science.
-
+---
 ## Interests
 - Languages I love working with:
    * __C__,
@@ -24,13 +24,13 @@
 - __Scientific Programming__: E.g. __Modelling and Simulation__ of problems in __Fluid Dynamics__ & the __Physical Sciences__.
 - __Systems-Level Programming__.
 
-
+---
 ## What I'm Up To
-
+---
 ### Currently Working on:
 
 * ___Tsunami-Solver___: A `C++17` Non-Linear Solver which models __Tsunamis__ by solving the __2D Shallow Water Equations__.
-
+---
 ### Future Projects:
 * The following projects are ___ideas___; I might not do them.
 
@@ -46,14 +46,14 @@
 * ___GeoCoreFlow___: This project looks at producing __Core-Surface Flow Maps/Models__ at the __Earths Core Mantle Boundary (CMB)__. These maps are created by solving an __Ill-Posed Inverse Problem__. The ___Magnetic Induction Equation___ is inverted to find the __Flow Velocity__ of the __Earth's Liquid Outer Core__ at the top of the __CMB__. ___Magentic Field Data___ from, e.g. __CHAMP__ will be used to for modelling the __Geomagnetic Field__ near Earth's surface. I.e. mapping the __Geomagnetic Field__ onto a __Spherical Shell__, and __Secular Variation Data__ from, e.g., __CHAOS__ or __IGRF__ will be used to invert the __Magnetic Induction Equation__ with __Physical Constraints/Assumptions__. Key __Technologies/Techniques/Theory__ to be used: `C++17`, `Eigen Template Library`, `Python`, __Inverse Theory__, __Fluid Dynamics__, __Spectral Methods__ and other __Numerical Methods__ for the solver.
 
 
-
+---
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRLintern&layout=compact&theme=rose_pine&hide=jupyter%20notebook,javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
 ## Sample Projects
 * Some projects I'm quite chuffed of.
-
+---
 ### Scientific Computing
 
 - [Application of the Shallow Water Equations to Problems in Oceanography & Planetary Atmospheres](https://github.com/MRLintern/Shallow_Water_Equations). This software has been used by a chap in China for his Ph.D in Hydrogeology. Please ask for information on the details of his Ph.D and its use.
@@ -61,6 +61,7 @@
 - [Application of the U-Net Convolutional Neural Network to Classify Salt and Sediment Structures in Oil & Gas Reservoirs](https://github.com/MRLintern/Salt_and_Sediment_Classification).
 - [StokesianFlow; A Modern C++ Solver which uses the Finite Element Method and the Eigen Template Library to Model a Viscous Liquid Flowing through an Open Channel/River](https://github.com/MRLintern/StokesianFlow).
 
+---
 ### High Performance Computing Applications for Physical Simulation
 - [2D Poisson Equation Solver with OpenMP](https://github.com/MRLintern/2D_Poisson_Equation_OpenMP).
 - [2D Heat Equation Solver using OpenMP](https://github.com/MRLintern/2D-Heat-Equation_OpenMP).

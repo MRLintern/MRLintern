@@ -30,7 +30,7 @@
 ### Currently Working on:
 
 * ___Tsunami-Solver___: A `C++17` Non-Linear Solver which models __Tsunamis__ by solving the __2D Shallow Water Equations__.
----
+
 ### Future Projects:
 * The following projects are ___ideas___; I might not do them.
 

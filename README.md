@@ -29,7 +29,7 @@
 
 ### Currently Working on:
 
-* Refactoring [1D_Wave_Equation-MPI](https://github.com/MRLintern/1D_Wave-Equation-MPI) into a more __modular__ form.
+* Refactoring [1D_Wave_Equation-MPI](https://github.com/MRLintern/1D_Wave-Equation-MPI) into a more __modular__ form. Additions to be added: `Unit Testing` and `Plotting`.
 
 * ___Tsunami-Solver___: A `C++17` Non-Linear Solver which models __Tsunamis__ by solving the __2D Shallow Water Equations__.
 

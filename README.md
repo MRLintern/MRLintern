@@ -10,12 +10,59 @@
 * I'm also interested in __Computational Science__; it takes the best parts of __Computer Science__ and combines them with __Science__.
 ---
 ## Interests
-- Languages I love working with:
-   * __C__,
-   * __Modern C++__,
-   * __Fortran__,
-   * __Python__,
-   * __MATLAB__.
+- The table below shows tool and technologies I like working with:
+
+<table>
+  <tr>
+    <td>Programming Languages</td>
+    <td>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/></a>
+     </td>
+  </tr>
+  <tr>
+    <td>Scripting</td>
+    <td>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/></a>
+    </td>
+   </tr>
+   <tr>
+    <td>Data Analytics</td>
+    <td>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Things I'd Like to Start Using</td>
+    <td>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/opencl/opencl-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="40" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Databases</td>
+    <td>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Other</td>
+    <td>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="prfile40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/></a>
+    </td>
+  </tr>
+</table>
+
+<br />
   
 
 - __Machine Learning (Fluid Dynamics)__. E.g. Application of __Deep Learning Algorithms/Methods__ for replacing or augmenting __Conventional Numerical Solvers__ in __Fluid Dynamics__.

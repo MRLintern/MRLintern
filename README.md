@@ -57,6 +57,7 @@
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="prfile40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/></a>
     </td>
   </tr>
 </table>

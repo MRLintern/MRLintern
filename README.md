@@ -6,11 +6,11 @@
 ---
 ## About Me
 * __Geophysicist__ by trade who fell into __Data Science & Machine Learning__.
-* My real passion is __Scientific Programming & Software Engineering__ applied to areas in __Applied Mathematics__, such as __Geophysical Fluid Dynamics__ and __Numerical Analysis__.
+* My real passion is __Software Engineering__ using __Modern C++__, and using it solve problems in __Applied Mathematics__, the __Physical Sciences__ and aspects of __Engineering__.
 * I'm also interested in __Computational Science__; it takes the best parts of __Computer Science__ and combines them with __Science__.
 ---
 ## Interests
-- The table below shows tool and technologies I like working with:
+- The table below shows tools and technologies I like working with:
 
 <table>
   <tr>

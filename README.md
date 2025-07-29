@@ -83,6 +83,11 @@
 ### Future Projects:
 * The following projects are ___ideas___; I might not do them.
 
+* ___2DWavePINN___: A `C++17` program which solves the __2D Wave Equation__ via a ___Physics Informed Neural Network (PINN)___. 
+
+* ___Tsunami-Solver___: A `C++17` Non-Linear Solver which models __Tsunamis__ by solving the __2D Shallow Water Equations__.
+
+
 * ___Ocean-Kit___: A `C++17` __Library__ which helps users solve __Partial Differential Equations (PDEs)__ that model different __2D Ocean Models__.
 
 * Developing a __Modern (Pure) Modular Fortran__ version of [NavierStokes-2D-Open-Channel-Flow](https://github.com/MRLintern/NavierStokes-2D-Open-Channel-Flow) using __OOD__. Unlike the original solver, this one uses ___Coarrays___ and ___Domain Decomposition___ for `Parallelism`.

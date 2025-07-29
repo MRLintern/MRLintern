@@ -76,6 +76,8 @@
 
 ### Currently Working on:
 
+* Updating skill-set; e.g. `Java` and some basic `Full-Stack Development`.
+
 * Refactoring [1D_Wave_Equation-MPI](https://github.com/MRLintern/1D_Wave-Equation-MPI) into a more __modular__ form. Additions to be added: `Unit Testing` and `Plotting`.
 
 

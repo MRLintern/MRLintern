@@ -78,14 +78,14 @@
 
 * Updating skill-set; e.g. `Java` and some basic `Full-Stack Development`.
 
+*  ___2DWavePINN___: A `C++17` program which solves the __2D Wave Equation__ via a ___Physics Informed Neural Network (PINN)___. 
+
 * Refactoring [1D_Wave_Equation-MPI](https://github.com/MRLintern/1D_Wave-Equation-MPI) into a more __modular__ form. Additions to be added: `Unit Testing` and `Plotting`.
 
 
 
 ### Future Projects:
 * The following projects are ___ideas___; I might not do them.
-
-* ___2DWavePINN___: A `C++17` program which solves the __2D Wave Equation__ via a ___Physics Informed Neural Network (PINN)___. 
 
 * ___Tsunami-Solver___: A `C++17` Non-Linear Solver which models __Tsunamis__ by solving the __2D Shallow Water Equations__.
 

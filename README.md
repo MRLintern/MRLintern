@@ -113,14 +113,18 @@
 * Some projects I'm quite chuffed of can be found below:
 
 ### Scientific Computing
-
+#### MATLAB
 - [Application of the Shallow Water Equations to Problems in Oceanography & Planetary Atmospheres](https://github.com/MRLintern/Shallow_Water_Equations). This software has been used by a chap in China for his Ph.D in Hydrogeology. Please ask for information on the details of his Ph.D and its use.
+#### Fortran
 - [Navier-Stokes Equation Solver for 2D Open Channel Flow](https://github.com/MRLintern/NavierStokes-2D-ChannelFlow).
+#### Python
 - [Application of the U-Net Convolutional Neural Network to Classify Salt and Sediment Structures in Oil & Gas Reservoirs](https://github.com/MRLintern/Salt_and_Sediment_Classification).
+#### C++14
 - [StokesianFlow; A Modern C++ Solver which uses the Finite Element Method and the Eigen Template Library to Model a Viscous Liquid Flowing through an Open Channel/River](https://github.com/MRLintern/StokesianFlow).
 
 
 ### High Performance Computing Applications for Physical Simulation
+#### C
 - [2D Poisson Equation Solver with OpenMP](https://github.com/MRLintern/2D_Poisson_Equation_OpenMP).
 - [2D Heat Equation Solver using OpenMP](https://github.com/MRLintern/2D-Heat-Equation_OpenMP).
 - [2D Heat Equation Solver using MPI](https://github.com/MRLintern/2D_Heat_Equation-MPI).

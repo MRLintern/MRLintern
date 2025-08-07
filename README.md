@@ -123,7 +123,7 @@
 - [StokesianFlow; A Modern C++ Solver which uses the Finite Element Method and the Eigen Template Library to Model a Viscous Liquid Flowing through an Open Channel/River](https://github.com/MRLintern/StokesianFlow).
 
 
-### High Performance Computing Applications for Physical Simulation
+### High Performance Computing: Applied Mathematics and Scientific Computing
 #### C
 - [2D Poisson Equation Solver with OpenMP](https://github.com/MRLintern/2D_Poisson_Equation_OpenMP).
 - [2D Heat Equation Solver using OpenMP](https://github.com/MRLintern/2D-Heat-Equation_OpenMP).

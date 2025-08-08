@@ -76,7 +76,7 @@
 
 ### Currently Working on:
 
-* Updating skill-set; e.g. `Java` and some basic `Full-Stack Development`.
+* Updating skill-set; e.g. basic `Full-Stack Development`.
 
 *  ___2DWavePINN___: A `C++17` program which solves the __2D Wave Equation__ via a ___Physics Informed Neural Network (PINN)___. 
 

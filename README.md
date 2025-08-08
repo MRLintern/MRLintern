@@ -120,7 +120,7 @@
 #### Python
 - [Application of the U-Net Convolutional Neural Network to Classify Salt and Sediment Structures in Oil & Gas Reservoirs](https://github.com/MRLintern/Salt_and_Sediment_Classification).
 #### C++14
-- [StokesianFlow; A Modern C++ Solver which uses the Finite Element Method and the Eigen Template Library to Model a Viscous Liquid Flowing through an Open Channel/River](https://github.com/MRLintern/StokesianFlow).
+- [StokesianFlow; A Modern C++ Solver which uses the Finite Element Method and the Eigen Template Library to Model a Liquid Flowing through an Open Channel/River](https://github.com/MRLintern/StokesianFlow).
 
 
 ### High Performance Computing: Applied Mathematics and Scientific Computing

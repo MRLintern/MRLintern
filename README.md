@@ -78,11 +78,12 @@
 
 * Updating skill-set; e.g. basic `Full-Stack Development`.
 
-*  ___2DWavePINN___: A `C++17` program which solves the __2D Wave Equation__ via a ___Physics Informed Neural Network (PINN)___. 
-
 * ___SigProLib___: A `C++17` __Cross-Platform__ __Shared Library__ which can be used to perform basic signal processing operations. E.g., __Signal Processing Statistics__, __Convolution__ of two signals and __Time__ to __Frequency__ __Domain__ conversion via the __Fourier Transform__. 
 
 
+### Projects on Hold:
+
+*  ___2DWavePINN___: A `C++17` program which solves the __2D Wave Equation__ via a ___Physics Informed Neural Network (PINN)___. A lot of issues with this at present and I'm currently focusing more of my time on ___SigProLib___.
 
 ### Future Projects:
 * The following projects are ___ideas___; I might not do them.

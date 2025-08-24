@@ -76,7 +76,7 @@
 
 ### Currently Working on:
 
-* Updating skill-set; e.g. basic `Full-Stack Development`.
+* Updating skill-set; currently looking at `C++23`. It still feals very much like `C++` but with hints of `Rust` and `Python`; really cool and very nice!
 
 * ___SigProLib___: A `C++17` __Cross-Platform__ __Shared Library__ which can be used to perform basic signal processing operations. E.g., __Signal Processing Statistics__, __Convolution__ of two signals and __Time__ to __Frequency__ __Domain__ conversion via the __Fourier Transform__. 
 

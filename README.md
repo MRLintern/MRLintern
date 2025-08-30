@@ -59,7 +59,7 @@
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/></a>
     </td>
-  </tr>
+  </tr>Software which uses OpenMP to parallelise the three classic Algebraic Iterative Methods: Jacobi, Gauss-Seidel & Successive Over Relaxation, for solving Systems of the form Ax = b 
 </table>
 
 <br />
@@ -126,8 +126,8 @@
 - [StokesianFlow; A Modern C++ Solver which uses the Finite Element Method and the Eigen Template Library to Model a Liquid Flowing through an Open Channel/River](https://github.com/MRLintern/StokesianFlow).
 
 #### C++20
-- [Parallel_Linear_Solver:](https://github.com/MRLintern/Parallel_Linear_Solver). 
-
+- [Parallel_Linear_Solver: C++20 Software which uses OpenMP to Parallelise the 3 Classic Algebraic Iterative Methods: Jacobi, Gauss-Seidel and Successive Over Relaxation](https://github.com/MRLintern/Parallel_Linear_Solver). 
+Software which uses OpenMP to parallelise the three classic Algebraic Iterative Methods: Jacobi, Gauss-Seidel & Successive Over Relaxation, for solving Systems of the form Ax = b 
 
 ### High Performance Computing: Applied Mathematics and Scientific Computing
 #### C

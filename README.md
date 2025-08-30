@@ -127,7 +127,6 @@
 
 #### C++20
 - [Parallel_Linear_Solver: C++20 Software which uses OpenMP to Parallelise the 3 Classic Algebraic Iterative Methods: Jacobi, Gauss-Seidel and Successive Over Relaxation](https://github.com/MRLintern/Parallel_Linear_Solver). 
-Software which uses OpenMP to parallelise the three classic Algebraic Iterative Methods: Jacobi, Gauss-Seidel & Successive Over Relaxation, for solving Systems of the form Ax = b 
 
 ### High Performance Computing: Applied Mathematics and Scientific Computing
 #### C

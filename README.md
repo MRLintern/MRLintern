@@ -10,6 +10,7 @@
 * I'm also interested in __Computational Science__; it takes the best parts of __Computer Science__ and combines them with __Science__ and __Engineering__.
 ---
 ## Interests
+---
 - The table below shows tools and technologies I like working with:
 
 <table>
@@ -73,7 +74,7 @@
 
 ---
 ## What I'm Up To
-
+---
 ### Currently Working on:
 
 * Updating skill-set; currently looking at `C++23`. It still feals very much like `C++` but with hints of `Rust` and `Python`; really cool and very nice!
@@ -109,10 +110,12 @@
 
 ---
 ## Top Languages
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRLintern&layout=compact&theme=rose_pine&hide=jupyter%20notebook,javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## Sample Projects
+---
 * Some projects I'm quite chuffed of can be found below:
 
 ### Scientific Computing

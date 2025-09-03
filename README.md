@@ -5,6 +5,7 @@
 * <lintern121184@gmail.com>
 ---
 ## About Me
+---
 * __Geophysicist__ by trade who fell into __Data Science, Machine Learning__ and __Data Engineering__.
 * My real passion is __Software Engineering__ using __Modern C++__, and using it to solve problems in __Applied Mathematics__, the __Physical Sciences__ and aspects of __Engineering__.
 * I'm keen to start learning more about __Systems Programming and Engineering__, so I'll be looking at some systems-level projects, such as developing a __Compiler__ and __Operating System__, for example.

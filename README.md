@@ -97,15 +97,15 @@
 
 * Refactoring [1D_Wave_Equation-MPI](https://github.com/MRLintern/1D_Wave-Equation-MPI) into a more __modular__ form. Additions to be added: `Unit Testing` and `Plotting`.
 
-* ___Tsunami-Solver___: A `C++17` Non-Linear Solver which models __Tsunamis__ by solving the __2D Shallow Water Equations__.
+* ___TsunamiSolver___: A `C++17` Non-Linear Solver which models __Tsunamis__ by solving the __2D Shallow Water Equations__.
 
 
-* ___Ocean-Kit___: A `C++17` __Library__ which helps users solve __Partial Differential Equations (PDEs)__ that model different __2D Ocean Models__.
+* ___OceanLib___: A `C++17` __Library__ which helps users solve __Partial Differential Equations (PDEs)__ that model different __2D Ocean Models__.
 
 * Developing a __Modern (Pure) Modular Fortran__ version of [NavierStokes-2D-Open-Channel-Flow](https://github.com/MRLintern/NavierStokes-2D-Open-Channel-Flow) using __OOD__. Unlike the original solver, this one uses ___Coarrays___ and ___Domain Decomposition___ for `Parallelism`.
 
 
-* ___Barotropic-Circulation___: A `C++17` solver which models __Large-Scale Ocean Gyres__ and __Wind-Driven Circulation__ by solving the __Linearized Shallow Water Equations__ on a __Beta Plane__ using __FEM__.
+* ___BarotropicCirculation___: A `C++17` solver which models __Large-Scale Ocean Gyres__ and __Wind-Driven Circulation__ by solving the __Linearized Shallow Water Equations__ on a __Beta Plane__ using __FEM__.
 
 * ___basix___: a small __Linux Kernal__ written in __C__.
 

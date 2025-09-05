@@ -64,7 +64,7 @@
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/></a>
     </td>
-  </tr>Software which uses OpenMP to parallelise the three classic Algebraic Iterative Methods: Jacobi, Gauss-Seidel & Successive Over Relaxation, for solving Systems of the form Ax = b 
+  </tr> 
 </table>
 
 <br />

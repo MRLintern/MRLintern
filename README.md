@@ -2,8 +2,8 @@
 ---
 ## Contact Me:
 ---
-
-* <lintern121184@gmail.com>
+* Telephone (Mob): 07813661626. 
+* <lintern121184@gmail.com>.
 ---
 ## About Me
 ---

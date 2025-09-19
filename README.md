@@ -85,7 +85,7 @@
 
 * ___BVPLib___: A `C++20` __Library__ for solving __Boundary Value Problems__, using modern features, such as `modules`, rather than using traditional methods, such as `header files`.
 
-* ___SigProLib___: A `C++17` __Cross-Platform__ __Shared Library__ which can be used to perform basic signal processing operations. E.g., __Signal Processing Statistics__, __Convolution__ of two signals and __Time__ to __Frequency__ __Domain__ conversion via the __Fourier Transform__. 
+* ___SigProLib___: A `C++17` __Cross-Platform__ __Shared Library__ which can be used to perform basic signal processing operations. E.g., __Signal Processing Statistics__, __Convolution__ of two signals and __Time__ to __Frequency__ __Domain__ conversion via the __Fourier Transform__. Go [here](https://github.com/MRLintern/SigProLib) to see it.
 
 
 ### Projects on Hold:

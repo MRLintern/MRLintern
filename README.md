@@ -81,7 +81,7 @@
 ---
 ### Currently Working on:
 
-* ___Beginning_CPP23 - For Scientists and Engineers___; A tutorial for myself and others which follows the book, ___Beginning C++23___ by __Ivor Horton__ and __Peter Van Weert__. The only difference is I look at __scientific__ and __engineering problems__. Go [here](https://github.com/MRLintern/Beginning_CPP23) to see it.
+* ___Beginning_CPP23 - For Scientists and Engineers___; A tutorial for myself and others which follows the book, ___Beginning C++23___ by __Ivor Horton__ and __Peter Van Weert__. The only difference is I look at __Scientific__ and __Engineering Problems__. Go [here](https://github.com/MRLintern/Beginning_CPP23) to see it.
 
 * ___BVPLib___: A `C++20` __Library__ for solving __Boundary Value Problems__, using modern features, such as `modules`, rather than using traditional methods, such as `header files`.
 

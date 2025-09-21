@@ -127,7 +127,8 @@
 
 ### Scientific Computing
 #### MATLAB
-- [Application of the Shallow Water Equations to Problems in Oceanography & Planetary Atmospheres](https://github.com/MRLintern/Shallow_Water_Equations). This software has been used by a chap in China for his Ph.D in Hydrogeology. Please ask for information on the details of his Ph.D and its use.
+- [GeoFluidics](https://github.com/MRLintern/GeoFluidics).
+    - Application of the Shallow Water Equations to Problems in Oceanography & Planetary Atmospheres.
 #### Fortran
 - [Navier-Stokes Equation Solver for 2D Open Channel Flow](https://github.com/MRLintern/NavierStokes-2D-ChannelFlow).
 #### Python

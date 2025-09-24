@@ -2,7 +2,7 @@
 ---
 ## Contact Me:
 ---
-* Telephone (Mob): __07813661626__. 
+* __Telephone__: __07813661626__. 
 * __Email 1__: <lintern121184@gmail.com>.
 * __Email 2__: <programmagablescience@yahoo.com>.
 * [LinkedIn](https://www.linkedin.com/in/matthew-lintern-monro-585592159/).

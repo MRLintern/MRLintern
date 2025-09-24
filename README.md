@@ -83,9 +83,6 @@
 ---
 ### Currently Working on:
 
-* ___Beginning_CPP23 - For Scientists and Engineers___; A tutorial for myself and others which follows the book, ___Beginning C++23___ by __Ivor Horton__ and __Peter Van Weert__. The only difference is I look at __Scientific__ and __Engineering Problems__. Go [here](https://github.com/MRLintern/Beginning_CPP23) to see it.
-
-
 * ___SigProLib___: A `C++17` __Cross-Platform__ __Shared Library__ which can be used to perform basic signal processing operations. E.g., __Signal Processing Statistics__, __Convolution__ of two signals and __Time__ to __Frequency__ __Domain__ conversion via the __Fourier Transform__. Go [here](https://github.com/MRLintern/SigProLib) to see it.
 
 

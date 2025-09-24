@@ -88,10 +88,13 @@
 
 ### Projects on Hold:
 
-*  ___2DWavePINN___: A `C++17` program which solves the __2D Wave Equation__ via a ___Physics Informed Neural Network (PINN)___. A lot of issues with this at present and I'm currently focusing more of my time on ___SigProLib___.
-
+*  Nothing at the moment.
+  
 ### Future Projects:
 * The following projects are ___ideas___; I might not do them.
+
+*  ___2DWavePINN___: A `C++17` program which solves the __2D Wave Equation__ via a ___Physics Informed Neural Network (PINN)___. A lot of issues with this at present and I'm currently focusing more of my time on ___SigProLib___.
+
 
 *  ___BVPLib___: A `C++20` __Library__ for solving __Boundary Value Problems__, using modern features, such as `modules`, rather than using traditional methods, such as `header files`.
 

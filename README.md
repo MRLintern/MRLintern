@@ -14,6 +14,20 @@
 * I'm keen to start learning more about __Systems Programming and Engineering__, so I'll be looking at some systems-level projects, such as developing a __Compiler__ and __Operating System__, for example.
 * I'm also interested in __Computational Science__; it takes the best parts of __Computer Science__ and combines them with __Science__ and __Engineering__.
 
+### Education
+---
+* __University of Edinburgh__: ___PG ProfDev High Performance Computing___: __September 2020 - September 2022__
+    - Modules covered:
+        - `OpenMP`, `MPI`, `Parallel Architectures`, `GPU Computing`, `Compilers`, `Numerical/Scientific Computing` and `High Performance C` and `Fortran`.
+* __University of Aberdeen__: ___MSc Geophysics___: __September 2014 - July 2015__.
+  - Thesis undertook with ___Centrica plc___:
+  - ___Forward Modelling of the Seismic Response of the Sherwood Sandstone Group of the Rhyl Gas Field___.
+    - __Skills__: `Fortran`, `Forward Modelling`, `Rock Mechanics` and `Quantitative Interpretation`.
+* __University of Liverpool__: ___BSc(Hons) Geophysics with Physics___: __September 2009 - July 2012__.
+  - __Thesis__: ___Secular Variation and Core-Surface Flow Modelling___.
+  - __Skills__: `Geomagnetism`, `Inverse Theory`, `Fortran`, `Numerical Methods` and `Fluid Dynamics`.
+  
+
 ---
 ## Interests
 ---

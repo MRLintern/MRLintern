@@ -29,7 +29,7 @@
       
 * __University of Liverpool__: ___BSc(Hons) Geophysics with Physics___: __September 2009 - July 2012__.
   - __Thesis__: ___Secular Variation and Core-Surface Flow Modelling___.
-  - __Skills__: `Geomagnetism`, `Inverse Theory`, `Fortran`, `Numerical Methods` and `Fluid Dynamics`.
+      -  __Skills__: `Geomagnetism`, `Inverse Theory`, `Fortran`, `Numerical Methods` and `Fluid Dynamics`.
   
 
 ---

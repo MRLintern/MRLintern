@@ -17,12 +17,12 @@
 ### Education
 ---
 * __University of Edinburgh__: ___PG ProfDev High Performance Computing___: __September 2020 - September 2022__
-    - Modules covered:
+    - __Modules__ covered:
         - `OpenMP`, `MPI`, `Parallel Architectures`, `GPU Computing`, `Compilers`, `Numerical/Scientific Computing` and `High Performance C` and `Fortran`.
 
 
 * __University of Aberdeen__: ___MSc Geophysics___: __September 2014 - July 2015__.
-  - Thesis undertook with ___Centrica plc___:
+  - __Thesis__ undertook with ___Centrica plc___:
   - ___Forward Modelling of the Seismic Response of the Sherwood Sandstone Group of the Rhyl Gas Field___.
     - __Skills__: `Fortran`, `Forward Modelling`, `Rock Mechanics` and `Quantitative Interpretation`.
 

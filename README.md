@@ -103,6 +103,12 @@
 
 * ___SigProLib___: A `C++17` __Cross-Platform__ __Shared Library__ which can be used to perform basic signal processing operations. E.g., __Signal Processing Statistics__, __Convolution__ of two signals and __Time__ to __Frequency__ __Domain__ conversion via the __Fourier Transform__. Go [here](https://github.com/MRLintern/SigProLib) to see it.
 
+* ___BVPLib___: A `C++20` __Library__ for solving __Boundary Value Problems__, using modern features, such as `modules`, rather than using traditional methods, such as `header files`. This project follows the worked example in the book:
+  ___Guide to Scientific Computing in C++___, by __Joe Pitt-Francis__ and __Jonathan Whiteley__. **Note 1**: I don't feel they create a ___library___; the create more of a "header file" for __BVPs__. **Note 2**: They don't provide certain
+  source files, such as `vector.cpp` and `matrix.cpp`. These are exercises for the reader and I will be creating these too. All source code for their/that project is pure `C++11` with no use of useful APIs. I might use `Eigen` to tackle the
+  ___linear algebra___. 
+  
+
 
 ### Projects on Hold:
 
@@ -112,10 +118,6 @@
 * The following projects are ___ideas___; I might not do them.
 
 *  ___2DWavePINN___: A `C++17` program which solves the __2D Wave Equation__ via a ___Physics Informed Neural Network (PINN)___. A lot of issues with this at present and I'm currently focusing more of my time on ___SigProLib___.
-
-
-*  ___BVPLib___: A `C++20` __Library__ for solving __Boundary Value Problems__, using modern features, such as `modules`, rather than using traditional methods, such as `header files`. This project follows the worked example in the book: ___Guide to Scientific Computing in C++___, by __Joe Pitt-Francis__ and __Jonathan Whiteley__. **Note 1**: I don't feel they create a ___library___; the create more of a "header file" for __BVPs__. **Note 2**: They don't provide certain source files, such as `vector.cpp` and `matrix.cpp`. These are exercises for the reader and I will be creating these too. All source code for their/that project is pure `C++11` with no use of useful APIs. I might use `Eigen` to tackle the ___linear algebra___.
-
 
 * Refactoring [1D_Wave_Equation-MPI](https://github.com/MRLintern/1D_Wave-Equation-MPI) into a more __modular__ form. Additions to be added: `Unit Testing` and `Plotting`.
 

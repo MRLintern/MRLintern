@@ -90,10 +90,10 @@
 <br />
   
 
-- __Machine Learning (Fluid Dynamics)__. E.g. Application of __Deep Learning Algorithms/Methods__ for replacing or augmenting __Conventional Numerical Solvers__ in __Fluid Dynamics__.
+- __Machine Learning (Fluid Dynamics)__. E.g. Application of ___Deep Learning Algorithms/Methods___ for replacing or augmenting __Conventional Numerical Solvers__ in __Fluid Dynamics__.
 - __Machine Learning (Natural Language Processing)__. I've used this in a couple of jobs and it proved to be very informative. E.g. I used __Sentiment Analysis__ while working at Tesco to understand customer opinions of Tesco products.
 - __Computational Science__. 
-- __Scientific Programming__: E.g. __Modelling and Simulation__ of problems in __Fluid Dynamics__ & the __Physical Sciences__.
+- __Scientific Programming__: E.g. __Modelling and Simulation__ of problems in ___Fluid Dynamics___ & the ___Physical Sciences___.
 - __Systems-Level Programming__.
 
 ---
@@ -101,9 +101,9 @@
 ---
 ### Currently Working on:
 
-* ___SigProLib___: A `C++17` __Cross-Platform__ __Shared Library__ which can be used to perform basic signal processing operations. E.g., __Signal Processing Statistics__, __Convolution__ of two signals and __Time__ to __Frequency__ __Domain__ conversion via the __Fourier Transform__. Go [here](https://github.com/MRLintern/SigProLib) to see it.
+* ___SigProLib___: A `C++17` __Cross-Platform__ ___Shared Library___ which can be used to perform basic signal processing operations. E.g., __Signal Processing Statistics__, __Convolution__ of two signals and __Time__ to __Frequency__ __Domain__ conversion via the __Fourier Transform__. Go [here](https://github.com/MRLintern/SigProLib) to see it.
 
-* ___BVPLib___: A `C++20` __Library__ for solving __Boundary Value Problems__, using modern features, such as `modules`, rather than using traditional methods, such as `header files`. This project follows the worked example in the book:
+* ___BVPLib___: A `C++20` __Library__ for solving ___Boundary Value Problems___, using modern features, such as `modules`, rather than using traditional methods, such as `header files`. This project follows the worked example in the book:
   ___Guide to Scientific Computing in C++___, by __Joe Pitt-Francis__ and __Jonathan Whiteley__. **Note 1**: I don't feel they create a ___library___; they create more of a "header file" for __BVPs__. **Note 2**: They don't provide certain
   source files, such as `vector.cpp` and `matrix.cpp`. These are exercises for the reader and I will be creating these too. All source code for their/that project is pure `C++11` with no use of useful APIs. I might use `Eigen` to tackle the
   ___linear algebra___. 

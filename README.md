@@ -161,7 +161,7 @@
 - [StokesianFlow; A Modern C++ Solver which uses the Finite Element Method and the Eigen Template Library to Model a Liquid Flowing through an Open Channel/River](https://github.com/MRLintern/StokesianFlow).
 
 #### C++20
-- [Parallel_Linear_Solver: C++20 Software which uses OpenMP to Parallelise the 3 Classic Algebraic Iterative Methods: Jacobi, Gauss-Seidel and Successive Over Relaxation](https://github.com/MRLintern/Parallel_Linear_Solver). 
+- [ParallelLinearNumerics: C++20 Software which uses OpenMP to Parallelise the 3 Classic Algebraic Iterative Methods: Jacobi, Gauss-Seidel and Successive Over Relaxation](https://github.com/MRLintern/Parallel_Linear_Solver). 
 
 ### High Performance Computing: Applied Mathematics and Scientific Computing
 #### C

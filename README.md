@@ -147,7 +147,7 @@
 ---
 ## Sample Projects
 ---
-* Some projects I'm quite chuffed of can be found below:
+* Some projects I'm quite chuffed with can be found below:
 
 ### Scientific Computing
 #### MATLAB

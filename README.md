@@ -18,7 +18,7 @@
 ---
 * __University of Edinburgh__: ___PG ProfDev High Performance Computing___: __September 2020 - September 2022__
     - __Modules__ covered:
-        - `OpenMP`, `MPI`, `Parallel Architectures`, `GPU Computing`, `Compilers`, `Numerical/Scientific Computing` and `High Performance C` and `Fortran`.
+        - `OpenMP`, `MPI`, `Parallel Architectures`, `GPU Computing`, `Compilers`, `Numerical/Scientific Computing Algorithms` and `High Performance C` and `Fortran`.
 
 
 * __University of Aberdeen__: ___MSc Geophysics___: __September 2014 - July 2015__.

@@ -119,7 +119,7 @@
 
 * __Parallelise__ aspects/regions of the __StokesianFlow__ solver via the __OpenMP__ API.
 
-*  ___2DWavePINN___: A `C++17` program which solves the __2D Wave Equation__ via a ___Physics Informed Neural Network (PINN)___. A lot of issues with this at present and I'm currently focusing more of my time on ___SigProLib___.
+*  ___2DWavePINN___: A `C++17` program which solves the __2D Wave Equation__ via a ___Physics Informed Neural Network (PINN)___.
 
 * Refactoring [1D_Wave_Equation-MPI](https://github.com/MRLintern/1D_Wave-Equation-MPI) into a more __modular__ form. Additions to be added: `Unit Testing` and `Plotting`.
 

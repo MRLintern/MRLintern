@@ -102,16 +102,14 @@
 
 * Up-skilling; __Data Structures & Algorithms in C++17/20__.
 
+### Projects on Hold:
+
+*  ___SigProLib___: A `C++17` __Cross-Platform__ ___Shared Library___ which can be used to perform basic signal processing operations. Go [here](https://github.com/MRLintern/SigProLib) to see it. All of the signal processing techniques have now been developed. Its now a case of constructing the library itself.
+
 * ___BVPLib___: A `C++20` __Library__ for solving ___Boundary Value Problems___, using modern features, such as `modules`, rather than using traditional methods, such as `header files`. This project follows the worked example in the book:
   ___Guide to Scientific Computing in C++___, by __Joe Pitt-Francis__ and __Jonathan Whiteley__. **Note 1**: I don't feel they create a ___library___; they create more of a "header file" for __BVPs__. **Note 2**: They don't provide certain
   source files, such as `vector.cpp` and `matrix.cpp`. These are exercises for the reader and I will be creating these too. All source code for their/that project is pure `C++11` with no use of useful APIs. I might use `Eigen` to tackle the
   ___linear algebra___. 
-  
-
-
-### Projects on Hold:
-
-*  ___SigProLib___: A `C++17` __Cross-Platform__ ___Shared Library___ which can be used to perform basic signal processing operations. Go [here](https://github.com/MRLintern/SigProLib) to see it. All of the signal processing techniques have now been developed. Its now a case of constructing the library itself.
   
 ### Future Projects:
 * The following projects are ___ideas___; I might not do them.

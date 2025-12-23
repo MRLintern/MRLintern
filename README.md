@@ -101,6 +101,8 @@
 
 * Up-skilling; __Data Structures & Algorithms in C++17/20__.
 
+* ___LowLatencyNet___: A `C++20` experimental __Framework__ exploring __Low-Latency Network I/O__ on __Linux__. Go [here](https://github.com/MRLintern/LowLatencyNet) to keep updated.
+
 ### Projects on Hold:
 
 *  ___SigProLib___: A `C++17` __Cross-Platform__ ___Shared Library___ which can be used to perform basic signal processing operations. Go [here](https://github.com/MRLintern/SigProLib) to see it. All of the signal processing techniques have now been developed. Its now a case of constructing the library itself.

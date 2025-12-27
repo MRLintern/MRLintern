@@ -99,7 +99,7 @@
 ---
 ### Currently Working on:
 
-* ___Deep-Earth_HeatFlow___: A Modern __Fortran (2008+)__ solver, __Parallelising__ the __Jacobi Method__ with __OpenMP__ to model __Heat-Diffusion_ across the `Core-Mantle Boundary (CMB) of the __Earth__.
+* ___Deep-Earth_HeatFlow___: A Modern __Fortran (2008+)__ solver, __Parallelising__ the __Jacobi Method__ with __OpenMP__ to model __Heat-Diffusion__ across the __Core-Mantle Boundary (CMB)__ of the __Earth__.
 
 * ___LowLatencyNet___: A `C++20` experimental __Framework__ exploring __Low-Latency Network I/O__ on __Linux__. Go [here](https://github.com/MRLintern/LowLatencyNet) to keep updated.
 

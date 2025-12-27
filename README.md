@@ -135,14 +135,6 @@
 
 * ___ros___: a basic __Operating System__ written in __Rust__.
 
-
-
----
-## Top Languages
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRLintern&layout=compact&theme=rose_pine&hide=jupyter%20notebook,javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
----
 ## Sample Projects
 ---
 * Some projects I'm quite chuffed with can be found below:

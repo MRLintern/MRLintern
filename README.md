@@ -4,7 +4,7 @@
 ---
 * __Telephone__: __07813661626__. 
 * __Email__: <lintern121184@gmail.com>.
-* [LinkedIn](https://www.linkedin.com/in/matthew-lintern-monro-585592159/).
+
 ---
 ## About Me
 ---

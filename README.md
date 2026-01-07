@@ -99,7 +99,11 @@
 ---
 ### Currently Working on:
 
-* ___LowLatencyNet___: A `C++20` experimental __Framework__ exploring __Low-Latency Network I/O__ on __Linux__. Go [here](https://github.com/MRLintern/LowLatencyNet) to keep updated.
+* ___BVPLib___: A `C++20` __Library__ for solving ___Boundary Value Problems___, using modern features, such as `modules`, rather than using traditional methods, such as `header files`. This project follows the worked example in the book:
+  ___Guide to Scientific Computing in C++___, by __Joe Pitt-Francis__ and __Jonathan Whiteley__. **Note 1**: I don't feel they create a ___library___; they create more of a "header file" for __BVPs__. **Note 2**: They don't provide certain
+  source files, such as `vector.cpp` and `matrix.cpp`. These are exercises for the reader and I will be creating these too. All source code for their/that project is pure `C++11` with no use of useful APIs. I might use `Eigen` to tackle the
+  ___linear algebra___. 
+
 
 ### Projects on Hold:
 
@@ -108,7 +112,11 @@
 * ___BVPLib___: A `C++20` __Library__ for solving ___Boundary Value Problems___, using modern features, such as `modules`, rather than using traditional methods, such as `header files`. This project follows the worked example in the book:
   ___Guide to Scientific Computing in C++___, by __Joe Pitt-Francis__ and __Jonathan Whiteley__. **Note 1**: I don't feel they create a ___library___; they create more of a "header file" for __BVPs__. **Note 2**: They don't provide certain
   source files, such as `vector.cpp` and `matrix.cpp`. These are exercises for the reader and I will be creating these too. All source code for their/that project is pure `C++11` with no use of useful APIs. I might use `Eigen` to tackle the
-  ___linear algebra___. 
+  ___linear algebra___.
+
+
+* ___LowLatencyNet___: A `C++20` experimental __Framework__ exploring __Low-Latency Network I/O__ on __Linux__. Go [here](https://github.com/MRLintern/LowLatencyNet) to keep updated.
+
   
 ### Future Projects:
 * The following projects are ___ideas___; I might not do them.
